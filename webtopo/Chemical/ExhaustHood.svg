@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Exhaust_Hood" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g id="Hood">
+	<linearGradient id="Front_1_" gradientUnits="userSpaceOnUse" x1="-101.0967" y1="135.9531" x2="337.3561" y2="399.0248">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Front_6_" x="2.3" y="275.4" fill="url(#Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295.3" height="22.3"/>
+	<linearGradient id="Shape_Hopper_1_" gradientUnits="userSpaceOnUse" x1="10.4912" y1="186.5654" x2="489.1445" y2="415.0136">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Shape_Hopper_3_" fill="url(#Shape_Hopper_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		118.1,179.7 11,275.4 288.9,275.4 181.8,179.7 	"/>
+</g>
+<g id="Exhaust_3_">
+	<g id="Opening_5_">
+		<linearGradient id="Frame_1_" gradientUnits="userSpaceOnUse" x1="111.7129" y1="2.0264" x2="222.9157" y2="92.3784">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Frame_3_" x="119.1" y="2.2" fill="url(#Frame_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="61.7" height="61.7"/>
+		<linearGradient id="Opening_1_" gradientUnits="userSpaceOnUse" x1="149.9438" y1="111.9795" x2="149.9438" y2="77.1395">
+			<stop  offset="0" style="stop-color:#575756"/>
+			<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+			<stop  offset="0.1171" style="stop-color:#797878"/>
+			<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+			<stop  offset="0.3189" style="stop-color:#999998"/>
+			<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+			<stop  offset="0.5402" style="stop-color:#979696"/>
+			<stop  offset="0.7122" style="stop-color:#848484"/>
+			<stop  offset="0.9127" style="stop-color:#676666"/>
+			<stop  offset="1" style="stop-color:#575756"/>
+		</linearGradient>
+		
+			<rect id="Opening_6_" x="124.3" y="7.4" fill="url(#Opening_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="51.4" height="51.4"/>
+	</g>
+	<g id="Adapter_Pipe-Hood_3_">
+		
+			<linearGradient id="Reflection_On_Hood_1_" gradientUnits="userSpaceOnUse" x1="105.5977" y1="273.0176" x2="232.9697" y2="63.2881">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="0.5709" style="stop-color:#B2B2B1"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		<polygon id="Reflection_On_Hood_3_" fill="url(#Reflection_On_Hood_1_)" points="181.8,179.7 118.1,179.7 123.1,228.6 
+			176.8,228.6 		"/>
+		<linearGradient id="Connection_Hood_1_" gradientUnits="userSpaceOnUse" x1="29.3203" y1="116.6382" x2="214.2428" y2="205.0126">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Connection_Hood_3_" x="118.1" y="168.9" fill="url(#Connection_Hood_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="63.8" height="10.8"/>
+		<linearGradient id="Right_Side_1_" gradientUnits="userSpaceOnUse" x1="7.5996" y1="53.293" x2="212.448" y2="166.7008">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Right_Side_3_" fill="url(#Right_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			181.8,168.9 159.7,125 171.7,125 		"/>
+		<linearGradient id="Front_2_" gradientUnits="userSpaceOnUse" x1="112.3521" y1="126.9971" x2="211.4407" y2="201.6144">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Front_5_" fill="url(#Front_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			159.7,125 140.2,125 118.1,168.9 181.8,168.9 		"/>
+		<linearGradient id="Left_Side_1_" gradientUnits="userSpaceOnUse" x1="120.4785" y1="141.8511" x2="151.0043" y2="159.851">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Left_Side_3_" fill="url(#Left_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			118.1,168.9 140.2,125 128.1,125 		"/>
+	</g>
+	<g id="Pipe_5_">
+		<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="128.5342" y1="68.1606" x2="170.4778" y2="68.1606">
+			<stop  offset="0" style="stop-color:#A5A5A5"/>
+			<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+			<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+			<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+			<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+			<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+			<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+			<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+			<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+			<stop  offset="0.8378" style="stop-color:#868686"/>
+			<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+			<stop  offset="1" style="stop-color:#404040"/>
+		</linearGradient>
+		
+			<path id="Shape_30_" fill="url(#Shape_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M149.9,11.3c-12,0-21.8,9.8-21.8,21.8V125h43.6V33.1C171.7,21,162,11.3,149.9,11.3z"/>
+		<linearGradient id="Reflection_1_" gradientUnits="userSpaceOnUse" x1="132.6216" y1="69.3115" x2="135.7849" y2="69.3115">
+			<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+			<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+		</linearGradient>
+		<path id="Reflection_24_" fill="url(#Reflection_1_)" d="M140,14.3c0,0-4.5,2.3-7.4,6.6c0,2.8,0,103.3,0,103.3h7.4V14.3z"/>
+	</g>
+</g>
+</svg>

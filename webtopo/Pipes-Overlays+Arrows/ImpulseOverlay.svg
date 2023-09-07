@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Impulse_Overlay" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="-56.4912" y1="-56.4287" x2="410.0245" y2="410.087">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" cx="150" cy="150.1" r="148"/>
+<path id="Symbols" fill="#575756" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M105.5,190.5h-81v-81h81V190.5z M171.8,128.3h-43.5v43.5h43.5V128.3z M256.8,128.2h-43.5v43.5h43.5V128.2z"/>
+</svg>

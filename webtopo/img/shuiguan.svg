@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="224" height="97" viewBox="0 0 224 97" version="1.1">
+    <title>水管</title>
+    <defs>
+        <linearGradient x1="50.0486855%" y1="0%" x2="50.0486855%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#2C2C2C" stop-opacity="0" offset="0%"/>
+            <stop stop-color="#2C2C2C" stop-opacity="0.1" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="水管" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组" fill-rule="nonzero">
+            <g id="水管">
+                <rect id="矩形" fill="#3BA7FF" transform="translate(174.801910, 3.338993) scale(-1, 1) rotate(-180.000000) translate(-174.801910, -3.338993) " x="158.054734" y="0" width="33.4943519" height="6.6779856" rx="1.22"/>
+                <path d="M163.637126,30.0119586 L185.901479,30.0119586 L185.901479,33.9096156 C185.901479,34.8352407 185.148179,35.5856081 184.218936,35.5856081 L165.254454,35.5856081 C164.808216,35.5856081 164.380255,35.4090308 164.064717,35.0947212 C163.749178,34.7804117 163.571911,34.3541164 163.571911,33.9096156 L163.571911,30.0119586 L163.637126,30.0119586 Z" id="路径" fill="#BCBCBC" transform="translate(174.736695, 32.798783) scale(-1, 1) rotate(-180.000000) translate(-174.736695, -32.798783) "/>
+                <rect id="矩形" fill="#383838" transform="translate(174.801910, 27.244622) scale(-1, 1) rotate(-180.000000) translate(-174.801910, -27.244622) " x="166.428322" y="24.4642935" width="16.747176" height="5.56065727"/>
+                <path d="M162.698032,6.6779856 L186.879702,6.6779856 C187.600045,6.6779856 188.183999,7.25966575 188.183999,7.97720458 L188.183999,24.4642935 L161.393735,24.4642935 L161.393735,7.97720458 C161.393735,7.25966575 161.977688,6.6779856 162.698032,6.6779856 Z" id="路径" fill="#2791FD" transform="translate(174.788867, 15.571140) scale(-1, 1) rotate(-180.000000) translate(-174.788867, -15.571140) "/>
+                <rect id="矩形" fill="url(#linearGradient-1)" transform="translate(174.788867, 8.899650) scale(-1, 1) rotate(-180.000000) translate(-174.788867, -8.899650) " x="161.393735" y="6.6779856" width="26.7902644" height="4.44332894"/>
+                <polygon id="路径" fill="#E2E2E2" transform="translate(100.137417, 53.911092) scale(-1, 1) translate(-100.137417, -53.911092) " points="152.459299 92.9980951 47.8155351 73.4578416 47.8155351 34.3643422 152.459299 14.8240886"/>
+                <rect id="矩形" fill="#E2E2E2" transform="translate(178.616979, 53.904596) scale(-1, 1) translate(-178.616979, -53.904596) " x="152.459299" y="34.3643422" width="52.3153604" height="39.0805071"/>
+                <rect id="矩形" fill="#E2E2E2" transform="translate(28.198905, 53.911092) scale(-1, 1) translate(-28.198905, -53.911092) " x="8.58227553" y="14.8240886" width="39.2332596" height="78.1740065"/>
+                <rect id="矩形" fill="#989898" transform="translate(45.363456, 53.904596) scale(-1, 1) translate(-45.363456, -53.904596) " x="38.4245953" y="11.563049" width="13.8777221" height="84.6830936" rx="4.27"/>
+                <rect id="矩形" fill="#989898" transform="translate(6.938861, 53.904596) scale(-1, 1) translate(-6.938861, -53.904596) " x="6.67910172e-13" y="11.563049" width="13.8777221" height="84.6830936" rx="4.27"/>
+                <rect id="矩形" fill="#383838" transform="translate(208.054967, 53.917588) scale(-1, 1) translate(-208.054967, -53.917588) " x="204.787702" y="31.1162947" width="6.53452894" height="45.6025865" rx="1"/>
+                <rect id="矩形" fill="#989898" transform="translate(217.661116, 53.911092) scale(-1, 1) translate(-217.661116, -53.911092) " x="211.322231" y="24.5942154" width="12.6777687" height="58.6337529" rx="1"/>
+            </g>
+        </g>
+    </g>
+</svg>

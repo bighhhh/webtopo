@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[8847],{68847:function(e,t,a){e.exports=a.p+"fonts/quartz regular.29381b70.ttf"}}]);

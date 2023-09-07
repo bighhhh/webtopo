@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Cool_Fan_Front" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Housing_Front_1_" gradientUnits="userSpaceOnUse" x1="-56.4902" y1="-80.7329" x2="510.3399" y2="552.7188">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<rect id="Housing_Front" x="2.4" y="2.4" fill="url(#Housing_Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295.2" height="295.2"/>
+<linearGradient id="Fan_Compartment_1_" gradientUnits="userSpaceOnUse" x1="237.0156" y1="237.043" x2="154.8385" y2="154.8659">
+	<stop  offset="0" style="stop-color:#6B6B6A"/>
+	<stop  offset="1" style="stop-color:#434343"/>
+</linearGradient>
+<path id="Fan_Compartment" fill="url(#Fan_Compartment_1_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M282.5,150c0,73.2-59.3,132.5-132.5,132.5S17.5,223.2,17.5,150C17.5,76.8,76.8,17.5,150,17.5S282.5,76.8,282.5,150z"/>
+<linearGradient id="Hollow_Ring_1_" gradientUnits="userSpaceOnUse" x1="263.8105" y1="263.8389" x2="51.347" y2="51.3754">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Hollow_Ring" fill="url(#Hollow_Ring_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M150,9.3C72.3,9.3,9.3,72.3,9.3,150c0,77.7,63,140.7,140.7,140.7c77.7,0,140.7-63,140.7-140.7C290.7,72.3,227.7,9.3,150,9.3z
+	 M150,282.6c-73.2,0-132.5-59.3-132.5-132.5C17.5,76.8,76.8,17.5,150,17.5S282.5,76.8,282.5,150C282.5,223.2,223.2,282.6,150,282.6z
+	"/>
+<linearGradient id="Motor_Inside_Front_1_" gradientUnits="userSpaceOnUse" x1="84.2041" y1="84.2324" x2="166.5837" y2="166.612">
+	<stop  offset="0" style="stop-color:#8C8C91"/>
+	<stop  offset="1" style="stop-color:#434343"/>
+</linearGradient>
+<circle id="Motor_Inside_Front" fill="url(#Motor_Inside_Front_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="150" cy="150" r="59.9"/>
+<g id="Fan">
+	<linearGradient id="Blade_6_1_" gradientUnits="userSpaceOnUse" x1="54.5151" y1="63.6465" x2="131.2262" y2="145.4741">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Blade_6" fill="url(#Blade_6_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M113.8,61c-17.8-10.1-42-5.8-57.4,0.8C44.6,74.4,36,89.5,30,106c15.4-6.6,41.9-19.8,61.7-6.6c26.5,17.6,37.5,48.5,37.5,48.5
+		l13.4-21.9C142.5,125.9,142.4,77.3,113.8,61z"/>
+	<linearGradient id="Blade_5_1_" gradientUnits="userSpaceOnUse" x1="46.9536" y1="143.3384" x2="100.9711" y2="200.9588">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Blade_5" fill="url(#Blade_5_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M55.3,136.8c-19.4,12-26.6,35.3-28.8,50.6C31,202.9,42,220.8,53,233.8c2.2-17.6,4.4-46.3,24.2-57.3c28.4-15.8,61.9-11,61.9-11
+		l-13.2-21.9C125.9,143.6,83.9,119.2,55.3,136.8z"/>
+	<linearGradient id="Blade_4_1_" gradientUnits="userSpaceOnUse" x1="107.3418" y1="187.7378" x2="181.3663" y2="266.6998">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Blade_4" fill="url(#Blade_4_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M132.4,167.7c0,0-41.9,24.2-41.9,57.3c0,22,18.3,41,30.7,50.7c8.9,2.2,17.8,2.2,28.8,2.2c8.8,0,14.7-0.7,22-2.1
+		c-13.2-9-35.3-28.8-35.3-50.8c0-33.1,22-57.3,22-57.3H132.4z"/>
+	<linearGradient id="Blade_3_1_" gradientUnits="userSpaceOnUse" x1="166.9849" y1="154.9214" x2="243.7771" y2="236.8357">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Blade_3" fill="url(#Blade_3_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M269,194.4c-14.9,7.2-41.8,15-61.9,4.1c-28.4-15.4-37.3-46.3-37.3-46.3l-15.4,22c0,0,1.2,48.8,29.5,65.8c19,11.4,43.2,4.7,58.6-1.7
+		C254.4,225.8,263,210.9,269,194.4z"/>
+	<linearGradient id="Blade_2_1_" gradientUnits="userSpaceOnUse" x1="199.4043" y1="100.6816" x2="252.743" y2="157.578">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Blade_2" fill="url(#Blade_2_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M273.4,112.7C268,94.9,258,81.7,247,68.5c-2.2,15.4,0.1,42-24.2,55.1c-28.7,15.4-61.9,13.2-61.9,13.2l13.2,19.8
+		c0,0,39.8,24.3,68.5,8.8C262.6,154.7,271.2,128,273.4,112.7z"/>
+	<linearGradient id="Blade_1_1_" gradientUnits="userSpaceOnUse" x1="118.6958" y1="32.0664" x2="192.6451" y2="110.9481">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Blade_1" fill="url(#Blade_1_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M128,23.4c13.2,8.8,35.3,28.7,35.3,50.7c0,33.1-22,57.3-22,57.3h26.5c0,0,41.9-24.2,41.9-57.3c0-22-17.6-41.9-30.9-50.7
+		c-8.8-2.2-15.4-2.2-26.5-2.2C143.4,21.2,136.8,21.2,128,23.4z"/>
+</g>
+<g id="Centre_Cover__x2B__Axle">
+	<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="126.0015" y1="126.0298" x2="169.4362" y2="169.4646">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<circle id="Shape" fill="url(#Shape_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="150" cy="150" r="27.7"/>
+	<linearGradient id="Centre_Hollow_1_" gradientUnits="userSpaceOnUse" x1="166.3369" y1="175.3994" x2="131.2673" y2="120.9224">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<circle id="Centre_Hollow" fill="url(#Centre_Hollow_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="150" cy="150" r="20.7"/>
+</g>
+</svg>

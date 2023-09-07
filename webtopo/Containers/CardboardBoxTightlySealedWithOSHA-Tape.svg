@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Cardboard_Box_Tightly_Sealed_With_OSHA"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="263.5px"
+	 viewBox="0 0 300 263.5" enable-background="new 0 0 300 263.5" xml:space="preserve">
+<g id="Box_1_">
+	<linearGradient id="Small_Side_1_" gradientUnits="userSpaceOnUse" x1="395.4893" y1="654.0889" x2="225.1591" y2="-79.6418">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Small_Side" fill="url(#Small_Side_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		250.9,261.1 297.5,212.3 297.5,2.4 250.9,51.2 	"/>
+	<linearGradient id="Front_Side_1_" gradientUnits="userSpaceOnUse" x1="380.8193" y1="382.5771" x2="-474.7511" y2="-379.3815">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Front_Side" x="2.2" y="51.2" fill="url(#Front_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="248.7" height="209.9"/>
+	<linearGradient id="Top_2_" gradientUnits="userSpaceOnUse" x1="701.0625" y1="-125.855" x2="-1558.9363" y2="500.1462">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top" fill="url(#Top_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.2,51.2 250.9,51.2 297.5,2.4 48.9,2.4 	"/>
+</g>
+<g id="Tape_Front">
+	<g id="Side_1_">
+		<polygon id="Tape_3_" fill-rule="evenodd" clip-rule="evenodd" fill="#424242" points="251,137.8 251,174.5 297.9,125.6 
+			297.9,88.8 		"/>
+		<linearGradient id="Stips_Bright_4_" gradientUnits="userSpaceOnUse" x1="452.9287" y1="48.9067" x2="54.9288" y2="233.9069">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		<path id="Stips_Bright_3_" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Stips_Bright_4_)" d="M251,138l0.1-0.3l8.5-8.9
+			l-8.5,33.4V138z M276.5,111.2l-8.5,8.9l-12.8,50.3l8.5-9L276.5,111.2z M293.4,93.5l-8.5,8.9l-12.8,50.3l8.5-9L293.4,93.5z
+			 M297.9,99.7l-9,35.3l8.5-8.9l0.5-2.2V99.7z"/>
+	</g>
+	<g id="Front">
+		<rect id="Tape_2_" x="2.2" y="137.8" fill-rule="evenodd" clip-rule="evenodd" fill="#575756" width="248.8" height="36.8"/>
+		<path id="Stips_Bright_2_" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M24.9,174.5H3.3L36,137.8h21.6L24.9,174.5z
+			 M67.9,174.5H46.3L79,137.8h21.6L67.9,174.5z M110.9,174.5H89.4l32.6-36.8h21.6L110.9,174.5z M154,174.5h-21.6l32.6-36.8h21.6
+			L154,174.5z M197,174.5h-21.6l32.6-36.8h21.6L197,174.5z M2.2,137.8v13.8l12.3-13.8H2.2z M251,138l-32.4,36.5h21.6l10.9-12.2V138z
+			"/>
+	</g>
+</g>
+<g id="Tape_Top">
+	<g id="Side">
+		<polygon id="Tape_1_" fill-rule="evenodd" clip-rule="evenodd" fill="#424242" points="281.7,88.5 281.7,19 268.6,32.7 
+			268.6,102.3 		"/>
+		<linearGradient id="Stips_Bright_5_" gradientUnits="userSpaceOnUse" x1="310.3906" y1="152.4795" x2="244.0741" y2="-20.4641">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		<path id="Stips_Bright_1_" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Stips_Bright_5_)" d="M281.7,54v23.2l-13.1-21.1
+			V32.9L281.7,54z M268.6,79.5v22.8l8.5-9L268.6,79.5z M281.7,30.8V19c0,0-2.1,2.2-4.4,4.7L281.7,30.8z"/>
+	</g>
+	<g id="Top_1_">
+		<polygon id="Tape" fill-rule="evenodd" clip-rule="evenodd" fill="#575756" points="281.7,19 268.6,32.7 19.9,32.7 33,19 		"/>
+		<path id="Stips_Bright" fill="#FFFFFF" d="M255.9,19l-38.4,13.7h-17.2L238.6,19H255.9z M204.3,19l-38.4,13.7H183L221.5,19H204.3z
+			 M169.9,19l-38.4,13.7h17.2L187.1,19H169.9z M135.5,19L97.1,32.7h17.2L152.7,19H135.5z M101.1,19L62.7,32.7h17.2L118.3,19H101.1z
+			 M66.7,19L28.3,32.7h17.2L83.9,19H66.7z M281.7,19H273l-38.4,13.7h17.2l25.5-9.1L281.7,19z M49.5,19H33l-8.6,9L49.5,19z"/>
+	</g>
+</g>
+</svg>

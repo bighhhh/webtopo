@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="_x33_D_Cardboard_Box_Closed"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="298.5px"
+	 viewBox="0 0 300 298.5" enable-background="new 0 0 300 298.5" xml:space="preserve">
+<g id="Box">
+	<linearGradient id="Small_Side_1_" gradientUnits="userSpaceOnUse" x1="4.5439" y1="51.29" x2="244.8156" y2="528.6828">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Small_Side" fill="url(#Small_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.4,62.5 2.4,239 125.7,296.1 125.7,100 	"/>
+	<linearGradient id="Front_Side_1_" gradientUnits="userSpaceOnUse" x1="302.7998" y1="823.1484" x2="154.1181" y2="-255.9222">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Front_Side" fill="url(#Front_Side_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		125.7,296.1 297.7,186.3 297.7,27.5 125.7,100 	"/>
+	<linearGradient id="Top_3_" gradientUnits="userSpaceOnUse" x1="514.0664" y1="56.3779" x2="-664.7114" y2="39.3811">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top_1_" fill="url(#Top_3_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.4,62.5 125.7,100 297.7,27.5 182.2,2.4 	"/>
+</g>
+<g id="Tape_Lengthwise">
+	<linearGradient id="Top_4_" gradientUnits="userSpaceOnUse" x1="450.9404" y1="48.1079" x2="144.9135" y2="48.1079">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top" fill="url(#Top_4_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		44.6,75.3 76.8,85.1 252.4,17.7 222.2,11.1 	"/>
+	<linearGradient id="Side_2_" gradientUnits="userSpaceOnUse" x1="-39.0171" y1="-22.8862" x2="87.8141" y2="155.9379">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Side" fill="url(#Side_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		76.8,85.1 76.8,162.2 44.6,150.4 44.6,75.3 	"/>
+</g>
+<g id="Tape_Crosswise">
+	<linearGradient id="Top_5_" gradientUnits="userSpaceOnUse" x1="291.1973" y1="233.2603" x2="151.1958" y2="29.9244">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top_2_" fill="url(#Top_5_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		205.1,66.5 237.1,53 118,23.9 84.7,35 	"/>
+	<linearGradient id="Side_3_" gradientUnits="userSpaceOnUse" x1="287.4531" y1="161.1172" x2="222.1212" y2="97.4516">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<polygon id="Side_1_" fill="url(#Side_3_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		205.1,66.5 237.1,53 237.1,123.5 205.1,139.8 	"/>
+</g>
+</svg>

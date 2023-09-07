@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Motor_Base" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="59px" viewBox="0 0 300 59" enable-background="new 0 0 300 59" xml:space="preserve">
+<linearGradient id="Motor_Connection_Oblique_Rear_2_" gradientUnits="userSpaceOnUse" x1="150.0151" y1="59.3486" x2="150.0151" y2="-0.9509">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#6A6A69"/>
+</linearGradient>
+<polygon id="Motor_Connection_Oblique_Rear_1_" fill="url(#Motor_Connection_Oblique_Rear_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	24.4,41.9 29.1,7.8 271,7.8 275.7,41.9 "/>
+<g id="Front_Plate">
+	<linearGradient id="Shape_2_" gradientUnits="userSpaceOnUse" x1="-129.125" y1="-61.7925" x2="478.8671" y2="180.3062">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<polygon id="Shape_1_" fill="url(#Shape_2_)" points="209.7,41.9 206.7,39 93.3,39 90.3,41.9 2.4,41.9 2.4,56.9 297.6,56.9 
+		297.6,41.9 	"/>
+	<polygon id="Bevelled_Edge_1_" fill="#FFFFFF" points="209.7,41.9 206.7,39 93.3,39 90.3,41.9 2.4,41.9 2.4,43.8 90.3,43.8 
+		93.3,41 206.7,41 209.7,43.8 297.6,43.8 297.6,41.9 	"/>
+	
+		<polygon id="Outline_1_" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		209.7,41.9 206.7,39 93.3,39 90.3,41.9 2.4,41.9 2.4,56.9 297.6,56.9 297.6,41.9 	"/>
+</g>
+<g id="Motor_Connection_Middle">
+	<linearGradient id="Bevelled_Edge_2_" gradientUnits="userSpaceOnUse" x1="86.7349" y1="22.1074" x2="191.2521" y2="22.1074">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#6A6A69"/>
+	</linearGradient>
+	<polygon id="Bevelled_Edge" fill="url(#Bevelled_Edge_2_)" points="206.7,39 209.7,41.9 200.5,22.3 200.5,2.4 99.5,2.4 99.5,22.3 
+		90.3,41.9 93.3,39 	"/>
+	<linearGradient id="Shape_3_" gradientUnits="userSpaceOnUse" x1="149.9819" y1="43.8193" x2="149.9819" y2="-6.6338">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#6A6A69"/>
+	</linearGradient>
+	<polygon id="Shape" fill="url(#Shape_3_)" points="93.1,39.1 100.8,22.8 100.8,2.4 199.2,2.4 199.2,22.8 206.9,39.1 	"/>
+	
+		<polygon id="Outline" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		206.7,39 209.7,41.9 200.5,22.3 200.5,2.4 99.5,2.4 99.5,22.3 90.3,41.9 93.3,39 	"/>
+</g>
+</svg>

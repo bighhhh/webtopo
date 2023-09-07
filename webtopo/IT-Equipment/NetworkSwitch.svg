@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Network_Switch" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="62px" viewBox="0 0 300 62" enable-background="new 0 0 300 62" xml:space="preserve">
+<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="104.1104" y1="-34.998" x2="365.1104" y2="341.002">
+	<stop  offset="0" style="stop-color:#F4F4F4"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Shape_134_" fill="url(#Shape_1_)" d="M9.3,57.3c-2.5,0-4.6-2.1-4.6-4.6V9.3c0-2.6,2.1-4.6,4.6-4.6h281.4
+	c2.5,0,4.6,2.1,4.6,4.6v43.4c0,2.5-2.1,4.6-4.6,4.6H9.3z"/>
+<linearGradient id="Frame_1_" gradientUnits="userSpaceOnUse" x1="68.2822" y1="-100.3501" x2="144.3351" y2="21.9381">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Frame_20_" fill="url(#Frame_1_)" d="M290.7,2.4H9.2c-3.8,0-6.9,3.1-6.9,6.9v43.5c0,3.8,3.1,6.9,6.9,6.9h281.5
+	c3.8,0,6.9-3.1,6.9-6.9V9.2C297.6,5.4,294.5,2.4,290.7,2.4z M295.2,52.7c0,2.5-2.1,4.6-4.6,4.6H9.3c-2.5,0-4.6-2.1-4.6-4.6V9.3
+	c0-2.6,2.1-4.6,4.6-4.6h281.4c2.5,0,4.6,2.1,4.6,4.6V52.7z"/>
+<path id="Outline_1_" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M290.7,2.4H9.2
+	c-3.8,0-6.9,3.1-6.9,6.9v43.5c0,3.8,3.1,6.9,6.9,6.9h281.5c3.8,0,6.9-3.1,6.9-6.9V9.2C297.6,5.4,294.5,2.4,290.7,2.4z"/>
+<g id="Network_Ports_1_">
+	<linearGradient id="Panel_1_" gradientUnits="userSpaceOnUse" x1="192.9609" y1="-18.3228" x2="222.1703" y2="120.6533">
+		<stop  offset="0" style="stop-color:#F4F4F4"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="Panel_3_" fill="url(#Panel_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M201.2,49.4h-77.9V12.8
+		h77.9V49.4z M283.4,12.8h-77.9v36.6h77.9V12.8z"/>
+	<path id="Ports_1_" fill="#424242" d="M143.2,18.5v9h-15.8v-9h3.3v-1.8h1.7v-1.3h5.9v1.3h1.7v1.8H143.2z M157.9,18.5v-1.8h-1.7
+		v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9h15.8v-9H157.9z M175.9,18.5v-1.8h-1.7v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9h15.8v-9H175.9z M193.9,18.5
+		v-1.8h-1.7v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9h15.8v-9H193.9z M184.6,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9h-15.8v9H184.6z
+		 M166.6,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9h-15.8v9H166.6z M148.7,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9h-15.8v9H148.7z
+		 M130.7,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9h-15.8v9H130.7z M222.1,18.5v-1.8h-1.7v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9h15.8v-9
+		H222.1z M240.1,18.5v-1.8h-1.7v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9h15.8v-9H240.1z M258,18.5v-1.8h-1.7v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9
+		h15.8v-9H258z M276,18.5v-1.8h-1.7v-1.3h-5.9v1.3h-1.7v1.8h-3.3v9h15.8v-9H276z M266.8,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9
+		h-15.8v9H266.8z M248.8,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9h-15.8v9H248.8z M230.8,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9
+		h-15.8v9H230.8z M212.8,42.9v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3v-9h-15.8v9H212.8z"/>
+	<path id="Reflection_Lines_1_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M127.4,27.4h15.8
+		 M145.4,27.4h15.8 M163.4,27.4h15.8 M181.4,27.4h15.8 M127.4,42.9h3.3v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3 M145.4,42.9h3.3v1.8h1.7
+		V46h5.9v-1.3h1.7v-1.8h3.3 M163.4,42.9h3.3v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3 M181.4,42.9h3.3v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3
+		 M209.6,27.4h15.8 M227.5,27.4h15.8 M245.5,27.4h15.8 M263.5,27.4h15.8 M209.6,42.9h3.3v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3
+		 M227.5,42.9h3.3v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3 M245.5,42.9h3.3v1.8h1.7V46h5.9v-1.3h1.7v-1.8h3.3 M263.5,42.9h3.3v1.8h1.7V46
+		h5.9v-1.3h1.7v-1.8h3.3"/>
+</g>
+<g id="LCD_Panel_1_">
+	<linearGradient id="Panel_4_" gradientUnits="userSpaceOnUse" x1="37.2666" y1="-7.8701" x2="127.2668" y2="289.4631">
+		<stop  offset="0" style="stop-color:#F4F4F4"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Panel_2_" x="15.5" y="12.8" fill="url(#Panel_4_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" width="67.1" height="36.6"/>
+	<linearGradient id="LCD_Lights_2_" gradientUnits="userSpaceOnUse" x1="23.2559" y1="-18.4282" x2="78.4332" y2="86.7155">
+		<stop  offset="0" style="stop-color:#F4F4F4"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="LCD_Lights_1_" fill="url(#LCD_Lights_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M24.5,19.8
+		h-5.5v-2.1h5.5V19.8z M32.3,17.7h-5.5v2.1h5.5V17.7z M40.1,17.7h-5.5v2.1h5.5V17.7z M47.9,17.7h-5.5v2.1h5.5V17.7z M55.7,17.7h-5.5
+		v2.1h5.5V17.7z M63.6,17.7H58v2.1h5.5V17.7z M71.4,17.7h-5.5v2.1h5.5V17.7z M79.2,17.7h-5.5v2.1h5.5V17.7z M24.5,23.4h-5.5v2.1h5.5
+		V23.4z M32.3,23.4h-5.5v2.1h5.5V23.4z M40.1,23.4h-5.5v2.1h5.5V23.4z M47.9,23.4h-5.5v2.1h5.5V23.4z M55.7,23.4h-5.5v2.1h5.5V23.4z
+		 M63.6,23.4H58v2.1h5.5V23.4z M71.4,23.4h-5.5v2.1h5.5V23.4z M79.2,23.4h-5.5v2.1h5.5V23.4z M24.5,35.9h-5.5v2.1h5.5V35.9z
+		 M32.3,35.9h-5.5v2.1h5.5V35.9z M40.1,35.9h-5.5v2.1h5.5V35.9z M47.9,35.9h-5.5v2.1h5.5V35.9z M55.7,35.9h-5.5v2.1h5.5V35.9z
+		 M63.6,35.9H58v2.1h5.5V35.9z M71.4,35.9h-5.5v2.1h5.5V35.9z M79.2,35.9h-5.5v2.1h5.5V35.9z M24.5,41.7h-5.5v2.1h5.5V41.7z
+		 M32.3,41.7h-5.5v2.1h5.5V41.7z M40.1,41.7h-5.5v2.1h5.5V41.7z M47.9,41.7h-5.5v2.1h5.5V41.7z M55.7,41.7h-5.5v2.1h5.5V41.7z
+		 M63.6,41.7H58v2.1h5.5V41.7z M71.4,41.7h-5.5v2.1h5.5V41.7z M79.2,41.7h-5.5v2.1h5.5V41.7z"/>
+</g>
+</svg>

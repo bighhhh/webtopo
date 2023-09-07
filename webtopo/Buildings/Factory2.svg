@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Factory_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g id="Chimneys">
+	<linearGradient id="Chimney_Right_1_" gradientUnits="userSpaceOnUse" x1="231.6699" y1="114.0869" x2="257.7544" y2="114.0869">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Chimney_Right" fill="url(#Chimney_Right_1_)" stroke="#646567" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+		268.7,225.8 234.9,225.8 240.9,2.4 262.7,2.4 	"/>
+	<linearGradient id="Chimney_Left_1_" gradientUnits="userSpaceOnUse" x1="179.1948" y1="114.0869" x2="205.279" y2="114.0869">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Chimney_Left" fill="url(#Chimney_Left_1_)" stroke="#646567" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+		216.2,225.8 182.4,225.8 188.5,2.4 210.2,2.4 	"/>
+</g>
+<g id="Factory_Hall_Back">
+	<linearGradient id="Structure_2_" gradientUnits="userSpaceOnUse" x1="32.8916" y1="176.1616" x2="114.1025" y2="256.9913">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Structure_1_" x="2.4" y="139.3" fill="url(#Structure_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" width="145.9" height="158.3"/>
+	<linearGradient id="Windows_2_" gradientUnits="userSpaceOnUse" x1="75.3477" y1="240.085" x2="75.3477" y2="166.9464">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+		<stop  offset="0.1171" style="stop-color:#797878"/>
+		<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3189" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5402" style="stop-color:#979696"/>
+		<stop  offset="0.7122" style="stop-color:#848484"/>
+		<stop  offset="0.9127" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	<path id="Windows_1_" fill="url(#Windows_2_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M41.3,164.5H14.9
+		v-15.7h26.5V164.5z M72.8,164.5H46.4v-15.7h26.5V164.5z M104.3,164.5H77.9v-15.7h26.5V164.5z M135.8,164.5h-26.5v-15.7h26.5V164.5z
+		 M41.3,187.9H14.9v-15.7h26.5V187.9z M72.8,187.9H46.4v-15.7h26.5V187.9z M104.3,187.9H77.9v-15.7h26.5V187.9z M135.8,187.9h-26.5
+		v-15.7h26.5V187.9z"/>
+	<path id="Shadow_Windows_1_" fill="#424242" d="M40.9,151.4H15.3v-2.2h25.7V151.4z M72.4,149.2H46.8v2.2h25.7V149.2z M103.9,149.2
+		H78.3v2.2h25.7V149.2z M135.4,149.2h-25.7v2.2h25.7V149.2z M40.9,172.5H15.3v2.2h25.7V172.5z M72.4,172.5H46.8v2.2h25.7V172.5z
+		 M103.9,172.5H78.3v2.2h25.7V172.5z M135.4,172.5h-25.7v2.2h25.7V172.5z"/>
+	<linearGradient id="Roof_Structure_1_" gradientUnits="userSpaceOnUse" x1="71.9243" y1="117.3237" x2="77.1841" y2="138.5376">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Roof_Structure" x="30.3" y="123" fill="url(#Roof_Structure_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" width="90.2" height="16.2"/>
+	<g id="Rolling_Gate">
+		<linearGradient id="Gate_1_" gradientUnits="userSpaceOnUse" x1="43.8691" y1="465.207" x2="43.8691" y2="215.3492">
+			<stop  offset="0" style="stop-color:#575756"/>
+			<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+			<stop  offset="0.1171" style="stop-color:#797878"/>
+			<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+			<stop  offset="0.3189" style="stop-color:#999998"/>
+			<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+			<stop  offset="0.5402" style="stop-color:#979696"/>
+			<stop  offset="0.7122" style="stop-color:#848484"/>
+			<stop  offset="0.9127" style="stop-color:#676666"/>
+			<stop  offset="1" style="stop-color:#575756"/>
+		</linearGradient>
+		
+			<rect id="Gate" x="14.9" y="245.5" fill="url(#Gate_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="58" height="52.1"/>
+		<path id="Separate_Elements" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M16.3,250.7h55.2
+			 M16.3,255.9h55.2 M16.3,261.1h55.2 M16.3,266.3h55.2 M16.3,271.5h55.2 M16.3,276.8h55.2 M16.3,282h55.2 M16.3,287.2h55.2
+			 M16.3,292.4h55.2"/>
+	</g>
+</g>
+<g id="Factory_Hall_Front">
+	<linearGradient id="Structure_3_" gradientUnits="userSpaceOnUse" x1="138.2871" y1="205.0547" x2="366.2875" y2="382.4606">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<polygon id="Structure" fill="url(#Structure_3_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+		84.9,218.2 138.1,194.9 138.1,218.2 191.2,194.9 191.2,218.2 244.4,194.9 244.4,218.2 297.6,194.9 297.6,297.6 84.9,297.6 	"/>
+	<linearGradient id="Roof_Elements_1_" gradientUnits="userSpaceOnUse" x1="371.0596" y1="312.5547" x2="177.5598" y2="201.0549">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	<path id="Roof_Elements" fill="url(#Roof_Elements_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="
+		M84.9,218.2l53.2-23.3v4.5l-53.2,23.5V218.2z M138.1,222.9l53.2-23.5v-4.5l-53.2,23.3V222.9z M191.2,222.9l53.2-23.5v-4.5
+		l-53.2,23.3V222.9z M244.4,222.9l53.2-23.5v-4.5l-53.2,23.3V222.9z"/>
+	<linearGradient id="Window_Frames_1_" gradientUnits="userSpaceOnUse" x1="191.2485" y1="264.6392" x2="191.2485" y2="289.7963">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="Window_Frames" fill="url(#Window_Frames_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="
+		M154.1,270.9H89.4v-34.6h64.7V270.9z M223.6,236.3h-64.7v34.6h64.7V236.3z M293.1,236.3h-64.7v34.6h64.7V236.3z"/>
+	<linearGradient id="Windows_3_" gradientUnits="userSpaceOnUse" x1="191.1831" y1="316" x2="191.1831" y2="241.4207">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+		<stop  offset="0.1171" style="stop-color:#797878"/>
+		<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3189" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5402" style="stop-color:#979696"/>
+		<stop  offset="0.7122" style="stop-color:#848484"/>
+		<stop  offset="0.9127" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	<path id="Windows" fill="url(#Windows_3_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M105.3,252.1H92.1
+		v-13.3h13.3V252.1z M105.3,254.8H92.1v13.3h13.3V254.8z M120.7,238.8h-13.3v13.3h13.3V238.8z M120.7,254.8h-13.3v13.3h13.3V254.8z
+		 M136,238.8h-13.3v13.3H136V238.8z M136,254.8h-13.3v13.3H136V254.8z M151.3,238.8h-13.3v13.3h13.3V238.8z M151.3,254.8h-13.3v13.3
+		h13.3V254.8z M174.8,238.8h-13.3v13.3h13.3V238.8z M174.8,254.8h-13.3v13.3h13.3V254.8z M190.2,238.8h-13.3v13.3h13.3V238.8z
+		 M190.2,254.8h-13.3v13.3h13.3V254.8z M205.5,238.8h-13.3v13.3h13.3V238.8z M205.5,254.8h-13.3v13.3h13.3V254.8z M220.8,238.8
+		h-13.3v13.3h13.3V238.8z M220.8,254.8h-13.3v13.3h13.3V254.8z M244.3,238.8H231v13.3h13.3V238.8z M244.3,254.8H231v13.3h13.3V254.8
+		z M259.6,238.8h-13.3v13.3h13.3V238.8z M259.6,254.8h-13.3v13.3h13.3V254.8z M275,238.8h-13.3v13.3H275V238.8z M275,254.8h-13.3
+		v13.3H275V254.8z M290.3,238.8H277v13.3h13.3V238.8z M290.3,254.8H277v13.3h13.3V254.8z"/>
+	<path id="Shadow_Windows" fill="#424242" d="M105,256.8H92.4v-1.6H105V256.8z M120.3,255.2h-12.5v1.6h12.5V255.2z M135.6,255.2
+		h-12.5v1.6h12.5V255.2z M151,255.2h-12.5v1.6H151V255.2z M105,239.2H92.4v1.6H105V239.2z M120.3,239.2h-12.5v1.6h12.5V239.2z
+		 M135.6,239.2h-12.5v1.6h12.5V239.2z M151,239.2h-12.5v1.6H151V239.2z M174.5,255.2h-12.5v1.6h12.5V255.2z M189.8,255.2h-12.5v1.6
+		h12.5V255.2z M205.1,255.2h-12.5v1.6h12.5V255.2z M220.5,255.2h-12.5v1.6h12.5V255.2z M174.5,239.2h-12.5v1.6h12.5V239.2z
+		 M189.8,239.2h-12.5v1.6h12.5V239.2z M205.1,239.2h-12.5v1.6h12.5V239.2z M220.5,239.2h-12.5v1.6h12.5V239.2z M243.9,255.2h-12.5
+		v1.6h12.5V255.2z M259.3,255.2h-12.5v1.6h12.5V255.2z M274.6,255.2h-12.5v1.6h12.5V255.2z M289.9,255.2h-12.5v1.6h12.5V255.2z
+		 M243.9,239.2h-12.5v1.6h12.5V239.2z M259.3,239.2h-12.5v1.6h12.5V239.2z M274.6,239.2h-12.5v1.6h12.5V239.2z M289.9,239.2h-12.5
+		v1.6h12.5V239.2z"/>
+	<linearGradient id="Base_1_" gradientUnits="userSpaceOnUse" x1="177.5942" y1="236.1777" x2="202.2612" y2="336.5114">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Base" x="84.9" y="285.8" fill="url(#Base_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" width="212.7" height="11.7"/>
+</g>
+</svg>

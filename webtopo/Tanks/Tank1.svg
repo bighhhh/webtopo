@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Tank_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="281px" viewBox="0 0 300 281" enable-background="new 0 0 300 281" xml:space="preserve">
+<g id="Tank">
+	<linearGradient id="Shape_2_" gradientUnits="userSpaceOnUse" x1="5.2227" y1="146.9971" x2="298.9773" y2="146.9971">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<polygon id="Shape" fill="url(#Shape_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2,278.7 2,29.8 19.1,15.3 280.8,15.3 298,29.8 298,278.7 	"/>
+	<linearGradient id="Reflection_2_" gradientUnits="userSpaceOnUse" x1="35.8833" y1="146.9814" x2="70.6205" y2="146.9814">
+		<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+		<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+	</linearGradient>
+	<polygon id="Reflection" fill="url(#Reflection_2_)" points="83,278.2 83,29.8 90.4,15.7 45.7,15.7 32.3,29.8 32.3,278.2 	"/>
+</g>
+<path id="Reflection_Lines" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M2.4,30.5h295.2
+	 M2.4,267.1h295.2"/>
+<path id="Devider_Lines" fill="none" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M2.4,29.8h295.2 M2.4,266.4
+	h295.2"/>
+<g id="Head">
+	<linearGradient id="Shape_3_" gradientUnits="userSpaceOnUse" x1="19.5996" y1="8.7412" x2="279.4101" y2="8.7412">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<polygon id="Shape_1_" fill="url(#Shape_3_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		185.2,2.2 114.4,2.2 19.1,15.3 280.8,15.3 	"/>
+	<polygon id="Reflection_1_" fill="#FFFFFF" points="133.8,2.6 121.7,2.6 46.3,14.9 90.4,14.9 	"/>
+</g>
+</svg>

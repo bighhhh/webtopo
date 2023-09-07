@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="PC_Hardware_Monitor_Big" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="300px" height="203px" viewBox="0 0 300 203" enable-background="new 0 0 300 203" xml:space="preserve">
+<g id="Base">
+	
+		<rect id="Ground_Plate_2_" x="86" y="199.2" fill="#575756" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="128" height="1.4"/>
+	<linearGradient id="Front_Plate_1_" gradientUnits="userSpaceOnUse" x1="149.9717" y1="194.1035" x2="149.9717" y2="196.187">
+		<stop  offset="0" style="stop-color:#DEDEDE"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Front_Plate" x="84" y="192.7" fill="url(#Front_Plate_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" width="132" height="3.6"/>
+	
+		<rect id="Front_3_" x="84" y="196.3" fill="#9D9D9C" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="132" height="2.9"/>
+	<linearGradient id="Shape_Socket_1_" gradientUnits="userSpaceOnUse" x1="138.4146" y1="189.2446" x2="159.9899" y2="189.2446">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<rect id="Shape_Socket_2_" x="137.6" y="185.8" fill="url(#Shape_Socket_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" width="24.7" height="6.8"/>
+	
+		<linearGradient id="Reflection_Socket_2_" gradientUnits="userSpaceOnUse" x1="726.9004" y1="363.5312" x2="729.9479" y2="363.5312" gradientTransform="matrix(1 0 0 1 -586.6992 -174.3047)">
+		<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+		<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+	</linearGradient>
+	<rect id="Reflection_Socket_1_" x="140.3" y="186.4" fill="url(#Reflection_Socket_2_)" width="3" height="5.6"/>
+</g>
+<g id="Monitor_1_">
+	<linearGradient id="Frame_2_" gradientUnits="userSpaceOnUse" x1="144.7051" y1="84.9517" x2="263.3127" y2="219.1476">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Frame_1_" x="2.4" y="2.4" fill="url(#Frame_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295.2" height="177.2"/>
+	<linearGradient id="Screen_2_" gradientUnits="userSpaceOnUse" x1="-44.2036" y1="-2.4907" x2="144.6968" y2="84.8819">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<rect id="Screen_1_" x="7.5" y="7.9" fill="url(#Screen_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="284.9" height="158.9"/>
+	<polygon id="Refection_Monitor_1_" fill="#9A9A99" points="53.2,166.4 7.9,166.4 7.9,8.2 162.2,8.2 	"/>
+	
+		<polyline id="Shadow_1_" fill="none" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		7.5,166.8 7.5,7.9 292.5,7.9 	"/>
+	
+		<polyline id="Refection_Line_1_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		292.5,7.9 292.5,166.8 7.5,166.8 	"/>
+	<linearGradient id="Company_Sign_2_" gradientUnits="userSpaceOnUse" x1="147.7783" y1="168.6558" x2="154.0851" y2="177.0423">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Company_Sign_1_" x="143" y="169.8" fill="url(#Company_Sign_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="14" height="3.5"/>
+	<linearGradient id="Element_Below_2_" gradientUnits="userSpaceOnUse" x1="146.7891" y1="176.5127" x2="180.9" y2="241.9756">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Element_Below_1_" x="2.4" y="179.5" fill="url(#Element_Below_2_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295.2" height="6.3"/>
+</g>
+</svg>

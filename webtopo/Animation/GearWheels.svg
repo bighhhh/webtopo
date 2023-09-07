@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Gear_Wheels" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="268px" viewBox="0 0 300 268" enable-background="new 0 0 300 268" xml:space="preserve">
+<g id="Small_Gear">
+	<linearGradient id="Shape_Gear_2_" gradientUnits="userSpaceOnUse" x1="148.7422" y1="116.7324" x2="334.9993" y2="302.9896">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Shape_Gear" fill="url(#Shape_Gear_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M297.6,198.3v-11.7l-18.5-4.1c-0.5-3-1.3-5.9-2.3-8.7l14-12.8l-5.8-10.1l-18,5.7c-2-2.3-4.1-4.4-6.4-6.4l5.7-18l-10.1-5.8l-12.8,14
+		c-2.8-1-5.7-1.8-8.7-2.3l-4.1-18.5h-11.7l-4.1,18.5c-3,0.5-5.9,1.3-8.7,2.3l-12.8-14l-10.1,5.8l5.7,18c-2.3,2-4.4,4.1-6.4,6.4
+		l-18-5.7l-5.8,10.1l14,12.8c-1,2.8-1.8,5.7-2.4,8.7l-18.5,4.1v11.7l18.5,4.1c0.5,3,1.3,5.9,2.4,8.7l-14,12.8l5.8,10.1l18-5.7
+		c2,2.3,4.1,4.4,6.4,6.4l-5.7,18l10.1,5.8l12.8-14c2.8,1,5.7,1.8,8.7,2.3l4.1,18.5h11.7l4.1-18.5c3-0.5,5.9-1.3,8.7-2.3l12.8,14
+		l10.1-5.8l-5.7-18c2.3-2,4.4-4.1,6.4-6.4l18,5.7l5.8-10.1l-14-12.8c1-2.8,1.8-5.7,2.3-8.7L297.6,198.3z M224.5,215.9
+		c-12.9,0-23.4-10.5-23.4-23.4c0-12.9,10.5-23.4,23.4-23.4c12.9,0,23.4,10.5,23.4,23.4C247.9,205.4,237.4,215.9,224.5,215.9z"/>
+	<linearGradient id="Hollow_Ring_2_" gradientUnits="userSpaceOnUse" x1="267.6377" y1="235.6313" x2="159.6997" y2="127.6933">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="Hollow_Ring_3_" fill="url(#Hollow_Ring_2_)" d="M224.5,149.1c-24,0-43.4,19.4-43.4,43.4c0,24,19.4,43.4,43.4,43.4
+		c24,0,43.4-19.4,43.4-43.4C267.9,168.5,248.4,149.1,224.5,149.1z M224.5,228.2c-19.7,0-35.7-16-35.7-35.7c0-19.7,16-35.7,35.7-35.7
+		c19.7,0,35.7,16,35.7,35.7C260.2,212.2,244.2,228.2,224.5,228.2z"/>
+</g>
+<g id="Big_Gear">
+	<linearGradient id="Shape_Gear_3_" gradientUnits="userSpaceOnUse" x1="16.4307" y1="16.5244" x2="217.3928" y2="217.4866">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Shape_Gear_1_" fill="url(#Shape_Gear_3_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M189.3,101.8V90.1l-24.7-7.4c-0.6-3.3-1.5-6.5-2.6-9.7l17.7-18.8l-5.8-10.1l-25.1,5.9c-2.2-2.5-4.6-4.9-7.1-7.1l5.9-25.1l-10.1-5.8
+		l-18.8,17.7c-3.1-1.1-6.4-2-9.7-2.6l-7.4-24.7H90l-7.4,24.7c-3.3,0.6-6.5,1.5-9.7,2.6L54.2,12.1l-10.1,5.8L50,43
+		c-2.5,2.2-4.9,4.6-7.1,7.1l-25.1-5.9L12,54.3L29.7,73c-1.1,3.1-2,6.4-2.6,9.7L2.4,90.1v11.7l24.7,7.4c0.6,3.3,1.5,6.5,2.6,9.7
+		L12,137.6l5.8,10.1l25.1-5.9c2.2,2.5,4.6,4.9,7.1,7.1L44.1,174l10.1,5.8l18.8-17.7c3.1,1.1,6.4,2,9.7,2.6l7.4,24.7h11.7l7.4-24.7
+		c3.3-0.6,6.5-1.5,9.7-2.6l18.8,17.7l10.1-5.8l-5.9-25.1c2.5-2.2,4.9-4.5,7.1-7.1l25.1,5.9l5.8-10.1l-17.7-18.8
+		c1.1-3.1,2-6.4,2.6-9.7L189.3,101.8z M95.9,128.1c-17.7,0-32.1-14.4-32.1-32.1c0-17.7,14.4-32.1,32.1-32.1
+		c17.7,0,32.1,14.4,32.1,32.1C128,113.7,113.6,128.1,95.9,128.1z"/>
+	<linearGradient id="Hollow_Ring_4_" gradientUnits="userSpaceOnUse" x1="151.0791" y1="151.1748" x2="12.9963" y2="13.092">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="Hollow_Ring_1_" fill="url(#Hollow_Ring_4_)" d="M95.9,40.4c-30.7,0-55.5,24.9-55.5,55.5s24.9,55.5,55.5,55.5
+		c30.7,0,55.5-24.9,55.5-55.5S126.5,40.4,95.9,40.4z M95.9,141.7c-25.2,0-45.7-20.5-45.7-45.7c0-25.2,20.5-45.7,45.7-45.7
+		c25.2,0,45.7,20.5,45.7,45.7C141.6,121.2,121.1,141.7,95.9,141.7z"/>
+</g>
+</svg>

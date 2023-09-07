@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Pallet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="88px" viewBox="0 0 300 88" enable-background="new 0 0 300 88" xml:space="preserve">
+<g id="Boards_Top">
+	<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="-75.2979" y1="-76.2427" x2="803.7021" y2="324.7574">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Shape" fill="url(#Shape_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M251.8,50.5l-1.5,0.8H3.9l-1.5-0.8L12,40.4h249.4L251.8,50.5z M270.9,30.5H21.6l-7.1,7.4l249.5-0.1L270.9,30.5z M289.1,11.4H39.7
+		l-5.2,5.5h249.4L289.1,11.4z M297.7,2.5H48.3l-6.7,7H291L297.7,2.5z M281.8,19.1H32.4l-8.6,9h249.4L281.8,19.1z"/>
+	<path id="Srews" fill="#646567" d="M236,49.1c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.2,1.1-0.3c0-0.2-0.5-0.3-1.1-0.3
+		C236.5,48.7,236,48.9,236,49.1z M241.6,43.2c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3s-0.5-0.3-1.1-0.3
+		C242.1,42.9,241.6,43,241.6,43.2z M127.8,49.1c0,0.2-0.5,0.3-1.1,0.3s-1.1-0.2-1.1-0.3c0-0.2,0.5-0.3,1.1-0.3
+		S127.8,48.9,127.8,49.1z M132.3,42.9c-0.6,0-1.1,0.1-1.1,0.3s0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3S133,42.9,132.3,42.9z M148.7,25.7
+		c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3C149.9,25.8,149.4,25.7,148.7,25.7z M153.4,20.8
+		c-0.6,0-1.1,0.2-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3C154.6,20.9,154.1,20.8,153.4,20.8z M166.2,7.4
+		c-0.6,0-1.1,0.1-1.1,0.3s0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3S166.9,7.4,166.2,7.4z M169.8,3.7c-0.6,0-1.1,0.1-1.1,0.3
+		c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3C170.9,3.8,170.4,3.7,169.8,3.7z M139.4,35.4c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3
+		s1.1-0.2,1.1-0.3C140.6,35.6,140.1,35.4,139.4,35.4z M142.4,32.4c-0.6,0-1.1,0.1-1.1,0.3s0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3
+		S143,32.4,142.4,32.4z M158.8,15.1c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3
+		C159.9,15.3,159.4,15.1,158.8,15.1z M161.1,12.8c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3
+		C162.2,12.9,161.7,12.8,161.1,12.8z M18,48.7c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.2,1.1-0.3
+		C19.1,48.9,18.6,48.7,18,48.7z M23.7,42.9c-0.6,0-1.1,0.1-1.1,0.3s0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3S24.3,42.9,23.7,42.9z M40,25.7
+		c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3C41.2,25.8,40.7,25.7,40,25.7z M44.7,20.8
+		c-0.6,0-1.1,0.2-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3C45.8,20.9,45.3,20.8,44.7,20.8z M57.5,7.4c-0.6,0-1.1,0.1-1.1,0.3
+		S56.8,8,57.5,8c0.6,0,1.1-0.1,1.1-0.3S58.1,7.4,57.5,7.4z M61,3.7c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3
+		c0.6,0,1.1-0.1,1.1-0.3C62.2,3.8,61.6,3.7,61,3.7z M30.7,35.4c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.2,1.1-0.3
+		C31.9,35.6,31.3,35.4,30.7,35.4z M33.6,32.4c-0.6,0-1.1,0.1-1.1,0.3s0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3S34.2,32.4,33.6,32.4z
+		 M50.1,15.1c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3C51.3,15.3,50.8,15.1,50.1,15.1z M52.4,12.8
+		c-0.6,0-1.1,0.1-1.1,0.3c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3C53.6,12.9,53.1,12.8,52.4,12.8z M258,26
+		c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3c0-0.2-0.5-0.3-1.1-0.3C258.5,25.7,258,25.8,258,26z M262.7,21.1
+		c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3c0-0.2-0.5-0.3-1.1-0.3S262.7,20.9,262.7,21.1z M275.5,7.7c0,0.2,0.5,0.3,1.1,0.3
+		c0.6,0,1.1-0.1,1.1-0.3s-0.5-0.3-1.1-0.3C276,7.4,275.5,7.5,275.5,7.7z M279,4c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3
+		c0-0.2-0.5-0.3-1.1-0.3C279.5,3.7,279,3.8,279,4z M248.8,35.7c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.2,1.1-0.3c0-0.2-0.5-0.3-1.1-0.3
+		C249.3,35.4,248.8,35.6,248.8,35.7z M251.6,32.7c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3s-0.5-0.3-1.1-0.3
+		C252.1,32.4,251.6,32.5,251.6,32.7z M268.1,15.5c0,0.2,0.5,0.3,1.1,0.3s1.1-0.1,1.1-0.3c0-0.2-0.5-0.3-1.1-0.3
+		S268.1,15.3,268.1,15.5z M270.3,13.1c0,0.2,0.5,0.3,1.1,0.3c0.6,0,1.1-0.1,1.1-0.3c0-0.2-0.5-0.3-1.1-0.3
+		C270.8,12.8,270.3,12.9,270.3,13.1z"/>
+	<linearGradient id="Front_2_" gradientUnits="userSpaceOnUse" x1="-277.4785" y1="26.2271" x2="235.1855" y2="26.2271">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Front_1_" fill="url(#Front_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M291,9.4v5.2h-1.9v-3.2H41.6v-2H291z M34.5,16.9v2.2h247.3v3l2,0v-5.3H34.5z M23.8,28.1v2.4h247.1v2.8l2.3,0v-5.2H23.8z M14.4,37.9
+		v2.5h247V43l2.5,0v-5.2L14.4,37.9z"/>
+</g>
+<g id="Side">
+	
+		<path id="Board_Top" fill="#575756" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M289.1,16.6v-2h1.9L289.1,16.6z M283.8,22.2h-2v2.1L283.8,22.2z M273.2,33.3h-2.3v2.4L273.2,33.3z M263.9,43h-2.5v2.6L263.9,43z"/>
+	
+		<linearGradient id="Blocks__x2B__Boards_Front_1_" gradientUnits="userSpaceOnUse" x1="306.2295" y1="61.4941" x2="270.334" y2="37.1777">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<path id="Blocks__x2B__Boards_Front" fill="url(#Blocks__x2B__Boards_Front_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M291,19.8V38h-9.2v-8.5L291,19.8z M281.8,38v5.9h9.2V38H281.8z M261.4,50.7v5.9h11.8V38.4L261.4,50.7z M261.4,56.6v5.9h11.8v-5.9
+		H261.4z"/>
+	<linearGradient id="Shape_Side_1_" gradientUnits="userSpaceOnUse" x1="491.9785" y1="-177.2666" x2="200.4785" y2="119.2334">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Shape_Side" fill="url(#Shape_Side_1_)" stroke="#77787A" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M291,14.7V9.4l6.6-7v5.2L291,14.7z M297.7,36.9V31l-6.6,7v5.9L297.7,36.9z M297.7,31V12.8l-6.6,7V38L297.7,31z M289.1,16.6v-5.2
+		l-5.3,5.5v5.3L289.1,16.6z M281.8,24.3v-5.2l-8.6,9v5.2L281.8,24.3z M281.8,47.6V29.4l-8.6,9v18.2L281.8,47.6z M281.8,53.5v-5.9
+		l-8.6,9v5.9L281.8,53.5z M270.9,35.7v-5.2l-7,7.4V43L270.9,35.7z M261.4,45.6v-5.2l-9.7,10.1v5.2L261.4,45.6z M261.4,68.9V50.7
+		l-9.7,10.1V79L261.4,68.9z M261.4,74.8V69l-9.7,10.1V85L261.4,74.8z M251.8,55.7v5.1l45.9-48.1V7.7L251.8,55.7z"/>
+</g>
+<g id="Front">
+	<linearGradient id="Shape_Front_1_" gradientUnits="userSpaceOnUse" x1="-258.5752" y1="-81.8066" x2="481.0034" y2="206.4016">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Shape_Front" fill="url(#Shape_Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M3.9,56.6h27.3v23.7H3.9V56.6z M112.8,80.3h27.3V56.6h-27.3V80.3z M250.2,56.6h-27.3v23.7h27.3V56.6z M250.2,51.3H3.9v5.3h246.3
+		V51.3z M250.2,80.3H3.9v5.3h246.3V80.3z"/>
+	<linearGradient id="Board_Below_Top_1_" gradientUnits="userSpaceOnUse" x1="127.0786" y1="94.5962" x2="127.0786" y2="77.119">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Board_Below_Top" fill="url(#Board_Below_Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M40.3,70.5h72.5v9.9H31.2L40.3,70.5z M222.9,70.5h-73.7l-9.1,9.9h82.8V70.5z"/>
+	<linearGradient id="Block_Side_Middle_1_" gradientUnits="userSpaceOnUse" x1="121.2891" y1="65.1328" x2="153.4996" y2="69.7343">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Block_Side_Middle" fill="url(#Block_Side_Middle_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		140.1,80.3 149.3,70.5 149.3,56.6 140.1,56.6 	"/>
+	<linearGradient id="Block_Side_Left_1_" gradientUnits="userSpaceOnUse" x1="12.4468" y1="65.1484" x2="44.4973" y2="69.7271">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Block_Side_Left" fill="url(#Block_Side_Left_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		31.2,80.3 40.3,70.5 40.3,56.6 31.2,56.6 	"/>
+	
+		<path id="Edge_Left_Side" fill="#F4F4F4" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M2.4,55.7v-5.2l1.5,0.8v5.3L2.4,55.7z M2.4,79l1.5,1.3V56.6l-1.5-0.9V79z M2.4,79v5.1l1.5,1.6v-5.3L2.4,79z"/>
+	
+		<path id="Devider_Lines" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M36.1,56.6l-4.9,5.1H3.9l-1.4-0.8 M112.9,61.8h27.3l4.9-5.1 M223,61.8h27.3"/>
+	
+		<path id="Shadows" fill="#575756" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M31.8,80.3h-0.6l9.1-9.9h7.3 M156.6,70.5h-7.3l-9.1,9.9h0.6"/>
+	<linearGradient id="Edge_Right_Side_1_" gradientUnits="userSpaceOnUse" x1="246.0986" y1="68.083" x2="255.6348" y2="68.083">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<path id="Edge_Right_Side" fill="url(#Edge_Right_Side_1_)" stroke="#77787A" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M250.2,56.6v-5.3l1.5-0.8v5.2L250.2,56.6z M250.2,61.8v-5.1l1.5-0.9v5.1L250.2,61.8z M251.8,60.8l-1.5,0.9v18.6l1.5-1.3V60.8z
+		 M250.2,80.3v5.3l1.5-0.7v-6L250.2,80.3z"/>
+</g>
+</svg>

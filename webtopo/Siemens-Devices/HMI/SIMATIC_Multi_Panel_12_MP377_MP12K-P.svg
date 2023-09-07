@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="SIMATIC_x5F_Multi_x5F_Panel_x5F_12_x5F_MP377_x5F_MP12K-P"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="194px"
+	 viewBox="0 0 300 194" enable-background="new 0 0 300 194" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2" y1="97.0669" x2="297.9873" y2="97.0669">
+	<stop  offset="1.187820e-02" style="stop-color:#EBEBE6"/>
+	<stop  offset="2.415080e-02" style="stop-color:#DDDDD9"/>
+	<stop  offset="4.116690e-02" style="stop-color:#C3C2C0"/>
+	<stop  offset="0.2703" style="stop-color:#BFBEBC"/>
+	<stop  offset="0.503" style="stop-color:#B3B2B0"/>
+	<stop  offset="0.7366" style="stop-color:#9F9E9C"/>
+	<stop  offset="0.9579" style="stop-color:#848381"/>
+	<stop  offset="0.9718" style="stop-color:#6B6B6A"/>
+	<stop  offset="0.9895" style="stop-color:#515153"/>
+	<stop  offset="1" style="stop-color:#47484A"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M2.8,1.9C2.3,1.9,2,2.2,2,2.7v188.8c0,0.4,0.3,0.8,0.8,0.8h294.5c0.4,0,0.8-0.3,0.8-0.8V2.7
+	c0-0.4-0.3-0.8-0.8-0.8H2.8z"/>
+<path fill="#738798" d="M231.7,29.1h9.2v9.2h-9.2V29.1z M266,38.3h9.2v-9.2H266V38.3z M266,101.6h9.2v-9.2H266V101.6z M212,140.1
+	h9.2v-9.2H212V140.1z M212,152.4h9.2v-9.2H212V152.4z M256.2,38.3h9.2v-9.2h-9.2V38.3z M256.2,101.6h9.2v-9.2h-9.2V101.6z
+	 M246.4,38.3h9.2v-9.2h-9.2V38.3z M246.4,101.6h9.2v-9.2h-9.2V101.6z M231.7,48.1h9.2v-9.2h-9.2V48.1z M266,48.1h9.2v-9.2H266V48.1z
+	 M256.2,48.1h9.2v-9.2h-9.2V48.1z M246.4,48.1h9.2v-9.2h-9.2V48.1z M231.7,57.9h9.2v-9.2h-9.2V57.9z M266,57.9h9.2v-9.2H266V57.9z
+	 M256.2,57.9h9.2v-9.2h-9.2V57.9z M246.4,57.9h9.2v-9.2h-9.2V57.9z M231.7,67.7h9.2v-9.2h-9.2V67.7z M266,67.7h9.2v-9.2H266V67.7z
+	 M256.2,67.7h9.2v-9.2h-9.2V67.7z M246.4,67.7h9.2v-9.2h-9.2V67.7z M231.7,77.6h9.2v-9.2h-9.2V77.6z M266,77.6h9.2v-9.2H266V77.6z
+	 M256.2,77.6h9.2v-9.2h-9.2V77.6z M246.4,77.6h9.2v-9.2h-9.2V77.6z M231.7,101.6h9.2v-9.2h-9.2V101.6z M266,146.3h9.2v-9.2H266
+	V146.3z M221.9,170.8h9.2v-9.2h-9.2V170.8z M231.7,170.8h9.2v-9.2h-9.2V170.8z M241.5,170.8h9.2v-9.2h-9.2V170.8z M251.3,170.8h9.2
+	v-9.2h-9.2V170.8z M241.5,156.1h9.2v-9.2h-9.2V156.1z M251.3,146.3h9.2v-9.2h-9.2V146.3z M231.7,146.3h9.2v-9.2h-9.2V146.3z
+	 M241.5,136.4h9.2v-9.2h-9.2V136.4z M266,136.4h9.2v-9.2H266V136.4z"/>
+<path fill="none" stroke="#000000" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M150,8.1H14.1c-0.3,0-0.6,0.3-0.6,0.6v176.6c0,0.3,0.3,0.6,0.6,0.6h271.7c0.3,0,0.6-0.3,0.6-0.6V8.7c0-0.3-0.3-0.6-0.6-0.6H150z"/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="216.6,134.6 215.4,137.2 217.9,137.2 216.6,134.6 "/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="216.6,131.9 215.4,134.5 217.9,134.5 216.6,131.9 "/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="216.6,146.9 215.4,144.2 217.9,144.2 216.6,146.9 "/>
+<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="216.6,149.6 215.4,147 217.9,147 216.6,149.6 "/>
+<rect x="266" y="146.9" fill="#F2CE00" width="9.2" height="9.2"/>
+<rect x="265.1" y="160.7" fill="#169438" width="11" height="11"/>
+<g>
+	<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="233.8,141.7 238.2,143.8 238.2,139.5 233.8,141.7 	"/>
+	<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="258.4,141.7 254,143.8 254,139.5 258.4,141.7 	"/>
+	<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="246.1,129.3 243.9,133.7 248.2,133.7 246.1,129.3 	"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="246.1,154 243.9,149.6 248.2,149.6 	"/>
+</g>
+<polygon fill="none" stroke="#24393F" stroke-width="1.298200e-02" stroke-miterlimit="10" points="246.1,154 243.9,149.6 
+	248.2,149.6 "/>
+<rect x="266.4" y="147.3" fill="#EDEDEA" width="1.5" height="1.5"/>
+<rect x="266.4" y="127.6" fill="#EDEDEA" width="1.5" height="1.5"/>
+<rect x="232" y="92.8" fill="#EDEDEA" width="1.5" height="1.5"/>
+<rect x="239" y="92.8" fill="#EDEDEA" width="1.5" height="1.5"/>
+<rect x="23.9" y="24.2" fill="#629CA1" width="185.5" height="146.6"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M116.7,27.3H41.2c-0.3,0-0.6,0.3-0.6,0.6v113.2
+	c0,0.3,0.3,0.6,0.6,0.6h150.9c0.3,0,0.6-0.3,0.6-0.6V27.9c0-0.3-0.3-0.6-0.6-0.6H116.7"/>
+<g>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="33.6929" x2="33.1187" y2="33.6929">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="29.1" fill="url(#SVGID_2_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="46.3569" x2="33.1187" y2="46.3569">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="41.8" fill="url(#SVGID_3_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="59.021" x2="33.1187" y2="59.021">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="54.4" fill="url(#SVGID_4_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="71.6851" x2="33.1187" y2="71.6851">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="67.1" fill="url(#SVGID_5_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="84.3491" x2="33.1187" y2="84.3491">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="79.7" fill="url(#SVGID_6_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="97.0132" x2="33.1187" y2="97.0132">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="92.4" fill="url(#SVGID_7_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="109.6772" x2="33.1187" y2="109.6772">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="105.1" fill="url(#SVGID_8_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_9_" gradientUnits="userSpaceOnUse" x1="23.9146" y1="122.3413" x2="33.1187" y2="122.3413">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="23.9" y="117.7" fill="url(#SVGID_9_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="43.4922" y1="153.3394" x2="52.6963" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="43.5" y="148.7" fill="url(#SVGID_10_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="58.7271" y1="153.3394" x2="67.9312" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="58.7" y="148.7" fill="url(#SVGID_11_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_12_" gradientUnits="userSpaceOnUse" x1="73.9619" y1="153.3394" x2="83.166" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="74" y="148.7" fill="url(#SVGID_12_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="89.1968" y1="153.3394" x2="98.4009" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="89.2" y="148.7" fill="url(#SVGID_13_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_14_" gradientUnits="userSpaceOnUse" x1="104.4316" y1="153.3394" x2="113.6357" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="104.4" y="148.7" fill="url(#SVGID_14_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_15_" gradientUnits="userSpaceOnUse" x1="119.6665" y1="153.3394" x2="128.8706" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="119.7" y="148.7" fill="url(#SVGID_15_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_16_" gradientUnits="userSpaceOnUse" x1="134.9014" y1="153.3394" x2="144.1055" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="134.9" y="148.7" fill="url(#SVGID_16_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="150.1362" y1="153.3394" x2="159.3403" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="150.1" y="148.7" fill="url(#SVGID_17_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_18_" gradientUnits="userSpaceOnUse" x1="165.3711" y1="153.3394" x2="174.5752" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="165.4" y="148.7" fill="url(#SVGID_18_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_19_" gradientUnits="userSpaceOnUse" x1="180.606" y1="153.3394" x2="189.8101" y2="153.3394">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="180.6" y="148.7" fill="url(#SVGID_19_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_20_" gradientUnits="userSpaceOnUse" x1="43.4922" y1="166.2178" x2="52.6963" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="43.5" y="161.6" fill="url(#SVGID_20_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="58.7271" y1="166.2178" x2="67.9312" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="58.7" y="161.6" fill="url(#SVGID_21_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_22_" gradientUnits="userSpaceOnUse" x1="73.9619" y1="166.2178" x2="83.166" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="74" y="161.6" fill="url(#SVGID_22_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_23_" gradientUnits="userSpaceOnUse" x1="89.1968" y1="166.2178" x2="98.4009" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="89.2" y="161.6" fill="url(#SVGID_23_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_24_" gradientUnits="userSpaceOnUse" x1="104.4316" y1="166.2178" x2="113.6357" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="104.4" y="161.6" fill="url(#SVGID_24_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_25_" gradientUnits="userSpaceOnUse" x1="119.6665" y1="166.2178" x2="128.8706" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="119.7" y="161.6" fill="url(#SVGID_25_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_26_" gradientUnits="userSpaceOnUse" x1="134.9014" y1="166.2178" x2="144.1055" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="134.9" y="161.6" fill="url(#SVGID_26_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_27_" gradientUnits="userSpaceOnUse" x1="150.1362" y1="166.2178" x2="159.3403" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="150.1" y="161.6" fill="url(#SVGID_27_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_28_" gradientUnits="userSpaceOnUse" x1="165.3711" y1="166.2178" x2="174.5752" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="165.4" y="161.6" fill="url(#SVGID_28_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_29_" gradientUnits="userSpaceOnUse" x1="180.606" y1="166.2178" x2="189.8101" y2="166.2178">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="180.6" y="161.6" fill="url(#SVGID_29_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_30_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="33.6929" x2="209.4653" y2="33.6929">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="29.1" fill="url(#SVGID_30_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_31_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="46.3569" x2="209.4653" y2="46.3569">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="41.8" fill="url(#SVGID_31_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_32_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="59.021" x2="209.4653" y2="59.021">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="54.4" fill="url(#SVGID_32_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_33_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="71.6851" x2="209.4653" y2="71.6851">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="67.1" fill="url(#SVGID_33_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_34_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="84.3491" x2="209.4653" y2="84.3491">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="79.7" fill="url(#SVGID_34_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_35_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="97.0132" x2="209.4653" y2="97.0132">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="92.4" fill="url(#SVGID_35_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_36_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="109.6772" x2="209.4653" y2="109.6772">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="105.1" fill="url(#SVGID_36_)" width="9.2" height="9.2"/>
+	<linearGradient id="SVGID_37_" gradientUnits="userSpaceOnUse" x1="200.2612" y1="122.3413" x2="209.4653" y2="122.3413">
+		<stop  offset="0" style="stop-color:#EDEDE8"/>
+		<stop  offset="1" style="stop-color:#BABCBB"/>
+	</linearGradient>
+	<rect x="200.3" y="117.7" fill="url(#SVGID_37_)" width="9.2" height="9.2"/>
+</g>
+<g>
+	<rect x="43.5" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="43.5" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="43.9" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="43.5" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="43.5" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="43.9" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="58.7" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="58.7" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="59.1" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="58.7" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="58.7" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="59.1" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="74" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="74" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="74.3" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="74" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="74" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="74.3" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="89.2" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="89.2" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="89.6" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="89.2" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="89.2" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="89.6" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="104.5" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="104.5" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="104.8" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="104.5" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="104.5" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="104.8" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="119.7" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="119.7" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="120.1" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="119.7" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="119.7" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="120.1" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="134.9" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="134.9" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="135.3" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="134.9" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="134.9" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="135.3" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="150.2" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="150.2" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="150.5" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="150.2" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="150.2" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="150.5" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="165.4" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="165.4" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="165.8" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="165.4" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="165.4" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="165.8" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="180.7" y="146.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="180.7" y="146.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="181" y="148.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="180.7" y="159.8" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="180.7" y="159.8" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="181" y="161.7" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="103.2" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="103.2" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="105.2" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="90.6" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="90.6" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="92.5" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="77.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="77.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="79.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="65.2" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="65.2" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="67.2" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="52.6" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="52.6" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="54.6" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="39.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="39.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="41.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="27.3" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="27.3" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="29.2" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="23.9" y="115.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="23.9" y="115.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="24.3" y="117.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="115.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="115.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="117.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="103.2" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="103.2" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="105.2" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="90.6" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="90.6" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="92.5" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="77.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="77.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="79.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="65.2" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="65.2" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="67.2" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="52.6" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="52.6" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="54.6" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="39.9" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="39.9" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="41.9" fill="#EDEDEA" width="1.5" height="1.5"/>
+	<rect x="200.3" y="27.3" fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" width="3.9" height="3.9"/>
+	
+		<rect x="200.3" y="27.3" fill="none" stroke="#000000" stroke-width="1.298200e-02" stroke-miterlimit="10" width="3.9" height="3.9"/>
+	<rect x="200.6" y="29.2" fill="#EDEDEA" width="1.5" height="1.5"/>
+</g>
+<g id="Logo">
+	<rect x="15.1" y="9.7" fill="#FFFFFF" width="17.7" height="4.3"/>
+	<path fill="#128587" d="M14.7,14.3V9.4h18.4v4.9H14.7z M17.6,10.7c-0.2-0.1-0.5-0.1-0.7-0.1c-0.3,0-0.6,0.1-0.7,0.2
+		c-0.2,0.1-0.3,0.3-0.3,0.5c0,0.3,0.2,0.5,0.6,0.7l0.5,0.2c0.1,0,0.2,0.1,0.2,0.2c0,0.1-0.1,0.2-0.4,0.2c-0.2,0-0.4,0-0.7-0.1V13
+		c0.1,0,0.3,0.1,0.4,0.1c0.2,0,0.3,0,0.4,0c0.3,0,0.6-0.1,0.8-0.2c0.2-0.1,0.3-0.3,0.3-0.6c0-0.3-0.2-0.5-0.6-0.7l-0.4-0.2
+		c-0.1,0-0.2-0.1-0.2-0.1c0,0-0.1-0.1-0.1-0.1c0-0.1,0.1-0.2,0.4-0.2c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0,0.3,0.1L17.6,10.7L17.6,10.7z
+		 M18.9,10.6h-0.7v2.4h0.7V10.6z M21.3,10.6h-1.8v2.4h1.8v-0.5h-1.1V12h1v-0.4h-1v-0.6h1.1V10.6z M24.8,10.6h-0.9l-0.6,1.5l-0.6-1.5
+		h-0.9v2.4h0.5v-1.6l0.7,1.6h0.5l0.7-1.6v1.6h0.7V10.6L24.8,10.6z M27.1,10.6h-1.8v2.4h1.8v-0.5H26V12h1v-0.4h-1v-0.6h1.1V10.6z
+		 M29.7,10.6h-0.5v1.5l-0.9-1.5h-0.8v2.4h0.5v-1.6l0.9,1.6h0.8V10.6z M31.9,10.7c-0.2-0.1-0.5-0.1-0.7-0.1c-0.3,0-0.6,0.1-0.7,0.2
+		c-0.2,0.1-0.3,0.3-0.3,0.5c0,0.3,0.2,0.5,0.5,0.7l0.5,0.2c0.1,0,0.1,0.1,0.2,0.1c0,0,0,0.1,0,0.1c0,0.1-0.1,0.2-0.4,0.2
+		c-0.2,0-0.4,0-0.8-0.1V13c0.1,0,0.3,0,0.4,0.1c0.2,0,0.3,0,0.4,0c0.3,0,0.6-0.1,0.8-0.2c0.2-0.1,0.3-0.3,0.3-0.6
+		c0-0.2,0-0.3-0.1-0.4c-0.1-0.1-0.2-0.2-0.4-0.3l-0.4-0.2c-0.1-0.1-0.2-0.1-0.2-0.2c0-0.1,0.1-0.2,0.4-0.2c0.1,0,0.2,0,0.3,0
+		c0.1,0,0.2,0,0.3,0.1V10.7z"/>
+</g>
+<g id="Typo">
+	<g id="Bottoms_Right">
+		<text transform="matrix(1.05 0 0 1 232.2822 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">A</text>
+		<text transform="matrix(1.05 0 0 1 235.6504 34.9634)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">/</text>
+		<text transform="matrix(1.05 0 0 1 238.6416 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">B</text>
+		<text transform="matrix(1.05 0 0 1 246.998 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">C</text>
+		<text transform="matrix(1.05 0 0 1 249.9346 35.2314)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">7</text>
+		<text transform="matrix(1.05 0 0 1 253.3574 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">D</text>
+		<text transform="matrix(1.05 0 0 1 256.832 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">E</text>
+		<text transform="matrix(1.05 0 0 1 259.7686 35.2314)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">8</text>
+		<text transform="matrix(1.05 0 0 1 263.1914 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">F</text>
+		<text transform="matrix(1.05 0 0 1 266.666 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">G</text>
+		<text transform="matrix(0.9595 0 0 1 246.998 37.7021)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.4091">@</text>
+		<text transform="matrix(1.05 0 0 1 256.832 37.749)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.2016">€</text>
+		<text transform="matrix(1.05 0 0 1 266.8984 37.4297)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.2016">|</text>
+		<text transform="matrix(1.05 0 0 1 269.6025 35.2314)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">9</text>
+		<text transform="matrix(1.05 0 0 1 273.0254 31.1978)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">H</text>
+		<text transform="matrix(1.05 0 0 1 232.2822 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">I</text>
+		<text transform="matrix(1.05 0 0 1 235.041 45.8364)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">*</text>
+		<text transform="matrix(1.05 0 0 1 238.6416 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">J</text>
+		<text transform="matrix(1.05 0 0 1 246.998 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">K</text>
+		<text transform="matrix(1.05 0 0 1 249.9346 45.0332)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">4</text>
+		<text transform="matrix(1.05 0 0 1 253.3574 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">L</text>
+		<text transform="matrix(1.05 0 0 1 256.832 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">M</text>
+		<text transform="matrix(1.05 0 0 1 259.7686 45.0332)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">5</text>
+		<text transform="matrix(1.05 0 0 1 263.1914 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">N</text>
+		<text transform="matrix(1.05 0 0 1 266.666 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">O</text>
+		<text transform="matrix(1.05 0 0 1 246.9531 48.5483)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.3811">ˆ</text>
+		<text transform="matrix(1.05 0 0 1 256.8311 47.4756)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.5784">%</text>
+		<text transform="matrix(1.05 0 0 1 269.6025 45.0332)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">6</text>
+		<text transform="matrix(1.05 0 0 1 273.0254 40.9995)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">P</text>
+		<text transform="matrix(1.05 0 0 1 232.2822 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">Q</text>
+		<text transform="matrix(1.05 0 0 1 235.0312 54.835)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">–</text>
+		<text transform="matrix(1.05 0 0 1 238.6416 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">R</text>
+		<text transform="matrix(1.05 0 0 1 246.998 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">S</text>
+		<text transform="matrix(1.05 0 0 1 249.9346 54.835)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">1</text>
+		<text transform="matrix(1.05 0 0 1 267.9258 98.0576)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">TAB</text>
+		<text transform="matrix(1.05 0 0 1 233.5664 98.0576)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="3.0039">A-Z</text>
+		<text transform="matrix(1.05 0 0 1 222.3643 167.1792)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="3.0039">SHIFT</text>
+		<text transform="matrix(1.05 0 0 1 242.6309 167.1792)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">CTRL</text>
+		<text transform="matrix(1.05 0 0 1 234.2881 167.1792)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">F</text>
+		<text transform="matrix(1.05 0 0 1 235.9131 168.7212)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">N</text>
+		<text transform="matrix(1.05 0 0 1 253.2285 167.1792)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">ALT</text>
+		<text transform="matrix(1.05 0 0 1 266.0586 167.1792)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">ENTER </text>
+		<text transform="matrix(1.05 0 0 1 267.1719 133.2109)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">HELP</text>
+		<text transform="matrix(1.05 0 0 1 268.0625 142.9087)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">ESC</text>
+		<text transform="matrix(1.05 0 0 1 213.3623 139.6099)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.1748">HOME</text>
+		<text transform="matrix(1.05 0 0 1 214.4507 151.8398)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.1748">END</text>
+		<text transform="matrix(1.05 0 0 1 267.6934 152.6064)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">ACK</text>
+		<text transform="matrix(1.05 0 0 1 258.3389 96.1216)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="3.0039">INS </text>
+		<text transform="matrix(1.05 0 0 1 258.3389 99.7827)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0039">DEL</text>
+		<text transform="matrix(1.05 0 0 1 253.3574 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">T</text>
+		<text transform="matrix(1.05 0 0 1 256.832 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">U</text>
+		<text transform="matrix(1.05 0 0 1 259.7686 54.835)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">2</text>
+		<text transform="matrix(1.05 0 0 1 263.1914 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">V</text>
+		<text transform="matrix(1.05 0 0 1 266.666 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">W</text>
+		<text transform="matrix(1.05 0 0 1 246.998 57.2827)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.5074">!</text>
+		<text transform="matrix(1.05 0 0 1 256.7441 57.0923)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.3105">~</text>
+		<text transform="matrix(1.05 0 0 1 266.8984 57.0332)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.2016">§</text>
+		<text transform="matrix(1.05 0 0 1 269.6025 54.835)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">3</text>
+		<text transform="matrix(1.05 0 0 1 273.0254 50.8013)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">X</text>
+		<text transform="matrix(1.05 0 0 1 232.2822 60.603)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">Y</text>
+		<text transform="matrix(1.05 0 0 1 235.1006 64.6367)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">+</text>
+		<text transform="matrix(1.05 0 0 1 238.6416 60.603)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">Z</text>
+		<text transform="matrix(1.05 0 0 1 246.998 60.603)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">:</text>
+		<text transform="matrix(1.05 0 0 1 250.4346 64.2305)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">.</text>
+		<text transform="matrix(1.05 0 0 1 254.0449 60.603)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">\</text>
+		<text transform="matrix(1.05 0 0 1 256.833 61.0835)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.7695">”</text>
+		<text transform="matrix(1.05 0 0 1 259.7686 64.6367)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">0</text>
+		<text transform="matrix(0.9765 0 0 1 263.752 61.6719)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="3.7451">°</text>
+		<text transform="matrix(1.05 0 0 1 266.666 60.603)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">?</text>
+		<text transform="matrix(1.05 0 0 1 246.7471 67.6201)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.6776"></text>
+		<text transform="matrix(-1.05 0 0 1 258.1221 67.6201)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.6776"></text>
+		<text transform="matrix(1.05 0 0 1 266.9453 67.8755)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="3.0316">&apos;</text>
+		<text transform="matrix(1.05 0 0 1 270.1338 64.293)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">,</text>
+		<text transform="matrix(1.05 0 0 1 273.3379 60.3374)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">_</text>
+		<text transform="matrix(1.05 0 0 1 232.2822 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">(</text>
+		<text transform="matrix(0.9955 0 0 1 235.0469 74.4116)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4.2188">=</text>
+		<text transform="matrix(1.05 0 0 1 239.3447 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">)</text>
+		<text transform="matrix(1.05 0 0 1 246.998 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">[</text>
+		<text transform="matrix(1.05 0 0 1 254.0918 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">]</text>
+		<text transform="matrix(1.05 0 0 1 256.832 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">$</text>
+		<text transform="matrix(1.05 0 0 1 260.1904 74.0947)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">;</text>
+		<text transform="matrix(1.05 0 0 1 263.1914 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">&amp;</text>
+		<text transform="matrix(1.05 0 0 1 266.666 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">{</text>
+		<text transform="matrix(1.05 0 0 1 249.9346 74.4116)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="4">#</text>
+		<text transform="matrix(1.05 0 0 1 246.998 76.7729)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.2016">&lt;</text>
+		<text transform="matrix(1.05 0 0 1 256.832 76.7729)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.2016">&gt;</text>
+		<text transform="matrix(1.05 0 0 1 266.8984 76.6367)" fill="#25393F" font-family="'SiemensSans-Bold'" font-size="2.2016">|</text>
+		<text transform="matrix(1.05 0 0 1 273.8066 70.4048)" fill="#FFFFFF" font-family="'SiemensSans-Bold'" font-size="2.2016">}</text>
+		<polygon fill="#25393F" points="273,73.7 268.4,73.7 268.4,72.2 268.8,72.2 268.8,73.4 272.6,73.4 272.6,72.2 273,72.2 		"/>
+		<g>
+			<rect x="249.7" y="96.9" fill="#25393F" width="3.8" height="0.4"/>
+			<polyline fill-rule="evenodd" clip-rule="evenodd" fill="#25393F" points="249.7,97.1 249.7,96.3 248.1,97.1 249.7,97.8 
+				249.7,97.1 			"/>
+		</g>
+	</g>
+	<g id="Bottoms_Left">
+		<text transform="matrix(1.05 0 0 1 24.1299 28.958)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S1</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 41.6182)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S2</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 54.2783)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S3</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 66.9385)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S4</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 79.5986)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S5</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 92.2588)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S6</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 104.9189)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S7</text>
+		<text transform="matrix(1.05 0 0 1 24.1299 117.5791)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S8</text>
+		<text transform="matrix(1.05 0 0 1 200.501 28.958)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S9</text>
+		<text transform="matrix(1.05 0 0 1 200.501 41.6182)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 41.6182)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">0</text>
+		<text transform="matrix(1.05 0 0 1 180.834 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 165.5371 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">9</tspan></text>
+		<text transform="matrix(1.05 0 0 1 150.3086 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">8</tspan></text>
+		<text transform="matrix(1.05 0 0 1 135.0801 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">7</tspan></text>
+		<text transform="matrix(1.05 0 0 1 119.8516 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">6</tspan></text>
+		<text transform="matrix(1.05 0 0 1 104.623 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">5</tspan></text>
+		<text transform="matrix(1.05 0 0 1 89.3945 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">4</tspan></text>
+		<text transform="matrix(1.05 0 0 1 74.166 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">3</tspan></text>
+		<text transform="matrix(1.05 0 0 1 58.9375 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">2</tspan></text>
+		<text transform="matrix(1.05 0 0 1 43.709 148.5688)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 182.9771 148.5688)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">0</text>
+		<text transform="matrix(1.05 0 0 1 180.834 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">2</tspan></text>
+		<text transform="matrix(1.05 0 0 1 183.0708 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">0</text>
+		<text transform="matrix(1.05 0 0 1 165.627 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 167.77 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">9</text>
+		<text transform="matrix(1.05 0 0 1 150.3418 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 152.4849 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">8</text>
+		<text transform="matrix(1.05 0 0 1 135.1035 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 137.2466 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">7</text>
+		<text transform="matrix(1.05 0 0 1 119.8652 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 122.0083 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">6</text>
+		<text transform="matrix(1.05 0 0 1 104.6113 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 106.7544 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">5</text>
+		<text transform="matrix(1.05 0 0 1 89.3887 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 91.5317 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">4</text>
+		<text transform="matrix(1.05 0 0 1 74.1504 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 76.2935 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">3</text>
+		<text transform="matrix(1.05 0 0 1 58.8926 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 61.0356 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">2</text>
+		<text transform="matrix(1.05 0 0 1 43.709 161.4468)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">F</tspan><tspan x="1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 45.8521 161.4468)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</text>
+		<text transform="matrix(1.05 0 0 1 200.501 54.2783)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 54.2783)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</text>
+		<text transform="matrix(1.05 0 0 1 200.501 66.9385)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 66.9385)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">2</text>
+		<text transform="matrix(1.05 0 0 1 200.501 79.5986)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 79.5986)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">3</text>
+		<text transform="matrix(1.05 0 0 1 200.501 92.2588)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 92.2588)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">4</text>
+		<text transform="matrix(1.05 0 0 1 200.501 104.9189)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 104.9189)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">5</text>
+		<text transform="matrix(1.05 0 0 1 200.501 117.5791)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">S</tspan><tspan x="1.1" y="0" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">1</tspan></text>
+		<text transform="matrix(1.05 0 0 1 202.644 117.5791)" fill="#FFFFFF" font-family="'SiemensSans-Roman'" font-size="2.0242">6</text>
+	</g>
+	<g id="Name">
+		<text transform="matrix(0.9964 0 0 1 240.0557 13.4873)" fill="#25393F" font-family="'SiemensSans-Roman'" font-size="4.6905">SIMATIC MULTI PANEL</text>
+	</g>
+</g>
+</svg>

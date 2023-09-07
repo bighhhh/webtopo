@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Flat_Vessel_Head_Horizontal_Left"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="56px" height="300px"
+	 viewBox="0 0 56 300" enable-background="new 0 0 56 300" xml:space="preserve">
+<linearGradient id="Shape_2_" gradientUnits="userSpaceOnUse" x1="28.022" y1="2" x2="28.022" y2="297.1869">
+	<stop  offset="0" style="stop-color:#A5A5A5"/>
+	<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+	<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+	<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+	<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+	<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+	<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+	<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+	<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+	<stop  offset="0.8378" style="stop-color:#868686"/>
+	<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+	<stop  offset="1" style="stop-color:#404040"/>
+</linearGradient>
+<path id="Shape_1_" fill="url(#Shape_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M53.5,297.4c-12.9,0-51,0.3-51-149.6C2.5,1.4,40.8,1.4,53.5,1.4V297.4z"/>
+<linearGradient id="Reflection_2_" gradientUnits="userSpaceOnUse" x1="12.1021" y1="59.7744" x2="33.3677" y2="78.6194">
+	<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+	<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+</linearGradient>
+<path id="Reflection_1_" fill="url(#Reflection_2_)" d="M52.5,82.3c-34.2,0-48.5,34.1-48.5,34.1s2-84.6,48.5-84.6V82.3z"/>
+<path id="Reflection_Line_1_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-miterlimit="10" d="M54.2,297V1.8"/>
+<path id="Devider_Line_1_" fill="none" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M53.5,1.8V297"/>
+</svg>

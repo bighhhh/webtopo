@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Cardboard_Box_Sealed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="300px" height="263.5px" viewBox="0 0 300 263.5" enable-background="new 0 0 300 263.5"
+	 xml:space="preserve">
+<g id="Box_1_">
+	<linearGradient id="Small_Side_1_" gradientUnits="userSpaceOnUse" x1="395.4893" y1="654.0889" x2="225.1591" y2="-79.6418">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Small_Side" fill="url(#Small_Side_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		250.9,261.1 297.5,212.3 297.5,2.4 250.9,51.2 	"/>
+	<linearGradient id="Front_Side_1_" gradientUnits="userSpaceOnUse" x1="380.8193" y1="382.5771" x2="-474.7511" y2="-379.3815">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Front_Side" x="2.2" y="51.2" fill="url(#Front_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="248.7" height="209.9"/>
+	<linearGradient id="Top_1_" gradientUnits="userSpaceOnUse" x1="701.0625" y1="-125.855" x2="-1558.9363" y2="500.1462">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top" fill="url(#Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.2,51.2 250.9,51.2 297.5,2.4 48.9,2.4 	"/>
+</g>
+<g id="Tape">
+	<linearGradient id="Top_2_" gradientUnits="userSpaceOnUse" x1="560.7236" y1="-67.6724" x2="190.1007" y2="16.9632">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top_5_" fill="url(#Top_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		19.9,32.7 268.6,32.7 281.5,19.2 32.9,19.2 	"/>
+	<linearGradient id="Side_1_" gradientUnits="userSpaceOnUse" x1="355.0508" y1="144.6099" x2="275.4994" y2="60.2587">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<polygon id="Side_3_" fill="url(#Side_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		268.6,32.7 268.6,100.5 281.5,86.9 281.5,19.2 	"/>
+</g>
+</svg>

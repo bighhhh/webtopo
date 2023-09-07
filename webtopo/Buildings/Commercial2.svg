@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Commercial_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="226px" viewBox="0 0 300 226" enable-background="new 0 0 300 226" xml:space="preserve">
+<g id="Building_3_">
+	<linearGradient id="Structure_1_" gradientUnits="userSpaceOnUse" x1="-7.71" y1="-36.2842" x2="207.2121" y2="176.5155">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+		<stop  offset="0.1171" style="stop-color:#797878"/>
+		<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3189" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5402" style="stop-color:#979696"/>
+		<stop  offset="0.7122" style="stop-color:#848484"/>
+		<stop  offset="0.9127" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	
+		<rect id="Structure_11_" x="4.9" y="27.8" fill="url(#Structure_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="290.3" height="184.3"/>
+	<linearGradient id="Windows_1_" gradientUnits="userSpaceOnUse" x1="150.0767" y1="66.2974" x2="150.0766" y2="285.3182">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="Windows_21_" fill="url(#Windows_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M33,52.3H15.7v-15
+		H33V52.3z M33,60.9H15.7v15H33V60.9z M33,84.4H15.7v15H33V84.4z M33,108H15.7v15H33V108z M33,131.6H15.7v15H33V131.6z M33,155.2
+		H15.7v15H33V155.2z M33,178.7H15.7v15H33V178.7z M52.2,37.3H34.9v15h17.3V37.3z M52.2,60.9H34.9v15h17.3V60.9z M52.2,84.4H34.9v15
+		h17.3V84.4z M52.2,108H34.9v15h17.3V108z M52.2,131.6H34.9v15h17.3V131.6z M52.2,155.2H34.9v15h17.3V155.2z M52.2,178.7H34.9v15
+		h17.3V178.7z M71.4,37.3H54.1v15h17.3V37.3z M71.4,60.9H54.1v15h17.3V60.9z M71.4,84.4H54.1v15h17.3V84.4z M71.4,108H54.1v15h17.3
+		V108z M71.4,131.6H54.1v15h17.3V131.6z M71.4,155.2H54.1v15h17.3V155.2z M71.4,178.7H54.1v15h17.3V178.7z M90.6,37.3H73.3v15h17.3
+		V37.3z M90.6,60.9H73.3v15h17.3V60.9z M90.6,84.4H73.3v15h17.3V84.4z M90.6,108H73.3v15h17.3V108z M90.6,131.6H73.3v15h17.3V131.6z
+		 M90.6,155.2H73.3v15h17.3V155.2z M90.6,178.7H73.3v15h17.3V178.7z M226.8,37.3h-17.3v15h17.3V37.3z M226.8,60.9h-17.3v15h17.3
+		V60.9z M226.8,84.4h-17.3v15h17.3V84.4z M226.8,108h-17.3v15h17.3V108z M226.8,131.6h-17.3v15h17.3V131.6z M226.8,155.2h-17.3v15
+		h17.3V155.2z M226.8,178.7h-17.3v15h17.3V178.7z M246,37.3h-17.3v15H246V37.3z M246,60.9h-17.3v15H246V60.9z M246,84.4h-17.3v15
+		H246V84.4z M246,108h-17.3v15H246V108z M246,131.6h-17.3v15H246V131.6z M246,155.2h-17.3v15H246V155.2z M246,178.7h-17.3v15H246
+		V178.7z M265.2,37.3H248v15h17.3V37.3z M265.2,60.9H248v15h17.3V60.9z M265.2,84.4H248v15h17.3V84.4z M265.2,108H248v15h17.3V108z
+		 M265.2,131.6H248v15h17.3V131.6z M265.2,155.2H248v15h17.3V155.2z M265.2,178.7H248v15h17.3V178.7z M284.4,37.3h-17.3v15h17.3
+		V37.3z M284.4,60.9h-17.3v15h17.3V60.9z M284.4,84.4h-17.3v15h17.3V84.4z M284.4,108h-17.3v15h17.3V108z M284.4,131.6h-17.3v15
+		h17.3V131.6z M284.4,155.2h-17.3v15h17.3V155.2z M284.4,178.7h-17.3v15h17.3V178.7z M120.3,37.3H103v15h17.3V37.3z M120.3,60.9H103
+		v15h17.3V60.9z M120.3,84.4H103v15h17.3V84.4z M120.3,108H103v15h17.3V108z M120.3,131.6H103v15h17.3V131.6z M120.3,155.2H103v15
+		h17.3V155.2z M120.3,178.7H103v15h17.3V178.7z M139.5,37.3h-17.3v15h17.3V37.3z M139.5,60.9h-17.3v15h17.3V60.9z M139.5,84.4h-17.3
+		v15h17.3V84.4z M139.5,108h-17.3v15h17.3V108z M139.5,131.6h-17.3v15h17.3V131.6z M139.5,155.2h-17.3v15h17.3V155.2z M139.5,178.7
+		h-17.3v15h17.3V178.7z M158.7,37.3h-17.3v15h17.3V37.3z M158.7,60.9h-17.3v15h17.3V60.9z M158.7,84.4h-17.3v15h17.3V84.4z
+		 M158.7,108h-17.3v15h17.3V108z M158.7,131.6h-17.3v15h17.3V131.6z M158.7,155.2h-17.3v15h17.3V155.2z M158.7,178.7h-17.3v15h17.3
+		V178.7z M177.9,37.3h-17.3v15h17.3V37.3z M177.9,60.9h-17.3v15h17.3V60.9z M177.9,84.4h-17.3v15h17.3V84.4z M177.9,108h-17.3v15
+		h17.3V108z M177.9,131.6h-17.3v15h17.3V131.6z M177.9,155.2h-17.3v15h17.3V155.2z M197.1,37.3h-17.3v15h17.3V37.3z M197.1,60.9
+		h-17.3v15h17.3V60.9z M197.1,84.4h-17.3v15h17.3V84.4z M197.1,108h-17.3v15h17.3V108z M197.1,131.6h-17.3v15h17.3V131.6z
+		 M197.1,155.2h-17.3v15h17.3V155.2z"/>
+	<linearGradient id="Door_Right_1_" gradientUnits="userSpaceOnUse" x1="188.4648" y1="176.4585" x2="188.4648" y2="214.328">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Door_Right_3_" x="179.8" y="178.7" fill="url(#Door_Right_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="17.3" height="33.3"/>
+	<linearGradient id="Door_Left_1_" gradientUnits="userSpaceOnUse" x1="169.2676" y1="176.4585" x2="169.2676" y2="214.328">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Door_Left_3_" x="160.6" y="178.7" fill="url(#Door_Left_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="17.3" height="33.3"/>
+	<linearGradient id="Roof_Structure_1_" gradientUnits="userSpaceOnUse" x1="69.1777" y1="-40.0962" x2="254.3003" y2="27.9438">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Roof_Structure_3_" x="153.2" y="2.4" fill="url(#Roof_Structure_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="119.1" height="20.4"/>
+	
+		<rect id="Roof_Graduation_3_" x="4.9" y="22.9" fill="#575756" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="290.3" height="4.9"/>
+</g>
+<g id="Base_With_Stairway_3_">
+	
+		<rect id="Base_4_" x="2.4" y="212.1" fill="#575756" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="295.2" height="11.6"/>
+	<g id="Stairs_3_">
+		<linearGradient id="Step_1_" gradientUnits="userSpaceOnUse" x1="167.9727" y1="204.3979" x2="192.5564" y2="243.3992">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Step_10_" x="149.7" y="219.8" fill="url(#Step_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="58.3" height="3.9"/>
+		<linearGradient id="Step_2_" gradientUnits="userSpaceOnUse" x1="169.7129" y1="203.3013" x2="194.2959" y2="242.3013">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Step_9_" x="152.6" y="215.9" fill="url(#Step_2_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="52.6" height="3.9"/>
+		<linearGradient id="Step_3_" gradientUnits="userSpaceOnUse" x1="171.3574" y1="202.2646" x2="195.9413" y2="241.266">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Step_4_" x="155.1" y="212.1" fill="url(#Step_3_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="47.2" height="3.9"/>
+	</g>
+</g>
+</svg>

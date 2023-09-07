@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Hopper_Window" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="280px" height="300px" viewBox="0 0 280 300" enable-background="new 0 0 280 300" xml:space="preserve">
+<linearGradient id="Product_1_" gradientUnits="userSpaceOnUse" x1="205.3477" y1="256.6572" x2="19.5731" y2="188.6333">
+	<stop  offset="0" style="stop-color:#AFAFAE"/>
+	<stop  offset="1" style="stop-color:#424242"/>
+</linearGradient>
+<path id="Product" fill="url(#Product_1_)" d="M36.3,259.4c0-1,0.4-1.9,1-2.6l114.8-124.4h-142v157.4l26.2,0V259.4z"/>
+<linearGradient id="Hopper_Inside_1_" gradientUnits="userSpaceOnUse" x1="390.8975" y1="71.2856" x2="-81.3401" y2="71.2857">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<polygon id="Hopper_Inside" fill="url(#Hopper_Inside_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	10.1,132.4 10.1,10.1 265,10.1 152.1,132.4 "/>
+<linearGradient id="Frame_1_" gradientUnits="userSpaceOnUse" x1="-124.8203" y1="150.0137" x2="479.1622" y2="150.0137">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Frame" fill="url(#Frame_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M40.2,297.6L40.2,297.6l-34,0c-2.1,0-3.9-1.7-3.9-3.9V6.3c0-2.1,1.7-3.9,3.9-3.9h267.6c1.5,0,2.9,0.9,3.5,2.3s0.3,3-0.7,4.2
+	L44.1,260.9v32.8c0,1-0.4,2-1.1,2.7C42.2,297.2,41.2,297.6,40.2,297.6z M10.1,289.9l26.2,0v-30.5c0-1,0.4-1.9,1-2.6L265,10.1H10.1
+	V289.9z"/>
+</svg>

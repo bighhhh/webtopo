@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="StatusOnDiagMFault" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="67.1533" y1="50.6182" x2="275.3306" y2="299.2329">
+	<stop  offset="0" style="stop-color:#F11A3E"/>
+	<stop  offset="1" style="stop-color:#91072B"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#80011E" stroke-width="0.75" stroke-miterlimit="10" cx="150" cy="149.6" r="148"/>
+<g id="Icon">
+	<linearGradient id="Gear_1_" gradientUnits="userSpaceOnUse" x1="134.8105" y1="122.5288" x2="419.5992" y2="455.5356">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Gear" fill="url(#Gear_1_)" stroke="#CFCFCE" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M259.8,201.1l0-24.9l-19.9,0c-1.2-4.7-3-9-5.4-13.1l14.1-14.1L231,131.4l-14.1,14.1c-4-2.4-8.4-4.2-13.1-5.4v-19.9h-24.9v19.9
+		c-4.7,1.2-9,3-13.1,5.4l-14.1-14.1L134.1,149l14.1,14.1c-2.4,4-4.2,8.4-5.4,13.1l-19.9,0l0,24.9l19.9,0c1.2,4.7,3,9,5.4,13.1
+		l-14.1,14.1l17.6,17.6l14.1-14.1c4,2.4,8.4,4.2,13.1,5.4v19.9h24.9v-19.9c4.7-1.2,9-3,13.1-5.4l14.1,14.1l17.6-17.6l-14.1-14.1
+		c2.4-4,4.2-8.4,5.4-13.1L259.8,201.1z M216.9,188.6c0,14.1-11.4,25.6-25.6,25.6s-25.6-11.4-25.6-25.6s11.4-25.6,25.6-25.6
+		S216.9,174.5,216.9,188.6z"/>
+	<linearGradient id="Spanner_1_" gradientUnits="userSpaceOnUse" x1="119.8809" y1="135.2969" x2="404.6695" y2="468.3037">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Spanner" fill="url(#Spanner_1_)" stroke="#CFCFCE" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M141.3,75.7L133,51.6l28.3-28.8c-17.5-4.5-36.7,1.6-48.2,16.9c-9.4,12.5-11.4,28.1-6.9,41.9l-70.9,94.5
+		c-7.6,10.1-5.6,24.5,4.6,32.1c10.1,7.6,24.5,5.6,32.1-4.6l68.6-91.4c16.9,3.5,35-2.7,46-17.4c9-12,11.2-26.9,7.4-40.2l-28.5,28.9
+		L141.3,75.7z"/>
+</g>
+</svg>

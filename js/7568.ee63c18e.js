@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[7568],{17568:function(e,t,a){e.exports=a.p+"fonts/digitalism.04ead356.ttf"}}]);

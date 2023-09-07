@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Tank_Porthole" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="271px" viewBox="0 0 300 271" enable-background="new 0 0 300 271" xml:space="preserve">
+<g id="Hinges">
+	<linearGradient id="Hinge_4_" gradientUnits="userSpaceOnUse" x1="2.7471" y1="133.0303" x2="26.6878" y2="133.0303">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<rect id="Hinge_3_" x="2.3" y="82.3" fill="url(#Hinge_4_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="25.2" height="101.5"/>
+	
+		<linearGradient id="Hinge_Porthole_Connection_1_" gradientUnits="userSpaceOnUse" x1="3.5713" y1="133.0303" x2="81.4857" y2="133.0303">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="1.493593e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="4.735558e-02" style="stop-color:#D3D3D3"/>
+		<stop  offset="7.516736e-02" style="stop-color:#E5E5E5"/>
+		<stop  offset="9.495760e-02" style="stop-color:#ECECEC"/>
+		<stop  offset="0.346" style="stop-color:#D2D2D1"/>
+		<stop  offset="0.7772" style="stop-color:#A9A9A9"/>
+		<stop  offset="1" style="stop-color:#9A9A99"/>
+	</linearGradient>
+	
+		<path id="Hinge_Porthole_Connection" fill="url(#Hinge_Porthole_Connection_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M82.7,80.9H2.3V50.7h80.5V80.9z M82.7,185.1H2.3v30.2h80.5V185.1z"/>
+	
+		<linearGradient id="Intermediate_Pieces_1_" gradientUnits="userSpaceOnUse" x1="4.6504" y1="133.0303" x2="24.8348" y2="133.0303">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+		<stop  offset="0.1171" style="stop-color:#797878"/>
+		<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3189" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5402" style="stop-color:#979696"/>
+		<stop  offset="0.7122" style="stop-color:#848484"/>
+		<stop  offset="0.9127" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	
+		<path id="Intermediate_Pieces" fill="url(#Intermediate_Pieces_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M25.5,82.3H4.3v-1.4h21.2V82.3z M25.5,183.8H4.3v1.4h21.2V183.8z"/>
+</g>
+<g id="Porthole">
+	
+		<path id="Shadow" fill="#646567" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M247.4,34.5c27.5,23.9,44.9,59.2,44.9,98.5c0,72.1-58.5,130.6-130.6,130.6c-30.3,0-58.1-10.3-80.2-27.6
+		c22.9,20,52.9,32.1,85.7,32.1c72.1,0,130.6-58.5,130.6-130.6C297.8,95.7,278,58.4,247.4,34.5z"/>
+	<linearGradient id="Connection_Ring_1_" gradientUnits="userSpaceOnUse" x1="-8.1987" y1="-31.29" x2="478.7898" y2="439.7603">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Connection_Ring" fill="url(#Connection_Ring_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M161.7,2.4C89.6,2.4,31.1,60.9,31.1,133c0,72.1,58.5,130.6,130.6,130.6c72.1,0,130.6-58.5,130.6-130.6
+		C292.3,60.9,233.8,2.4,161.7,2.4z M161.7,236.6c-57.2,0-103.5-46.4-103.5-103.5c0-57.2,46.4-103.5,103.5-103.5
+		c57.2,0,103.5,46.4,103.5,103.5C265.2,190.2,218.9,236.6,161.7,236.6z"/>
+	<linearGradient id="Seal_1_" gradientUnits="userSpaceOnUse" x1="294.9043" y1="308.021" x2="20.8062" y2="-52.0111">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Seal" fill="url(#Seal_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M161.7,29.5C104.5,29.5,58.1,75.8,58.1,133c0,57.2,46.4,103.5,103.5,103.5c57.2,0,103.5-46.4,103.5-103.5
+		C265.2,75.8,218.9,29.5,161.7,29.5z M161.7,233.5c-55.5,0-100.5-45-100.5-100.5c0-55.5,45-100.5,100.5-100.5
+		c55.5,0,100.5,45,100.5,100.5C262.2,188.5,217.2,233.5,161.7,233.5z"/>
+	<linearGradient id="Porthole_2_" gradientUnits="userSpaceOnUse" x1="-60.3584" y1="34.0854" x2="161.9592" y2="133.1555">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<circle id="Porthole_1_" fill="url(#Porthole_2_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="161.7" cy="133" r="100.5"/>
+	<path id="Reflection" fill="#9A9A99" d="M161.7,32.6c-55.5,0-100.5,45-100.5,100.5c0,27,10.6,51.4,27.9,69.5L201,40.5
+		C188.9,35.4,175.6,32.6,161.7,32.6z"/>
+	
+		<path id="Shadows_Nuts" fill="#646567" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M158,22.4h7.4l3.7-6.4l-3.7-6.4l2.8,2.1l3.7,6.4l-3.7,6.4h-7.4L158,22.4z M120.6,31.5h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1L129,23
+		l-3.7,6.4h-7.4L120.6,31.5z M85.5,51.8h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L85.5,51.8z M236,51.8h7.4l3.7-6.4
+		l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L236,51.8z M85.5,231.2h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L85.5,231.2z
+		 M236,231.2h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L236,231.2z M262.1,83h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4
+		l-3.7,6.4h-7.4L262.1,83z M276,161.8h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L276,161.8z M262.1,200.1h7.4l3.7-6.4
+		l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L262.1,200.1z M276,121.1h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L276,121.1
+		z M200.7,31.5h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4H198L200.7,31.5z M120.6,251.6h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1
+		l3.7,6.4l-3.7,6.4h-7.4L120.6,251.6z M160.7,258.6h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4H158L160.7,258.6z M200.7,251.6
+		h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4H198L200.7,251.6z M58.9,83h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4
+		L58.9,83z M58.9,200.1h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L58.9,200.1z M45.4,161.8h7.4l3.7-6.4l-3.7-6.4
+		l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L45.4,161.8z M45.4,121.1h7.4l3.7-6.4l-3.7-6.4l-2.8-2.1l3.7,6.4l-3.7,6.4h-7.4L45.4,121.1z"/>
+	<g id="Nuts">
+		<linearGradient id="Nut_18_1_" gradientUnits="userSpaceOnUse" x1="111.2979" y1="14.1567" x2="136.4054" y2="35.6703">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_18" fill="url(#Nut_18_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			125.3,29.4 129,23 125.3,16.5 117.9,16.5 114.2,23 117.9,29.4 		"/>
+		<linearGradient id="Nut_17_1_" gradientUnits="userSpaceOnUse" x1="76.1714" y1="34.4937" x2="101.2807" y2="56.0087">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_17" fill="url(#Nut_17_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			90.2,49.7 93.9,43.3 90.2,36.9 82.7,36.9 79,43.3 82.7,49.7 		"/>
+		<linearGradient id="Nut_16_2_" gradientUnits="userSpaceOnUse" x1="49.5698" y1="65.6729" x2="74.6774" y2="87.1864">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_16_1_" fill="url(#Nut_16_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			63.6,80.9 67.3,74.5 63.6,68.1 56.1,68.1 52.4,74.5 56.1,80.9 		"/>
+		<linearGradient id="Nut_15_2_" gradientUnits="userSpaceOnUse" x1="36.1055" y1="103.8398" x2="61.213" y2="125.3534">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_15_1_" fill="url(#Nut_15_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			50.1,119.1 53.8,112.7 50.1,106.2 42.7,106.2 39,112.7 42.7,119.1 		"/>
+		<linearGradient id="Nut_14_2_" gradientUnits="userSpaceOnUse" x1="36.106" y1="144.5186" x2="61.2152" y2="166.0336">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_14_1_" fill="url(#Nut_14_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			50.1,159.8 53.8,153.3 50.1,146.9 42.7,146.9 39,153.3 42.7,159.8 		"/>
+		<linearGradient id="Nut_13_1_" gradientUnits="userSpaceOnUse" x1="49.5703" y1="182.7588" x2="74.6779" y2="204.2723">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_13" fill="url(#Nut_13_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			63.6,198 67.3,191.6 63.6,185.1 56.1,185.1 52.4,191.6 56.1,198 		"/>
+		<linearGradient id="Nut_12_1_" gradientUnits="userSpaceOnUse" x1="76.1729" y1="213.9077" x2="101.2821" y2="235.4227">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_12" fill="url(#Nut_12_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			90.2,229.2 93.9,222.7 90.2,216.3 82.7,216.3 79,222.7 82.7,229.2 		"/>
+		<linearGradient id="Nut_11_1_" gradientUnits="userSpaceOnUse" x1="111.2979" y1="234.2593" x2="136.4071" y2="255.7743">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_11" fill="url(#Nut_11_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			125.3,249.5 129,243.1 125.3,236.6 117.9,236.6 114.2,243.1 117.9,249.5 		"/>
+		<linearGradient id="Nut_Bottom_1_" gradientUnits="userSpaceOnUse" x1="151.3955" y1="241.3022" x2="176.5031" y2="262.8158">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_Bottom" fill="url(#Nut_Bottom_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			165.4,256.5 169.1,250.1 165.4,243.7 158,243.7 154.3,250.1 158,256.5 		"/>
+		<linearGradient id="Nut_9_1_" gradientUnits="userSpaceOnUse" x1="191.4224" y1="234.2598" x2="216.5299" y2="255.7733">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_9_4_" fill="url(#Nut_9_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			205.4,249.5 209.1,243.1 205.4,236.6 198,236.6 194.3,243.1 198,249.5 		"/>
+		<linearGradient id="Nut_8_1_" gradientUnits="userSpaceOnUse" x1="226.7007" y1="213.9082" x2="251.8082" y2="235.4217">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_8_4_" fill="url(#Nut_8_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			240.7,229.2 244.4,222.7 240.7,216.3 233.3,216.3 229.6,222.7 233.3,229.2 		"/>
+		<linearGradient id="Nut_7_1_" gradientUnits="userSpaceOnUse" x1="252.7969" y1="182.7598" x2="277.9044" y2="204.2733">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_7_4_" fill="url(#Nut_7_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			266.8,198 270.5,191.6 266.8,185.1 259.4,185.1 255.7,191.6 259.4,198 		"/>
+		<linearGradient id="Nut_6_1_" gradientUnits="userSpaceOnUse" x1="266.7041" y1="144.5195" x2="291.8134" y2="166.0346">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_6" fill="url(#Nut_6_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			280.7,159.8 284.4,153.3 280.7,146.9 273.3,146.9 269.6,153.3 273.3,159.8 		"/>
+		<linearGradient id="Nut_5_1_" gradientUnits="userSpaceOnUse" x1="266.6709" y1="103.8398" x2="291.7784" y2="125.3534">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_5_4_" fill="url(#Nut_5_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			280.7,119.1 284.4,112.7 280.7,106.2 273.2,106.2 269.5,112.7 273.2,119.1 		"/>
+		<linearGradient id="Nut_4_2_" gradientUnits="userSpaceOnUse" x1="252.7969" y1="65.6729" x2="277.9044" y2="87.1864">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_4_1_" fill="url(#Nut_4_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			266.8,80.9 270.5,74.5 266.8,68.1 259.4,68.1 255.7,74.5 259.4,80.9 		"/>
+		<linearGradient id="Nut_3_1_" gradientUnits="userSpaceOnUse" x1="226.7007" y1="34.4941" x2="251.8082" y2="56.0077">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_3_4_" fill="url(#Nut_3_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			240.7,49.7 244.4,43.3 240.7,36.9 233.3,36.9 229.6,43.3 233.3,49.7 		"/>
+		<linearGradient id="Nut_2_2_" gradientUnits="userSpaceOnUse" x1="191.4233" y1="14.1582" x2="216.5291" y2="35.6702">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_2_1_" fill="url(#Nut_2_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			205.4,29.4 209.1,23 205.4,16.5 198,16.5 194.3,23 198,29.4 		"/>
+		<linearGradient id="Nut_Top_1_" gradientUnits="userSpaceOnUse" x1="151.396" y1="7.1318" x2="176.5035" y2="28.6454">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Nut_Top" fill="url(#Nut_Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			158,22.4 154.3,15.9 158,9.5 165.4,9.5 169.1,15.9 165.4,22.4 		"/>
+	</g>
+</g>
+</svg>
