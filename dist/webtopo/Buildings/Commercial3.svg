@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Commercial_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="149px" viewBox="0 0 300 149" enable-background="new 0 0 300 149" xml:space="preserve">
+<g id="Structure_Building">
+	
+		<linearGradient id="Structure_Building_Front_1_" gradientUnits="userSpaceOnUse" x1="228.6284" y1="93.5649" x2="228.6284" y2="185.6639">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Structure_Building_Front" fill="url(#Structure_Building_Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		297.6,51.6 297.6,99.9 270.7,99.9 270.7,129.2 165.3,129.2 159.6,126.3 159.6,99.9 159.6,61.9 159.6,51.6 	"/>
+	
+		<linearGradient id="Structure_Building_Side_1_" gradientUnits="userSpaceOnUse" x1="-43.1572" y1="-23.1289" x2="176.5083" y2="225.2023">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Structure_Building_Side" fill="url(#Structure_Building_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		179.6,146.8 179.6,139.4 128.7,113.6 59.2,112.8 59.2,85 61.2,85 61.2,5 2.4,32.2 2.4,118.2 127,120.1 	"/>
+	
+		<linearGradient id="Structure_First_Floor_Left_1_" gradientUnits="userSpaceOnUse" x1="88.5259" y1="49.5928" x2="212.5262" y2="155.593">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Structure_First_Floor_Left" fill="url(#Structure_First_Floor_Left_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		61.2,5 159.6,51.6 159.6,99.9 61.2,85 	"/>
+	
+		<linearGradient id="Structure_Basement_Left_1_" gradientUnits="userSpaceOnUse" x1="91.0962" y1="94.8027" x2="207.966" y2="163.9441">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<polygon id="Structure_Basement_Left" fill="url(#Structure_Basement_Left_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		159.6,99.9 159.6,126.3 132.2,112.4 59.2,111.4 59.2,85 61.2,85 	"/>
+	<linearGradient id="Structure_Roof_1_" gradientUnits="userSpaceOnUse" x1="162.021" y1="21.7544" x2="303.7734" y2="77.7334">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Structure_Roof" fill="url(#Structure_Roof_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		112.2,29.1 217.5,29.1 217.5,16.7 86,16.7 	"/>
+</g>
+<linearGradient id="Embankment_Left_1_" gradientUnits="userSpaceOnUse" x1="91.9258" y1="117.4604" x2="89.9258" y2="149.46">
+	<stop  offset="0" style="stop-color:#9A9A99"/>
+	<stop  offset="0.2954" style="stop-color:#919190"/>
+	<stop  offset="0.7771" style="stop-color:#797978"/>
+	<stop  offset="1" style="stop-color:#6B6B6A"/>
+</linearGradient>
+<polyline id="Embankment_Left" fill="url(#Embankment_Left_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	2.4,118.2 127,120.1 179.6,146.8 2.4,146.8 2.4,118.2 "/>
+<linearGradient id="Ground_Entrance_1_" gradientUnits="userSpaceOnUse" x1="231.4795" y1="148.2266" x2="231.4795" y2="130.0931">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<polygon id="Ground_Entrance" fill="url(#Ground_Entrance_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	182.2,145.3 182.2,137.9 165.3,129.2 270.7,129.2 297.6,145.3 "/>
+<g id="Windows">
+	
+		<linearGradient id="Windows_First_Flooe_Right_1_" gradientUnits="userSpaceOnUse" x1="228.6284" y1="35.0249" x2="228.6284" y2="82.2556">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<polygon id="Windows_First_Flooe_Right" fill="url(#Windows_First_Flooe_Right_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		231.5,61.9 159.6,61.9 159.6,82.1 199.3,82.1 199.3,91.9 297.6,91.9 297.6,61.9 	"/>
+	
+		<linearGradient id="Windows_Basement_Left_1_" gradientUnits="userSpaceOnUse" x1="138.2998" y1="84.6787" x2="136.2998" y2="104.0117">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<polygon id="Windows_Basement_Left" fill="url(#Windows_Basement_Left_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		113.4,92.9 113.4,108.8 159.6,111.4 159.6,99.9 	"/>
+	
+		<linearGradient id="Windows_First_Fllorr_Left_1_" gradientUnits="userSpaceOnUse" x1="131.0801" y1="30.2056" x2="122.2464" y2="58.5396">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<polygon id="Windows_First_Fllorr_Left" fill="url(#Windows_First_Fllorr_Left_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		85.7,32.2 85.7,62.4 159.6,82.1 159.6,61.9 	"/>
+	<linearGradient id="Windows_Top_1_" gradientUnits="userSpaceOnUse" x1="164.4893" y1="-8.9766" x2="164.4893" y2="38.1612">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<polygon id="Windows_Top" fill="url(#Windows_Top_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		212.5,29.1 212.5,49.9 159.6,49.9 116.5,29.1 	"/>
+</g>
+<linearGradient id="Entrance_1_" gradientUnits="userSpaceOnUse" x1="281.4346" y1="74.6377" x2="220.4353" y2="115.6373">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#424242"/>
+</linearGradient>
+<linearGradient id="Entrance_2_" gradientUnits="userSpaceOnUse" x1="198.916" y1="114.5835" x2="245.0879" y2="114.5835">
+	<stop  offset="0" style="stop-color:#9A9A99"/>
+	<stop  offset="0.2954" style="stop-color:#919190"/>
+	<stop  offset="0.7771" style="stop-color:#797978"/>
+	<stop  offset="1" style="stop-color:#6B6B6A"/>
+</linearGradient>
+<rect id="Entrance" x="199.3" y="99.9" fill="url(#Entrance_1_)" stroke="url(#Entrance_2_)" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="45.4" height="29.3"/>
+<path id="Separation_Windows" fill="none" stroke="#ADADAD" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M151.9,98.8v11.3 M143.2,97.4v12.2 M123.7,94.6v13.9 M133.2,96v13 M151.9,58.9V80 M143.2,55.4v22.3 M123.7,47.6v24.9 M113.2,43.4
+	v26.1 M100.2,38.1v28.1 M133.2,51.5V75 M199.3,29.1v20.8 M186.1,29.1v20.8 M172.9,29.1v20.8 M159.6,29.1v20.7 M146.4,29.1v14.3
+	 M133.2,29.1v7.9 M199.3,62.4V82 M186.1,61.9V82 M215.4,61.9v30 M231.5,61.9v30 M172.9,61.9V82 M244.7,62.1v29.8 M258,62.1v29.8
+	 M271.2,62.1v29.8 M284.4,62.1v29.8 M215.4,99.9v28.6 M231.5,99.9v28.6"/>
+<polygon id="Shadow_Building_Left" fill="#646567" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	113.4,92.9 113.4,95.8 59.2,88.5 59.2,85 61.2,85 "/>
+<path id="Shadows_Windows" fill="#424242" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M159.6,61.9v1.7l-73.9-29v-2.4L159.6,61.9z M123.1,32.2h89.4v-3.2h-96L123.1,32.2z M159.6,99.9v2.2h111.1v-2.2H159.6z M159.6,102.1
+	v-2.2l-46.2-7v2.9L159.6,102.1z M159.6,61.9v1.7h138v-1.7H159.6z"/>
+<g id="Profile_Small_Wall">
+	
+		<polygon id="Profile_Front" fill="#77787A" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		179.6,139.4 179.6,146.8 182.2,145.3 182.2,137.9 	"/>
+	<linearGradient id="Profile_2_1_" gradientUnits="userSpaceOnUse" x1="141.2163" y1="119.0801" x2="220.7166" y2="155.8302">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Profile_2" fill="url(#Profile_2_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		128.7,113.6 179.6,139.4 182.2,137.9 132.2,112.4 	"/>
+	<linearGradient id="Profile_1_1_" gradientUnits="userSpaceOnUse" x1="95.8418" y1="106.4097" x2="95.009" y2="142.2348">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Profile_1" fill="url(#Profile_1_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		128.7,113.6 132.2,112.4 59.2,111.4 59.2,112.8 	"/>
+</g>
+<rect id="Facade_Geay_Above_Entrance" x="199.3" y="91.9" fill="#575756" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="98.4" height="8"/>
+<polygon id="Gray_Wall_Element" fill="#646567" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="199.3,129.2 
+	165.3,129.2 159.6,126.3 159.6,99.9 199.3,99.9 "/>
+<g id="Profile_Sheets">
+	<linearGradient id="Profil_Windows_2_1_" gradientUnits="userSpaceOnUse" x1="170.0337" y1="77.3145" x2="216.4995" y2="105.3691">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Profil_Windows_2" x="159.6" y="82.1" fill="url(#Profil_Windows_2_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="39.7" height="1.8"/>
+	<linearGradient id="Profil_Windows_1_1_" gradientUnits="userSpaceOnUse" x1="85.7363" y1="73.1665" x2="159.6113" y2="73.1665">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Profil_Windows_1" fill="url(#Profil_Windows_1_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		85.7,62.4 85.7,64.9 159.6,83.9 159.6,82.1 	"/>
+	<linearGradient id="Profil_Roof_3_1_" gradientUnits="userSpaceOnUse" x1="226.1768" y1="46.2285" x2="251.6501" y2="93.1912">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Profil_Roof_3" x="159.6" y="49.9" fill="url(#Profil_Roof_3_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="138" height="1.8"/>
+	<linearGradient id="Profil_Roof_2_1_" gradientUnits="userSpaceOnUse" x1="61.2363" y1="27.0078" x2="159.6113" y2="27.0078">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Profil_Roof_2" fill="url(#Profil_Roof_2_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		61.2,5 159.6,51.6 159.6,49.9 61.2,2.4 	"/>
+	<linearGradient id="Profil_Roof_Top_1_" gradientUnits="userSpaceOnUse" x1="131.9966" y1="-0.7515" x2="234.6638" y2="79.9155">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Profil_Roof_Top" fill="url(#Profil_Roof_Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		90.9,16.7 94.5,18.5 217.5,18.5 217.5,16.7 	"/>
+	<linearGradient id="Profil_Roof_1_1_" gradientUnits="userSpaceOnUse" x1="2.3613" y1="17.3203" x2="61.2363" y2="17.3203">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Profil_Roof_1" fill="url(#Profil_Roof_1_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.4,32.2 61.2,5 61.2,2.4 2.4,30.5 	"/>
+</g>
+<line id="Highlight_Line_Edge_Wall" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" x1="199.3" y1="99.5" x2="199.3" y2="82.5"/>
+</svg>

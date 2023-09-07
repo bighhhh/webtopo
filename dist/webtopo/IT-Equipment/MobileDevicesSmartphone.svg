@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Mobile_Devices_Smartphone" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="159px" height="300px" viewBox="0 0 159 300" enable-background="new 0 0 159 300" xml:space="preserve">
+<linearGradient id="Frame_1_" gradientUnits="userSpaceOnUse" x1="-41.501" y1="-21.8643" x2="243.4993" y2="382.1359">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Frame_16_" fill="url(#Frame_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M146.2,2.4h-133
+	C7.4,2.4,2.7,7.1,2.7,12.9v274.2c0,5.8,4.7,10.5,10.5,10.5h133c5.8,0,10.5-4.7,10.5-10.5V12.9C156.8,7.1,152.1,2.4,146.2,2.4z
+	 M154.7,287.1c0,4.8-3.9,8.7-8.7,8.7H13.3c-4.8,0-8.7-3.9-8.7-8.7v-274c0-4.8,3.9-8.7,8.7-8.7h132.7c4.8,0,8.7,3.9,8.7,8.7V287.1z"
+	/>
+<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="-6.6831" y1="83.959" x2="285.0331" y2="307.1099">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Shape_134_" fill="url(#Shape_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M13.4,295.7
+	c-4.8,0-8.7-3.9-8.7-8.7v-274c0-4.8,3.9-8.7,8.7-8.7h132.7c4.8,0,8.7,3.9,8.7,8.7v274c0,4.8-3.9,8.7-8.7,8.7H13.4z"/>
+<linearGradient id="Touchscreen_1_" gradientUnits="userSpaceOnUse" x1="-55.396" y1="81.5015" x2="84.7754" y2="138.3132">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#424242"/>
+</linearGradient>
+<rect id="Touchscreen_4_" x="10.1" y="24.3" fill="url(#Touchscreen_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="139.4" height="224"/>
+<linearGradient id="Loudspeaker_1_" gradientUnits="userSpaceOnUse" x1="92.7573" y1="27.1792" x2="60.3561" y2="-5.2221">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#424242"/>
+</linearGradient>
+<rect id="Loudspeaker_2_" x="69.2" y="11.8" fill="url(#Loudspeaker_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="21" height="4.7"/>
+<polygon id="Reflection_Touchscreen_4_" fill="#9A9A99" points="10.1,24.3 10.1,186.2 121.7,24.3 "/>
+<polyline id="Reflection_Line_Touchscreen_2_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	149.4,24.3 149.4,248.3 10.1,248.3 "/>
+<polyline id="Shadow_Line_2_" fill="none" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	10.1,248.3 10.1,24.3 149.4,24.3 "/>
+<linearGradient id="Home_Button_1_" gradientUnits="userSpaceOnUse" x1="109.0352" y1="294.438" x2="59.6963" y2="256.2232">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Home_Button_4_" fill="url(#Home_Button_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M61.7,275.1
+	c0,3.5,2.9,6.4,6.4,6.4h23.2c3.5,0,6.4-2.9,6.4-6.4v-6.7c0-3.5-2.9-6.4-6.4-6.4H68.1c-3.5,0-6.4,2.9-6.4,6.4V275.1z"/>
+</svg>

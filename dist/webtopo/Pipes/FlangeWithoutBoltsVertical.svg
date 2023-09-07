@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Flange_Without_Bolts_Vertical"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="32px" height="300px"
+	 viewBox="0 0 32 300" enable-background="new 0 0 32 300" xml:space="preserve">
+<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="16" y1="2.4019" x2="16" y2="297.624">
+	<stop  offset="0" style="stop-color:#A5A5A5"/>
+	<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+	<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+	<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+	<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+	<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+	<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+	<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+	<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+	<stop  offset="0.8378" style="stop-color:#868686"/>
+	<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+	<stop  offset="1" style="stop-color:#404040"/>
+</linearGradient>
+<polygon id="Shape_55_" fill="url(#Shape_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+	2.2,295.8 5.6,297.6 26.4,297.6 29.8,295.8 29.8,4.2 26.4,2.4 5.6,2.4 2.2,4.2 "/>
+<linearGradient id="Reflection_1_" gradientUnits="userSpaceOnUse" x1="5.6191" y1="57.8164" x2="26.377" y2="57.8164">
+	<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+	<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+</linearGradient>
+<rect id="Reflection_12_" x="5.6" y="32.7" fill="url(#Reflection_1_)" width="20.8" height="50.3"/>
+<linearGradient id="Edge_Right_1_" gradientUnits="userSpaceOnUse" x1="28.0874" y1="2.75" x2="28.0874" y2="301.9724">
+	<stop  offset="0" style="stop-color:#AFAFAE"/>
+	<stop  offset="1" style="stop-color:#424242"/>
+</linearGradient>
+<polyline id="Edge_Right" fill="url(#Edge_Right_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+	26.4,297.6 29.8,295.8 29.8,4.2 26.4,2.4 "/>
+<linearGradient id="Edge_Left_1_" gradientUnits="userSpaceOnUse" x1="3.9106" y1="2.917" x2="3.9106" y2="371.9299">
+	<stop  offset="0" style="stop-color:#CFCFCE"/>
+	<stop  offset="4.006578e-02" style="stop-color:#E4E4E3"/>
+	<stop  offset="8.471731e-02" style="stop-color:#F3F3F3"/>
+	<stop  offset="0.136" style="stop-color:#FCFCFC"/>
+	<stop  offset="0.2084" style="stop-color:#FFFFFF"/>
+	<stop  offset="0.3126" style="stop-color:#FCFCFB"/>
+	<stop  offset="0.405" style="stop-color:#F1F1F1"/>
+	<stop  offset="0.4929" style="stop-color:#DFDFDF"/>
+	<stop  offset="0.578" style="stop-color:#C5C5C5"/>
+	<stop  offset="0.6612" style="stop-color:#A5A4A4"/>
+	<stop  offset="0.7417" style="stop-color:#7D7D7C"/>
+	<stop  offset="0.8069" style="stop-color:#575756"/>
+</linearGradient>
+<polyline id="Edge_Left_2_" fill="url(#Edge_Left_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+	5.6,2.4 2.2,4.2 2.2,295.8 5.6,297.6 "/>
+</svg>

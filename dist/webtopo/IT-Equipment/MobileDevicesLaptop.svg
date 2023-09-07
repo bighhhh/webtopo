@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="PC_Hardware_Laptop" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="272px" viewBox="0 0 300 272" enable-background="new 0 0 300 272" xml:space="preserve">
+<g id="Computer">
+	<linearGradient id="Shape_Case_1_" gradientUnits="userSpaceOnUse" x1="63.9746" y1="160.5259" x2="304.7711" y2="342.6989">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Shape_Case" fill="url(#Shape_Case_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.4,260.5 30.4,169.7 269.9,169.7 297.6,260.5 	"/>
+	<linearGradient id="Case_Front_1_" gradientUnits="userSpaceOnUse" x1="149.9995" y1="258.7466" x2="149.9995" y2="268.5423">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Case_Front" fill="url(#Case_Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		295.6,269.6 4.4,269.6 2.4,260.5 297.6,260.5 	"/>
+	
+		<line id="Devider_Line" fill="none" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3.8" y1="263.3" x2="296.2" y2="263.3"/>
+	
+		<line id="Reflection_Line" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="3.9" y1="264.2" x2="296" y2="264.2"/>
+	<path id="Keyboard" fill="#575756" d="M43.8,213.7l-2.1,8.6H26.2l2.4-8.6H43.8z M31.1,205l-2.2,7.8H44l1.9-7.8H31.1z M33.5,196.8
+		l-2,7.2h14.7l1.8-7.2H33.5z M35.7,189l-1.9,6.8h14.4l1.7-6.8H35.7z M51.7,181.1l1.2-5H39.3l-1.4,5H51.7z M37.6,182.1L36,188H50
+		l1.4-5.9H37.6z M45.8,213.7l-2.1,8.6h15.8l1.8-8.6H45.8z M47.9,205l-1.9,7.8h15.4L63,205H47.9z M49.9,196.8l-1.8,7.2h15l1.5-7.2
+		H49.9z M51.9,189l-1.7,6.8h14.7l1.4-6.8H51.9z M67.9,181.1l1-5H55l-1.2,5H67.9z M53.5,182.1l-1.4,5.9h14.4l1.2-5.9H53.5z
+		 M63.3,213.7l-1.8,8.6h16l1.4-8.6H63.3z M65.1,205l-1.6,7.8h15.6l1.3-7.8H65.1z M66.7,196.8l-1.5,7.2h15.3l1.2-7.2H66.7z M68.3,189
+		l-1.4,6.8h14.9L83,189H68.3z M84.3,181.1l0.8-5H71l-1,5H84.3z M69.7,182.1l-1.2,5.9h14.6l1-5.9H69.7z M81,213.7l-1.4,8.6h16
+		l1.1-8.6H81z M82.4,205l-1.3,7.8h15.6l0.9-7.8H82.4z M83.7,196.8l-1.2,7.2h15.2l0.9-7.2H83.7z M85,189l-1.1,6.8h14.9l0.8-6.8H85z
+		 M100.6,181.1l0.6-5H87.1l-0.8,5H100.6z M86.1,182.1l-1,5.9h14.6l0.7-5.9H86.1z M99.7,205l-0.9,7.8h16l0.6-7.8H99.7z M100.7,196.8
+		l-0.9,7.2h15.7l0.6-7.2H100.7z M101.7,189l-0.8,6.8h15.3l0.6-6.8H101.7z M117.3,181.1l0.4-5h-14.5l-0.6,5H117.3z M102.5,182.1
+		l-0.7,5.9h15l0.5-5.9H102.5z M117.4,205l-0.6,7.8h16l0.3-7.8H117.4z M118.1,196.8l-0.6,7.2h15.6l0.3-7.2H118.1z M118.7,189
+		l-0.6,6.8h15.2l0.3-6.8H118.7z M133.9,181.1l0.2-5h-14.3l-0.4,5H133.9z M119.3,182.1l-0.5,5.9h14.9l0.2-5.9H119.3z M135,205
+		l-0.3,7.8h14.8l0-7.8H135z M135.3,196.8l-0.3,7.2h14.4l0-7.2H135.3z M135.6,189l-0.3,6.8h14.1l0-6.8H135.6z M149.5,181.1l0-5h-13.4
+		l-0.2,5H149.5z M135.9,182.1l-0.2,5.9h13.9l0-5.9H135.9z M151.5,205l0,7.8h15.6l-0.3-7.8H151.5z M151.5,196.8l0,7.2h15.2l-0.3-7.2
+		H151.5z M151.5,189l0,6.8h14.9l-0.3-6.8H151.5z M165.8,181.1l-0.2-5h-14.1l0,5H165.8z M151.5,182.1l0,5.9h14.6l-0.2-5.9H151.5z
+		 M184.8,213.7H98.6l-1.1,8.6h87.9L184.8,213.7z M168.8,205l0.3,7.8h15.6l-0.6-7.8H168.8z M168.5,196.8l0.3,7.2H184l-0.6-7.2H168.5z
+		 M168.2,189l0.3,6.8h14.9l-0.6-6.8H168.2z M182.1,181.1l-0.4-5h-14.1l0.2,5H182.1z M167.9,182.1l0.2,5.9h14.6l-0.5-5.9H167.9z
+		 M186.8,213.7l0.7,8.6h15.8l-1-8.6H186.8z M186.1,205l0.6,7.8h15.5l-0.9-7.8H186.1z M185.4,196.8l0.6,7.2h15.1l-0.9-7.2H185.4z
+		 M184.8,189l0.6,6.8h14.8l-0.8-6.8H184.8z M198.3,181.1l-0.6-5h-14l0.4,5H198.3z M184.2,182.1l0.5,5.9h14.5l-0.7-5.9H184.2z
+		 M204.3,213.7l1,8.6h16l-1.4-8.6H204.3z M203.2,205l0.9,7.8h15.7l-1.3-7.8H203.2z M202.3,196.8l0.9,7.2h15.3l-1.2-7.2H202.3z
+		 M201.3,189l0.8,6.8h15L216,189H201.3z M214.7,181.1l-0.8-5h-14.2l0.6,5H214.7z M200.5,182.1l0.7,5.9h14.6l-1-5.9H200.5z
+		 M222,213.7l1.4,8.6h16l-1.7-8.6H222z M220.6,205l1.3,7.8h15.6l-1.6-7.8H220.6z M219.3,196.8l1.2,7.2h15.2l-1.5-7.2H219.3z
+		 M218,189l1.1,6.8H234l-1.4-6.8H218z M231,181.1l-1-5h-14.1l0.8,5H231z M216.9,182.1l1,5.9h14.6l-1.2-5.9H216.9z M239.7,213.7
+		l1.7,8.6h15.9l-2.1-8.6H239.7z M237.9,205l1.6,7.8H255l-1.9-7.8H237.9z M236.2,196.8l1.5,7.2h15.2l-1.8-7.2H236.2z M234.7,189
+		l1.4,6.8h14.8l-1.7-6.8H234.7z M247.3,181.1l-1.2-5h-14l1,5H247.3z M233.3,182.1l1.2,5.9H249l-1.4-5.9H233.3z M257.3,213.7l2.1,8.6
+		h15.4l-2.4-8.6H257.3z M255.2,205l1.9,7.8h15l-2.2-7.8H255.2z M253.2,196.8l1.8,7.2h14.7l-2-7.2H253.2z M251.3,189l1.7,6.8h14.3
+		l-1.9-6.8H251.3z M263.1,181.1l-1.4-5h-13.6l1.2,5H263.1z M249.6,182.1l1.4,5.9h14l-1.7-5.9H249.6z"/>
+	<linearGradient id="Pad_1_" gradientUnits="userSpaceOnUse" x1="70.1323" y1="143.168" x2="177.329" y2="291.5638">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<polygon id="Pad" fill="url(#Pad_1_)" stroke="#8C8C91" stroke-miterlimit="10" points="187.8,253.8 93.9,253.8 97.3,225.2 
+		185.6,225.2 	"/>
+	<polygon id="Contol_Light_Right" fill="#424242" points="270.2,253.3 269.1,249 282,249 283.3,253.3 	"/>
+	<polygon id="Contol_Light_Left" fill="#6A6A69" points="253.2,253.3 252.3,249 265.3,249 266.4,253.3 	"/>
+</g>
+<g id="Monitor">
+	<linearGradient id="Connection_1_" gradientUnits="userSpaceOnUse" x1="150.0693" y1="154.5396" x2="150.0693" y2="169.9953">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+		<stop  offset="0.1171" style="stop-color:#797878"/>
+		<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3189" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5402" style="stop-color:#979696"/>
+		<stop  offset="0.7122" style="stop-color:#848484"/>
+		<stop  offset="0.9127" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	
+		<rect id="Connection" x="69.1" y="165.4" fill="url(#Connection_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="161.9" height="5.8"/>
+	<linearGradient id="Frame_1_" gradientUnits="userSpaceOnUse" x1="145.542" y1="78.749" x2="246.9457" y2="193.48">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Frame" x="30.4" y="2.4" fill="url(#Frame_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="239.4" height="163"/>
+	<linearGradient id="Screen_1_" gradientUnits="userSpaceOnUse" x1="-19.6543" y1="-1.2256" x2="154.6619" y2="80.9434">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#424242"/>
+	</linearGradient>
+	
+		<rect id="Screen" x="36" y="9.6" fill="url(#Screen_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="228.1" height="138.3"/>
+	<polygon id="Refection_Monitor" fill="#9A9A99" points="75,147.6 36.4,147.6 36.4,10 170,10 	"/>
+	<linearGradient id="Company_Sign_1_" gradientUnits="userSpaceOnUse" x1="146.3311" y1="151.478" x2="157.0342" y2="165.7106">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Company_Sign" x="138.2" y="153.5" fill="url(#Company_Sign_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="23.7" height="5.9"/>
+	
+		<polyline id="Shadow" fill="none" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		36,147.9 36,9.6 264.1,9.6 	"/>
+	
+		<polyline id="Refection_Line" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		264.1,9.6 264.1,147.9 36,147.9 	"/>
+</g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Cardboard_Box_Closed" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="300px" height="263.5px" viewBox="0 0 300 263.5" enable-background="new 0 0 300 263.5"
+	 xml:space="preserve">
+<g id="Box_1_">
+	<linearGradient id="Small_Side_1_" gradientUnits="userSpaceOnUse" x1="395.4893" y1="654.0889" x2="225.1591" y2="-79.6418">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Small_Side" fill="url(#Small_Side_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		250.9,261.1 297.5,212.3 297.5,2.4 250.9,51.2 	"/>
+	<linearGradient id="Front_Side_1_" gradientUnits="userSpaceOnUse" x1="380.8193" y1="382.5771" x2="-474.7511" y2="-379.3815">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Front_Side" x="2.2" y="51.2" fill="url(#Front_Side_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="248.7" height="209.9"/>
+	<linearGradient id="Top_1_" gradientUnits="userSpaceOnUse" x1="701.0625" y1="-125.855" x2="-1558.9363" y2="500.1462">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Top" fill="url(#Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		2.2,51.2 250.9,51.2 297.5,2.4 48.9,2.4 	"/>
+</g>
+<line id="Devider_Line_Flaps" fill="none" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="26.4" y1="26" x2="275.1" y2="26"/>
+</svg>

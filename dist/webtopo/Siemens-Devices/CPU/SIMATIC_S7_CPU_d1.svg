@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="SIMATIC_x5F_S7_x5F_CPU_x5F_d1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="145px" height="300px"
+	 viewBox="0 0 145 300" enable-background="new 0 0 145 300" xml:space="preserve">
+<path fill="#475462" d="M53.1,298h86.7h2.1c0.6,0,0.8-0.2,0.8-0.8v-0.5V267L2.3,287.1v9.6v0.5c0,0.6,0.2,0.8,0.8,0.8h2.1h45.4H53.1
+	L53.1,298z"/>
+<path fill="#617485" d="M2.3,3.8v-1C2.3,2.2,2.5,2,3.1,2H142c0.6,0,0.8,0.2,0.8,0.8v1.1v277.3c0,0.6-0.2,0.8-0.8,0.8H52.7
+	c-16.4,4-32.7,6-49.6,6c-0.6,0-0.8-0.2-0.8-0.8V3.8L2.3,3.8z"/>
+<polyline fill="none" stroke="#475462" stroke-width="1.0069" stroke-miterlimit="10" points="87.4,2 87.4,22.9 24.4,22.9 24.4,2 
+	"/>
+<polyline fill="none" stroke="#475462" stroke-width="1.0069" stroke-miterlimit="10" points="120.9,2 120.9,22.9 111.3,22.9 
+	111.3,2 "/>
+<rect x="52.2" y="7.8" fill="#EBEDF3" width="4.4" height="4.4"/>
+<rect x="44.1" y="7.8" fill="#EBEDF3" width="4.4" height="4.4"/>
+<rect x="60.2" y="7.8" fill="#EBEDF3" width="4.4" height="4.4"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.5035" stroke-miterlimit="10" points="68,2 68,16.2 40.8,16.2 40.8,2 "/>
+<line fill="none" stroke="#475462" stroke-width="0.5035" stroke-miterlimit="10" x1="87.4" y1="21.6" x2="111.1" y2="21.6"/>
+<path fill="#475462" d="M129,31.8c1.1,0,2,0.9,2,2v220.6c0,1.1-0.9,2-2,2H16.1c-1.1,0-2-0.9-2-2V33.8c0-1.1,0.9-2,2-2h56.4H129
+	 M129,31.2H72.5H16.1c-1.4,0-2.6,1.2-2.6,2.6v220.6c0,1.4,1.2,2.6,2.6,2.6H129c1.4,0,2.6-1.2,2.6-2.6V33.8
+	C131.6,32.4,130.4,31.2,129,31.2L129,31.2z"/>
+<polygon points="24.2,31.8 120.9,31.8 120.9,164.9 24.2,164.9 "/>
+<polygon fill="#708799" points="24.2,237.9 24.2,249 46.4,249 46.4,247 26.2,247 26.2,226.9 24.2,226.9 "/>
+<polygon fill="#009741" points="120.9,237.9 120.9,249 98.7,249 98.7,247 118.8,247 118.8,226.9 120.9,226.9 "/>
+<g>
+	<polygon fill="#708799" points="48.4,194 37.3,194 37.3,216.2 59.5,216.2 59.5,214.2 39.3,214.2 39.3,196.1 59.5,196.1 59.5,194 	
+		"/>
+	<polygon fill="#708799" points="96.7,194 107.8,194 107.8,216.2 85.6,216.2 85.6,214.2 105.8,214.2 105.8,196.1 85.6,196.1 
+		85.6,194 	"/>
+	<polygon fill="#708799" points="61.5,229.3 61.5,240.4 83.6,240.4 83.6,218.2 81.6,218.2 81.6,238.3 63.5,238.3 63.5,218.2 
+		61.5,218.2 	"/>
+	<polygon fill="#708799" points="61.5,181 61.5,169.9 83.6,169.9 83.6,192 81.6,192 81.6,171.9 63.5,171.9 63.5,192 61.5,192 	"/>
+</g>
+<g>
+	<polygon points="42.1,205.2 53.1,210.5 53.1,199.8 	"/>
+	<polygon points="72.6,235.6 77.9,224.6 67.2,224.6 	"/>
+	<polygon points="72.6,174.7 77.9,185.7 67.2,185.7 	"/>
+	<polygon points="103,205.2 92,210.5 92,199.8 	"/>
+</g>
+<path fill="#FFFFFF" d="M72.5,51H33.2c-0.6,0-1,0.5-1,1v103.3c0,0.6,0.5,1,1,1h78.7c0.6,0,1-0.5,1-1V52c0-0.6-0.5-1-1-1H72.5
+	L72.5,51z"/>
+<g id="Logo">
+	<rect x="32.8" y="34.4" fill="#FFFFFF" width="33.6" height="8.1"/>
+	<path fill="#128587" d="M32.2,43.1v-9.3H67v9.3H32.2z M37.7,36.2c-0.4-0.1-0.9-0.1-1.4-0.1c-0.6,0-1.1,0.1-1.4,0.4
+		c-0.4,0.2-0.5,0.6-0.5,1c0,0.5,0.4,1,1,1.3l0.9,0.4c0.2,0.1,0.4,0.2,0.4,0.4c0,0.3-0.3,0.4-0.8,0.4c-0.4,0-0.8-0.1-1.4-0.3v0.9
+		c0.2,0,0.5,0.1,0.8,0.1c0.3,0,0.5,0.1,0.7,0.1c0.6,0,1.1-0.1,1.5-0.4c0.4-0.3,0.6-0.6,0.6-1.1c0-0.6-0.3-1-1-1.4l-0.8-0.4
+		c-0.2-0.1-0.3-0.1-0.4-0.2c-0.1-0.1-0.1-0.1-0.1-0.2c0-0.2,0.2-0.4,0.7-0.4c0.2,0,0.4,0,0.6,0c0.2,0,0.4,0.1,0.6,0.2L37.7,36.2
+		L37.7,36.2z M40.1,36.1h-1.4v4.6h1.4V36.1z M44.7,36.1h-3.5v4.6h3.5v-0.9h-2.1v-1.1h1.8V38h-1.8v-1h2.1V36.1z M51.2,36.1h-1.7
+		L48.3,39l-1.2-2.8h-1.7v4.6h0.9v-3.1l1.3,3.1h0.9l1.3-3.1v3.1h1.4V36.1L51.2,36.1z M55.7,36.1h-3.4v4.6h3.5v-0.9h-2.2v-1.1h1.8V38
+		h-1.8v-1h2.1V36.1z M60.6,36.1h-0.9v2.9l-1.7-2.9h-1.5v4.6h0.9v-3l1.7,3h1.5V36.1z M64.7,36.2c-0.5-0.1-0.9-0.1-1.4-0.1
+		c-0.6,0-1.1,0.1-1.4,0.4c-0.3,0.2-0.5,0.6-0.5,1c0,0.6,0.3,1,1,1.3l0.9,0.4c0.2,0.1,0.3,0.2,0.3,0.2c0,0,0.1,0.1,0.1,0.2
+		c0,0.3-0.3,0.4-0.8,0.4c-0.3,0-0.8-0.1-1.5-0.3v0.9c0.2,0,0.5,0.1,0.8,0.1c0.3,0,0.6,0.1,0.8,0.1c0.6,0,1.1-0.1,1.5-0.4
+		c0.4-0.3,0.5-0.6,0.5-1.1c0-0.3-0.1-0.6-0.3-0.8c-0.2-0.2-0.4-0.4-0.8-0.6l-0.8-0.4c-0.3-0.1-0.4-0.3-0.4-0.4
+		c0-0.2,0.2-0.4,0.7-0.4c0.2,0,0.4,0,0.6,0c0.2,0,0.4,0.1,0.6,0.2V36.2z"/>
+</g>
+<g id="Typo">
+	<g>
+		<text transform="matrix(0.9068 0 0 1 41.7266 6.749)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="3.8397">1516-3</text>
+		<text transform="matrix(0.9455 0 0 1 52.8208 6.749)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="3.8397">PN/DP</text>
+		<text transform="matrix(0.9491 0 0 1 85.627 41.1938)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="7.6822">SIMATIC</text>
+		<text transform="matrix(0.9552 0 0 1 85.5371 48.3877)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="7.6822">S7-</text>
+		<text transform="matrix(0.9552 0 0 1 96.4053 48.3877)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="7.6822">1</text>
+		<text transform="matrix(1.0315 0 0 1 99.9873 48.3877)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="7.6822">500</text>
+	</g>
+	<g>
+		<text transform="matrix(1.0118 0 0 1 28.7378 240.8306)" font-family="'SiemensSans-Bold'" font-size="8.0181">ESC</text>
+		<text transform="matrix(1.0118 0 0 1 104.8491 240.8306)" fill="#009741" font-family="'SiemensSans-Bold'" font-size="8.0181">OK</text>
+	</g>
+</g>
+</svg>

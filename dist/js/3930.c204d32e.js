@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[3930],{33930:function(e,n,t){t.r(n),t.d(n,{default:function(){return s}});var u=function(){var e=this,n=e._self._c;return n("div")},a=[],l={name:"SVGTable",data(){return{}},mounted(){}},r=l,c=t(1001),i=(0,c.Z)(r,u,a,!1,null,"ebcb2e30",null),s=i.exports}}]);

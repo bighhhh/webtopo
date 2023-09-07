@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Base_Plate" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="23px" viewBox="0 0 300 23" enable-background="new 0 0 300 23" xml:space="preserve">
+<g id="Support_Horizontal_Bottom_1_">
+	<linearGradient id="Shape_3_" gradientUnits="userSpaceOnUse" x1="-9.8003" y1="-46.9941" x2="395.3835" y2="120.4733">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Shape_2_" x="2.4" y="17.5" fill="url(#Shape_3_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295.3" height="3.1"/>
+	
+		<line id="Reflection_Line_1_" fill="none" stroke="#CFCFCE" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" x1="2.8" y1="18.3" x2="297.3" y2="18.3"/>
+</g>
+<g id="Front">
+	<linearGradient id="Shape_4_" gradientUnits="userSpaceOnUse" x1="-7.3613" y1="-76.7437" x2="121.9497" y2="-4.2509">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Shape_1_" x="10.1" y="5.5" fill="url(#Shape_4_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="279.8" height="12.1"/>
+	
+		<rect id="Shadow_5_" x="10.1" y="5.5" fill="#575756" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="279.8" height="3.1"/>
+</g>
+<g id="Support_Horizontal_Top_1_">
+	<linearGradient id="Shape_5_" gradientUnits="userSpaceOnUse" x1="-9.8013" y1="-62.1426" x2="395.384" y2="105.3254">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	
+		<rect id="Shape" x="2.4" y="2.4" fill="url(#Shape_5_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295.3" height="3.1"/>
+	
+		<line id="Reflection_Line_6_" fill="none" stroke="#CFCFCE" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" x1="2.8" y1="3" x2="297.3" y2="3"/>
+</g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Cabinet_Small_Blank_Left_Closed"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="270px" height="300px"
+	 viewBox="0 0 270 300" enable-background="new 0 0 270 300" xml:space="preserve">
+<linearGradient id="Shape_Door_2_" gradientUnits="userSpaceOnUse" x1="134.9668" y1="3.3457" x2="134.9668" y2="297.1977">
+	<stop  offset="0" style="stop-color:#DEDEDE"/>
+	<stop  offset="2.788184e-02" style="stop-color:#FFFFFF"/>
+	<stop  offset="4.347952e-02" style="stop-color:#DEDEDE"/>
+	<stop  offset="0.4907" style="stop-color:#DADADA"/>
+	<stop  offset="0.9379" style="stop-color:#CFCFCE"/>
+	<stop  offset="0.9529" style="stop-color:#CBCBCA"/>
+	<stop  offset="0.9682" style="stop-color:#BFBFBF"/>
+	<stop  offset="0.9836" style="stop-color:#AAAAAD"/>
+	<stop  offset="0.999" style="stop-color:#8E8E93"/>
+	<stop  offset="1" style="stop-color:#8C8C91"/>
+</linearGradient>
+<rect id="Shape_Door_1_" x="2.4" y="2.4" fill="url(#Shape_Door_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="265.2" height="295.2"/>
+<g id="Handle_2_">
+	<linearGradient id="Shape_Handle_1_" gradientUnits="userSpaceOnUse" x1="270.2422" y1="378.9629" x2="209.6681" y2="37.483">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<rect id="Shape_Handle_2_" x="236" y="191" fill="url(#Shape_Handle_1_)" width="11" height="51.4"/>
+	<polygon id="Shadow_2_" fill="#646567" points="232.3,187.4 232.3,242.5 236,242.5 236,191 247,191 247,187.4 	"/>
+	
+		<polyline id="Reflection_Line_2_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+		247,187.4 247,242.4 232.3,242.4 	"/>
+</g>
+</svg>

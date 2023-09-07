@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="280" height="280" viewBox="-18.75 0 280 280">
+    <defs xmlns="http://www.w3.org/2000/svg">
+        <linearGradient x1="20%" y1="0%" x2="100%" y2="80%" id="linearGradient-1">
+            <stop stop-color="#4285EB" offset="0%"/>
+            <stop stop-color="#2EC7FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="60%" y1="0%" x2="50%" y2="120%" id="linearGradient-2">
+            <stop stop-color="#29CDFF" offset="0%"/>
+            <stop stop-color="#148EFF" offset="60%"/>
+            <stop stop-color="#0A60FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="120%" y1="60%" x2="20%" y2="40%" id="linearGradient-3">
+            <stop stop-color="#FA816E" offset="0%"/>
+            <stop stop-color="#F74A5C" offset="60%"/>
+            <stop stop-color="#F51D2C" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <path d="M121.2435565 0 L242.4871131 70 L242.4871131 130 L121.2435565 200 L121.2435565 160 L207.8460969 110 L207.8460969 90 L121.2435565 40 Z"
+          fill="url(#linearGradient-1)"/>
+    <path d="M242.4871131 210 L121.2435565 280 L0 210 L0 70 L121.2435565 0 L181.8653348 35 Q 155.5544457 23.5 121.2435565 40 L34.64101615 90 L34.64101615 190 L121.2435565 240 L242.4871131 170 Z"
+          fill="url(#linearGradient-2)"/>
+    <path d="M173.2050808 170 L121.2435565 200 L69.2820323 170 L69.2820323 110 L121.2435565 80 L155.8845727 100 L103.9230485 130 L103.9230485 150 L121.2435565 160 L173.2050808 130 Z"
+          fill="url(#linearGradient-3)"/>
+</svg>

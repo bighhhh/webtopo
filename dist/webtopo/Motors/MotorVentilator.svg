@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Motor_Ventilator" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Ring_1_" gradientUnits="userSpaceOnUse" x1="-56.4526" y1="-56.5278" x2="410.06" y2="409.9848">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Ring" fill="url(#Ring_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M150.1,2
+	C68.3,2,2.1,68.3,2.1,150s66.3,148,148,148c81.7,0,148-66.3,148-148S231.8,2,150.1,2z M194.6,172.6l-22.2,22.1h-44.7l-22.2-22.1
+	v-44.8l22.2-22.3h44.9l22.2,22.3V172.6z"/>
+<linearGradient id="Ventilator-Symbol_1_" gradientUnits="userSpaceOnUse" x1="-33.6006" y1="-63.728" x2="142.3994" y2="141.272">
+	<stop  offset="0" style="stop-color:#6B6B6A"/>
+	<stop  offset="1" style="stop-color:#434343"/>
+</linearGradient>
+<path id="Ventilator-Symbol" fill="url(#Ventilator-Symbol_1_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M150,150.1L150,150.1L150,150.1L150,150.1z M150,150.3L150,150.3L150,150.3L150,150.3z M150,150.2L150,150.2L150,150.2L150,150.2z
+	 M150.1,150.2L150.1,150.2L150.1,150.2L150.1,150.2z M172.5,105.5L172.5,105.5l40.4-80.4c-18.9-9.5-40.2-14.9-62.8-14.9
+	c-22.6,0-44,5.4-62.9,14.9l40.4,80.4H172.5z M105.4,127.8L25,87.3c-9.5,18.9-14.9,40.2-14.9,62.8c0,22.6,5.4,44,14.9,62.9l80.4-40.5
+	V127.8z M172.4,194.7L172.4,194.7h-44.7l-40.5,80.5c18.9,9.5,40.3,14.9,62.9,14.9c22.6,0,43.9-5.4,62.8-14.9L172.4,194.7z
+	 M275.1,87.3l-80.5,40.5v44.8h0l80.4,40.5c9.5-18.9,14.9-40.3,14.9-62.9C290,127.6,284.6,106.2,275.1,87.3z"/>
+</svg>

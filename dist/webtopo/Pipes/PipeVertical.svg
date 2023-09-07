@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Pipe_Vertical_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="154px" height="300px" viewBox="0 0 154 300" enable-background="new 0 0 154 300" xml:space="preserve">
+<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="3.061" y1="150.0205" x2="150.9057" y2="150.0205">
+	<stop  offset="0" style="stop-color:#A5A5A5"/>
+	<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+	<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+	<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+	<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+	<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+	<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+	<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+	<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+	<stop  offset="0.8378" style="stop-color:#868686"/>
+	<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+	<stop  offset="1" style="stop-color:#404040"/>
+</linearGradient>
+<rect id="Shape_2_" x="2.3" y="2.4" fill="url(#Shape_1_)" width="149.4" height="295.3"/>
+<linearGradient id="Reflection_1_" gradientUnits="userSpaceOnUse" x1="14.2388" y1="150.0205" x2="36.4999" y2="150.0205">
+	<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+	<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+</linearGradient>
+<rect id="Reflection_2_" x="17.6" y="2.4" fill="url(#Reflection_1_)" width="25.5" height="295.3"/>
+<path id="Outline" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M151.7,297.7V2.4 M2.3,297.7V2.4"/>
+</svg>

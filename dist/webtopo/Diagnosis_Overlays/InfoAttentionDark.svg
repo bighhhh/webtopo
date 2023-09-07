@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="InfoAttentionDark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="41.9717" y1="41.5293" x2="248.2771" y2="247.8347">
+	<stop  offset="0" style="stop-color:#FFF700"/>
+	<stop  offset="1" style="stop-color:#FFC800"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#B38F01" stroke-width="0.75" stroke-miterlimit="10" cx="150" cy="149.6" r="148"/>
+<linearGradient id="Warning-Icon_1_" gradientUnits="userSpaceOnUse" x1="57.9165" y1="86.9185" x2="153.25" y2="188.9185">
+	<stop  offset="0" style="stop-color:#6B6B6A"/>
+	<stop  offset="1" style="stop-color:#434343"/>
+</linearGradient>
+<path id="Warning-Icon" fill="url(#Warning-Icon_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M254.2,225.4L152.6,34c-0.5-1-1.5-1.5-2.6-1.5s-2.1,0.6-2.6,1.5L45.8,225.4c-0.5,0.9-0.4,2,0.1,2.9c0.5,0.9,1.5,1.4,2.5,1.4h203.3
+	c1,0,2-0.5,2.5-1.4C254.7,227.4,254.7,226.3,254.2,225.4z M162,209.6H138v-23.9H162V209.6z M162,173.7H138V96H162V173.7z"/>
+</svg>

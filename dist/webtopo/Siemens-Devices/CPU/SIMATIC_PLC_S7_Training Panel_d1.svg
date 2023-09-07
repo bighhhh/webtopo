@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="SIMATIC_x5F_PLC_x5F_S7_x5F_Training_Panel_x5F_d1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="160px"
+	 viewBox="0 0 300 160" enable-background="new 0 0 300 160" xml:space="preserve">
+<path fill="#475462" d="M74.6,158h1.1c0.3,0,0.4-0.1,0.4-0.4v-0.2v-15.7L2,152.3v5.3c0,0.3,0.1,0.4,0.4,0.4H74.6z"/>
+<path fill="#617485" d="M2,2.9V2.4c0-0.3,0.1-0.4,0.4-0.4h73.3c0.3,0,0.4,0.1,0.4,0.4v0.6v146.2c0,0.3-0.1,0.4-0.4,0.4H28.6
+	c-8.7,2.1-17.3,3.1-26.2,3.2c-0.3,0-0.4-0.1-0.4-0.4V2.9z"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="64.5,1.9 64.5,13 13.7,13 13.7,1.9 
+	"/>
+<rect x="28.3" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+<rect x="24.1" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+<rect x="32.6" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+<path fill="#475462" d="M102.9,158h45.7h1.1c0.3,0,0.4-0.1,0.4-0.4v-0.2v-15.7l-74.1,10.6v5.1v0.2c0,0.3,0.1,0.4,0.4,0.4h1.1h23.9
+	H102.9L102.9,158z"/>
+<path fill="#617485" d="M76.1,2.9V2.4c0-0.3,0.1-0.4,0.4-0.4h73.2c0.3,0,0.4,0.1,0.4,0.4v0.6v146.2c0,0.3-0.1,0.4-0.4,0.4h-47.1
+	c-8.7,2.1-17.3,3.1-26.2,3.2c-0.3,0-0.4-0.1-0.4-0.4V2.9L76.1,2.9z"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="121,1.9 121,13 87.8,13 87.8,1.9 "/>
+<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="138.6,1.9 138.6,13 133.6,13 
+	133.6,1.9 "/>
+<rect x="102.4" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+<rect x="98.2" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+<rect x="106.7" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="110.8,1.9 110.8,9.4 96.4,9.4 
+	96.4,1.9 "/>
+<line fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" x1="121" y1="12.3" x2="133.5" y2="12.3"/>
+<path fill="#475462" d="M142.9,17.7c0.6,0,1.1,0.5,1.1,1.1V135c0,0.6-0.5,1.1-1.1,1.1H83.4c-0.6,0-1.1-0.5-1.1-1.1V18.7
+	c0-0.6,0.5-1.1,1.1-1.1h29.8H142.9 M142.9,17.3h-29.8H83.4c-0.8,0-1.4,0.6-1.4,1.4V135c0,0.8,0.6,1.4,1.4,1.4h59.5
+	c0.8,0,1.4-0.6,1.4-1.4V18.7C144.3,18,143.7,17.3,142.9,17.3L142.9,17.3z"/>
+<polygon points="87.7,17.7 138.6,17.7 138.6,87.8 87.7,87.8 "/>
+<polygon fill="#708799" points="87.7,126.3 87.7,132.2 99.4,132.2 99.4,131.1 88.7,131.1 88.7,120.5 87.7,120.5 "/>
+<polygon fill="#009741" points="138.6,126.3 138.6,132.2 127,132.2 127,131.1 137.6,131.1 137.6,120.5 138.6,120.5 "/>
+<g>
+	<polygon fill="#708799" points="100.4,103.2 94.6,103.2 94.6,114.9 106.3,114.9 106.3,113.8 95.6,113.8 95.6,104.3 106.3,104.3 
+		106.3,103.2 	"/>
+	<polygon fill="#708799" points="125.9,103.2 131.7,103.2 131.7,114.9 120.1,114.9 120.1,113.8 130.7,113.8 130.7,104.3 
+		120.1,104.3 120.1,103.2 	"/>
+	<polygon fill="#708799" points="107.3,121.8 107.3,127.6 119,127.6 119,115.9 117.9,115.9 117.9,126.5 108.4,126.5 108.4,115.9 
+		107.3,115.9 	"/>
+	<polygon fill="#708799" points="107.3,96.3 107.3,90.5 119,90.5 119,102.1 117.9,102.1 117.9,91.5 108.4,91.5 108.4,102.1 
+		107.3,102.1 	"/>
+</g>
+<g>
+	<polygon points="97.1,109.1 102.9,111.9 102.9,106.2 	"/>
+	<polygon points="113.2,125.1 116,119.3 110.3,119.3 	"/>
+	<polygon points="113.2,93 116,98.8 110.3,98.8 	"/>
+	<polygon points="129.2,109.1 123.4,111.9 123.4,106.2 	"/>
+</g>
+<path fill="#FFFFFF" d="M113.2,27.8H92.4c-0.3,0-0.5,0.2-0.5,0.5v54.5c0,0.3,0.2,0.5,0.5,0.5h41.5c0.3,0,0.5-0.2,0.5-0.5V28.3
+	c0-0.3-0.2-0.5-0.5-0.5H113.2L113.2,27.8z"/>
+<path fill="#475462" d="M150.2,149.1v8.2v0.2c0,0.3,0.1,0.4,0.4,0.4h1.1h0H166h5.3h14.3h1.1c0.3,0,0.4-0.1,0.4-0.4v0v-0.2v-8.2"/>
+<path fill="#617485" d="M187.1,142.1v7.1c0,0.2-0.1,0.3-0.3,0.3h-10l-0.1,0c-8.7,2.1-17.3,3.1-26.2,3.2c-0.2,0-0.3-0.1-0.3-0.3v0
+	v-10.3V2.8V2.4c0-0.3,0.1-0.4,0.4-0.4h36.1c0.3,0,0.4,0.1,0.4,0.4v0.5L187.1,142.1L187.1,142.1z"/>
+<path fill="#475462" d="M157.4,21.6l-1-1c-0.1-0.1-0.1-0.1-0.1-0.2v-2.7c0-0.2,0.1-0.3,0.3-0.3h24.1c0.2,0,0.3,0.1,0.3,0.3v2.7
+	c0,0.1,0,0.2-0.1,0.2l-1,1l0,0c0,0-0.1,0.1-0.1,0.2l0,0v111.1v3.2h-22.3v-3.2V21.8l0,0C157.5,21.7,157.5,21.7,157.4,21.6"/>
+<rect x="164.2" y="16.5" fill="#475462" width="9" height="0.8"/>
+<rect x="182.4" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="182.4" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="152.7" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="150.2,135.6 155,132.9 155,17.4 
+	150.2,14.7 "/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="187.1,135.6 182.4,132.9 182.4,17.4 
+	187.1,14.7 "/>
+<g>
+	<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="181.9,1.9 181.9,13 155.5,13 
+		155.5,1.9 	"/>
+	<rect x="167.5" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="163.3" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="171.8" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+</g>
+<path fill="#475462" d="M187.1,149.1v8.2v0.2c0,0.3,0.1,0.4,0.4,0.4h1.1h0H203h5.3h14.3h1.1c0.3,0,0.4-0.1,0.4-0.4v0v-0.2v-8.2"/>
+<path fill="#617485" d="M224.1,142.1v7.1c0,0.2-0.1,0.3-0.3,0.3h-10l-0.1,0c-8.7,2.1-17.3,3.1-26.2,3.2c-0.2,0-0.3-0.1-0.3-0.3v0
+	v-10.3V2.8V2.4c0-0.3,0.1-0.4,0.4-0.4h36.1c0.3,0,0.4,0.1,0.4,0.4v0.5L224.1,142.1L224.1,142.1z"/>
+<path fill="#475462" d="M194.4,21.6l-1-1c-0.1-0.1-0.1-0.1-0.1-0.2v-2.7c0-0.2,0.1-0.3,0.3-0.3h24.1c0.2,0,0.3,0.1,0.3,0.3v2.7
+	c0,0.1,0,0.2-0.1,0.2l-1,1l0,0c0,0-0.1,0.1-0.1,0.2l0,0v111.1v3.2h-22.3v-3.2V21.8l0,0C194.5,21.7,194.4,21.7,194.4,21.6"/>
+<rect x="201.1" y="16.5" fill="#475462" width="9" height="0.8"/>
+<rect x="219.3" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="219.3" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="189.7" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="187.1,135.6 191.9,132.9 191.9,17.4 
+	187.1,14.7 "/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="224.1,135.6 219.3,132.9 219.3,17.4 
+	224.1,14.7 "/>
+<g>
+	<rect x="192.9" y="23.4" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="17.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="29.2" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="35" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="40.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="46.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="52.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="58.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="63.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="69.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="75.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="81.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="87.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="92.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="98.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="104.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="110.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="116.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="121.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="192.9" y="127.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+</g>
+<g>
+	<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="218.8,1.9 218.8,13 192.4,13 
+		192.4,1.9 	"/>
+	<rect x="204.5" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="200.2" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="208.7" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+</g>
+<path fill="#475462" d="M224.1,149.1v8.2v0.2c0,0.3,0.1,0.4,0.4,0.4h1.1h0h14.2h5.3h14.3h1.1c0.3,0,0.4-0.1,0.4-0.4v0v-0.2v-8.2"/>
+<path fill="#617485" d="M261,142.1v7.1c0,0.2-0.1,0.3-0.3,0.3h-10l-0.1,0c-8.7,2.1-17.3,3.1-26.2,3.2c-0.2,0-0.3-0.1-0.3-0.3v0
+	v-10.3V2.8V2.4c0-0.3,0.1-0.4,0.4-0.4h36.1c0.3,0,0.4,0.1,0.4,0.4v0.5V142.1L261,142.1z"/>
+<path fill="#475462" d="M231.3,21.6l-1-1c-0.1-0.1-0.1-0.1-0.1-0.2v-2.7c0-0.2,0.1-0.3,0.3-0.3h24.1c0.2,0,0.3,0.1,0.3,0.3v2.7
+	c0,0.1,0,0.2-0.1,0.2l-1,1l0,0c0,0-0.1,0.1-0.1,0.2l0,0v111.1v3.2h-22.3v-3.2V21.8l0,0C231.4,21.7,231.4,21.7,231.3,21.6"/>
+<rect x="238.1" y="16.5" fill="#475462" width="9" height="0.8"/>
+<rect x="256.3" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="256.3" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="226.6" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="224.1,135.6 228.9,132.9 228.9,17.4 
+	224.1,14.7 "/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="261,135.6 256.3,132.9 256.3,17.4 
+	261,14.7 "/>
+<g>
+	<rect x="229.8" y="23.4" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="17.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="29.2" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="35" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="40.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="46.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="52.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="58.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="63.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="69.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="75.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="81.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="87.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="92.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="98.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="104.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="110.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="116.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="121.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="229.8" y="127.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+</g>
+<g>
+	<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="255.8,1.9 255.8,13 229.3,13 
+		229.3,1.9 	"/>
+	<rect x="241.4" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="237.1" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="245.6" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+</g>
+<path fill="#475462" d="M298,149.1v8.2v0.2v0c0,0.3-0.1,0.4-0.4,0.4h-1.1h-14.3h-5.3h-14.2h0h-1.1c-0.3,0-0.4-0.1-0.4-0.4v-0.2v-8.2
+	H298z"/>
+<path fill="#617485" d="M298,142.1v7.1c0,0.2-0.1,0.3-0.3,0.3h-10l-0.1,0c-8.7,2.1-17.3,3.1-26.2,3.2c-0.2,0-0.3-0.1-0.3-0.3v0
+	v-10.3V2.8V2.4c0-0.3,0.1-0.4,0.4-0.4h36.1c0.3,0,0.4,0.1,0.4,0.4v0.5V142.1L298,142.1z"/>
+<g>
+	<path fill="#475462" d="M268.3,21.6l-1-1c-0.1-0.1-0.1-0.1-0.1-0.2v-2.7c0-0.2,0.1-0.3,0.3-0.3h24.1c0.2,0,0.3,0.1,0.3,0.3v2.7
+		c0,0.1,0,0.2-0.1,0.2l-1,1l0,0c0,0-0.1,0.1-0.1,0.2v0v111.1v3.2h-22.3v-3.2V21.8v0C268.4,21.7,268.3,21.7,268.3,21.6"/>
+</g>
+<rect x="275" y="16.5" fill="#475462" width="9" height="0.8"/>
+<rect x="293.2" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="293.2" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="18.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="24.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="30.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="36.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="41.8" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="47.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="53.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="59" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="64.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="70.5" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="76.2" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="81.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="87.7" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="93.4" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="99.1" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="104.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="110.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="116.3" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="122.6" fill="#EBEDF3" width="2.2" height="2.9"/>
+<rect x="263.6" y="128.9" fill="#EBEDF3" width="2.2" height="2.9"/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="261,135.6 265.8,132.9 265.8,17.4 
+	261,14.7 "/>
+<polyline fill="none" stroke="#475462" stroke-width="0.2654" stroke-miterlimit="10" points="298,135.6 293.2,132.9 293.2,17.4 
+	298,14.7 "/>
+<g>
+	<rect x="266.8" y="23.4" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="17.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="29.2" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="35" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="40.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="46.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="52.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="58.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="63.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="69.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="75.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="81.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="87.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="92.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="98.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="104.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="110.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="116.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="121.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="266.8" y="127.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+</g>
+<g>
+	<polyline fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" points="292.7,1.9 292.7,13 266.3,13 
+		266.3,1.9 	"/>
+	<rect x="278.3" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="274.1" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+	<rect x="282.6" y="5" fill="#EBEDF3" width="2.3" height="2.3"/>
+</g>
+<line fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" x1="150.2" y1="1.9" x2="150.2" y2="158"/>
+<line fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" x1="187.1" y1="1.9" x2="187.1" y2="158"/>
+<line fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" x1="76.1" y1="1.9" x2="76.1" y2="158"/>
+<line fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" x1="224.1" y1="1.9" x2="224.1" y2="158"/>
+<line fill="none" stroke="#475462" stroke-width="0.5308" stroke-miterlimit="10" x1="261" y1="1.9" x2="261" y2="158"/>
+<g>
+	<rect x="155.9" y="23.4" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="17.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="29.2" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="35" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="40.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="46.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="52.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="58.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="63.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="69.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="75.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="81.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="87.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="92.9" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="98.7" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="104.5" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="110.3" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="116.1" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="121.8" fill="#A8D9E7" width="25.5" height="5.3"/>
+	<rect x="155.9" y="127.6" fill="#A8D9E7" width="25.5" height="5.3"/>
+</g>
+<g>
+	<path fill="#617485" d="M181.7,136.2V19.8h-0.3c0,0,0,0,0,0l-1.7,1.8v114.5H181.7z"/>
+	<path fill="#617485" d="M155.6,136.2V19.8h0.3c0,0,0,0,0,0l1.7,1.8v114.5H155.6z"/>
+	<path fill="#617485" d="M218.7,136.2V19.8h-0.3c0,0,0,0,0,0l-1.7,1.8v114.5H218.7z"/>
+	<path fill="#617485" d="M192.6,136.2V19.8h0.3c0,0,0,0,0,0l1.7,1.8v114.5H192.6z"/>
+	<path fill="#617485" d="M255.6,136.2V19.8h-0.3c0,0,0,0,0,0l-1.7,1.8v114.5H255.6z"/>
+	<path fill="#617485" d="M229.5,136.2V19.8h0.3c0,0,0,0,0,0l1.7,1.8v114.5H229.5z"/>
+	<path fill="#617485" d="M292.5,136.2V19.8h-0.3c0,0,0,0,0,0l-1.7,1.8v114.5H292.5z"/>
+	<path fill="#617485" d="M266.5,136.2V19.8h0.3c0,0,0,0,0,0l1.7,1.8v114.5H266.5z"/>
+</g>
+<g id="Logo">
+	<g>
+		<rect x="92.2" y="19" fill="#FFFFFF" width="17.7" height="4.3"/>
+		<path fill="#128587" d="M91.9,23.6v-4.9h18.4v4.9H91.9z M94.8,20c-0.2-0.1-0.5-0.1-0.7-0.1c-0.3,0-0.6,0.1-0.7,0.2
+			c-0.2,0.1-0.3,0.3-0.3,0.5c0,0.3,0.2,0.5,0.6,0.7l0.5,0.2c0.1,0,0.2,0.1,0.2,0.2c0,0.1-0.1,0.2-0.4,0.2c-0.2,0-0.4,0-0.7-0.1v0.5
+			c0.1,0,0.3,0.1,0.4,0.1c0.2,0,0.3,0,0.4,0c0.3,0,0.6-0.1,0.8-0.2c0.2-0.1,0.3-0.3,0.3-0.6c0-0.3-0.2-0.5-0.6-0.7L94,20.7
+			c-0.1,0-0.2-0.1-0.2-0.1c0,0-0.1-0.1-0.1-0.1c0-0.1,0.1-0.2,0.4-0.2c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0,0.3,0.1L94.8,20L94.8,20z
+			 M96.1,19.9h-0.7v2.4h0.7V19.9z M98.5,19.9h-1.8v2.4h1.8v-0.5h-1.1v-0.6h1v-0.4h-1v-0.6h1.1V19.9z M101.9,19.9H101l-0.6,1.5
+			l-0.6-1.5h-0.9v2.4h0.5v-1.6l0.7,1.6h0.5l0.7-1.6v1.6h0.7V19.9L101.9,19.9z M104.3,19.9h-1.8v2.4h1.8v-0.5h-1.1v-0.6h1v-0.4h-1
+			v-0.6h1.1V19.9z M106.9,19.9h-0.5v1.5l-0.9-1.5h-0.8v2.4h0.5v-1.6l0.9,1.6h0.8V19.9z M109,20c-0.2-0.1-0.5-0.1-0.7-0.1
+			c-0.3,0-0.6,0.1-0.7,0.2c-0.2,0.1-0.3,0.3-0.3,0.5c0,0.3,0.2,0.5,0.5,0.7l0.5,0.2c0.1,0,0.1,0.1,0.2,0.1c0,0,0,0.1,0,0.1
+			c0,0.1-0.1,0.2-0.4,0.2c-0.2,0-0.4,0-0.8-0.1v0.5c0.1,0,0.3,0,0.4,0.1c0.2,0,0.3,0,0.4,0c0.3,0,0.6-0.1,0.8-0.2
+			c0.2-0.1,0.3-0.3,0.3-0.6c0-0.2,0-0.3-0.1-0.4c-0.1-0.1-0.2-0.2-0.4-0.3l-0.4-0.2c-0.1-0.1-0.2-0.1-0.2-0.2c0-0.1,0.1-0.2,0.4-0.2
+			c0.1,0,0.2,0,0.3,0c0.1,0,0.2,0,0.3,0.1V20z"/>
+	</g>
+</g>
+<g id="Typo">
+	<g>
+		<text transform="matrix(1.0118 0 0 1 90.064 127.8613)" font-family="'SiemensSans-Bold'" font-size="4.2288">ESC</text>
+		<text transform="matrix(1.0118 0 0 1 130.1885 127.8613)" fill="#009741" font-family="'SiemensSans-Bold'" font-size="4.2288">OK</text>
+	</g>
+	<g>
+		<path fill="#EBEDF3" d="M158.6,11.9h-1.7v-1.7h1.7V11.9z M156.9,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M160.2,11.9h-1.7v-1.7h1.7V11.9z M158.6,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M161.8,11.9h-1.7v-1.7h1.7V11.9z M160.2,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<text transform="matrix(0.9068 0 0 1 96.9111 4.4399)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">1516-3</text>
+		<text transform="matrix(0.9455 0 0 1 102.5825 4.4399)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">PN/DP</text>
+		<text transform="matrix(0.9455 0 0 1 156.6006 4.4399)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">DI 32x24VDC HF</text>
+		<text transform="matrix(0.8927 0 0 1 156.6011 9.6465)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">6ES7 521-1BL00-0AB0</text>
+		<text transform="matrix(1.068 0 0 1 157.2505 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">X</text>
+		<text transform="matrix(1.068 0 0 1 158.9185 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">2</text>
+		<text transform="matrix(1.068 0 0 1 160.5566 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">3</text>
+		<text transform="matrix(0.9491 0 0 1 119.9102 22.6162)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="4.0516">SIMATIC</text>
+		<text transform="matrix(0.9552 0 0 1 119.9102 26.4087)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="4.0516">S7-</text>
+		<text transform="matrix(0.9552 0 0 1 125.6396 26.4087)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="4.0516">1</text>
+		<text transform="matrix(1.0315 0 0 1 127.5278 26.4087)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="4.0516">500</text>
+		<text transform="matrix(0.6313 0 0 1 177.5596 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7282 0 0 1 178.5547 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7282 0 0 1 179.751 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7242 0 0 1 176.541 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">V</text>
+		<text transform="matrix(0.7996 0 0 1 151.2344 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<text transform="matrix(0.7996 0 0 1 151.2344 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="178.3" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<rect x="179.5" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<path fill="#EBEDF3" d="M195.5,11.9h-1.7v-1.7h1.7V11.9z M193.9,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M197.1,11.9h-1.7v-1.7h1.7V11.9z M195.5,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M198.8,11.9H197v-1.7h1.7V11.9z M197.1,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<text transform="matrix(0.9455 0 0 1 193.5381 4.4399)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">DI 32x24VDC HF</text>
+		<text transform="matrix(0.8927 0 0 1 193.5386 9.6465)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">6ES7 521-1BL00-0AB0</text>
+		<text transform="matrix(1.068 0 0 1 194.188 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">X</text>
+		<text transform="matrix(1.068 0 0 1 195.856 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">2</text>
+		<text transform="matrix(1.068 0 0 1 197.4941 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">3</text>
+		<text transform="matrix(0.6313 0 0 1 214.4971 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7282 0 0 1 215.4922 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7282 0 0 1 216.6885 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7242 0 0 1 213.4785 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">V</text>
+		<rect x="215.3" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<rect x="216.4" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<path fill="#EBEDF3" d="M232.4,11.9h-1.7v-1.7h1.7V11.9z M230.8,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M234.1,11.9h-1.7v-1.7h1.7V11.9z M232.4,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M235.7,11.9H234v-1.7h1.7V11.9z M234.1,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<text transform="matrix(0.9455 0 0 1 230.4756 4.4399)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">DI 32x24VDC HF</text>
+		<text transform="matrix(0.8927 0 0 1 230.4766 9.6465)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">6ES7 521-1BL00-0AB0</text>
+		<text transform="matrix(1.068 0 0 1 231.125 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">X</text>
+		<text transform="matrix(1.068 0 0 1 232.793 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">2</text>
+		<text transform="matrix(1.068 0 0 1 234.4316 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">3</text>
+		<text transform="matrix(0.6313 0 0 1 251.4346 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7282 0 0 1 252.4297 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7282 0 0 1 253.626 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7242 0 0 1 250.416 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">V</text>
+		<rect x="252.2" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<rect x="253.4" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<path fill="#EBEDF3" d="M269.4,11.9h-1.7v-1.7h1.7V11.9z M267.8,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M271,11.9h-1.7v-1.7h1.7V11.9z M269.4,11.8h1.5v-1.5h-1.5V11.8z"/>
+		<path fill="#EBEDF3" d="M272.6,11.9h-1.7v-1.7h1.7V11.9z M271,11.8h1.5v-1.5H271V11.8z"/>
+		<text transform="matrix(0.9455 0 0 1 267.4131 4.4399)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">DI 32x24VDC HF</text>
+		<text transform="matrix(0.8927 0 0 1 267.4141 9.6465)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.0251">6ES7 521-1BL00-0AB0</text>
+		<text transform="matrix(1.068 0 0 1 268.0625 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">X</text>
+		<text transform="matrix(1.068 0 0 1 269.7305 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">2</text>
+		<text transform="matrix(1.068 0 0 1 271.3691 11.6416)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="1.539">3</text>
+		<text transform="matrix(0.6313 0 0 1 288.3721 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7282 0 0 1 289.3672 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7282 0 0 1 290.5635 11.9419)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1116">0</text>
+		<text transform="matrix(0.7242 0 0 1 287.3535 11.9321)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">V</text>
+		<rect x="289.1" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<rect x="290.3" y="11.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<rect x="151.1" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="151.1" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="151.1" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="151.1" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="151.1" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="151.1" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="151.1" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="151.1" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="151.1" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="151.1" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="151.1" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="151.1" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="151.1" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="151.1" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="151.1" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="151.1" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 151.2344 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7996 0 0 1 185.2773 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<text transform="matrix(0.7996 0 0 1 185.2773 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="185.1" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="185.1" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="185.1" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="185.1" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="185.1" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="185.1" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="185.1" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="185.1" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="185.1" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="185.1" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="185.1" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="185.1" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="185.1" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="185.1" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="185.1" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="185.1" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 185.2773 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<text transform="matrix(0.7996 0 0 1 188.1777 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<text transform="matrix(0.7996 0 0 1 188.1777 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="188" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="188" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="188" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="188" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="188" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="188" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="188" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="188" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="188" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="188" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="188" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="188" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="188" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="188" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="188" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="188" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 188.1777 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7996 0 0 1 222.2207 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<text transform="matrix(0.7996 0 0 1 222.2207 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="222" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="222" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="222" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="222" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="222" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="222" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="222" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="222" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="222" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="222" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="222" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="222" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="222" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="222" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="222" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="222" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 222.2207 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<text transform="matrix(0.7996 0 0 1 225.1211 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<text transform="matrix(0.7996 0 0 1 225.1211 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="224.9" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="224.9" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="224.9" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="224.9" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="224.9" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="224.9" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="224.9" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="224.9" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="224.9" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="224.9" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="224.9" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="224.9" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="224.9" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="224.9" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="224.9" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="224.9" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 225.1211 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7996 0 0 1 259.1641 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<text transform="matrix(0.7996 0 0 1 259.1641 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="259" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="259" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="259" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="259" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="259" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="259" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="259" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="259" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="259" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="259" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="259" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="259" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="259" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="259" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="259" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="259" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 259.1641 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<text transform="matrix(0.7996 0 0 1 262.0645 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<text transform="matrix(0.7996 0 0 1 262.0645 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="261.9" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="261.9" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="261.9" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="261.9" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="261.9" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="261.9" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="261.9" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="261.9" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="261.9" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="261.9" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="261.9" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="261.9" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="261.9" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="261.9" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="261.9" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="261.9" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 262.0645 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<text transform="matrix(0.7996 0 0 1 296.1074 18.3252)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<text transform="matrix(0.7996 0 0 1 296.1074 21.0615)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="295.9" y="20.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 26.7715)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="295.9" y="26.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 32.4814)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="295.9" y="32.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 38.1914)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="295.9" y="38" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 43.9014)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="295.9" y="43.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 49.6113)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="295.9" y="49.4" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 55.3213)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="295.9" y="55.1" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 61.0312)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="295.9" y="60.8" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 78.4238)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">0</text>
+		<rect x="295.9" y="78.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 84.1338)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">1</text>
+		<rect x="295.9" y="83.9" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 89.8438)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">2</text>
+		<rect x="295.9" y="89.6" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 95.5537)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+		<rect x="295.9" y="95.3" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 101.2637)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">4</text>
+		<rect x="295.9" y="101" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 106.9736)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">5</text>
+		<rect x="295.9" y="106.7" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 112.6836)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">6</text>
+		<rect x="295.9" y="112.5" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 118.3936)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">7</text>
+		<rect x="295.9" y="118.2" fill="#EBEDF3" width="0.2" height="0.2"/>
+		<text transform="matrix(0.7996 0 0 1 296.1074 133.3306)" fill="#EBEDF3" font-family="'SiemensSans-Roman'" font-size="2.1553">3</text>
+	</g>
+</g>
+</svg>

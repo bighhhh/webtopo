@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<!-- Copyright 2016 Siemens AG -->
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg width="300px" viewBox="0 0 300 300" y="0px" enable-background="new 0 0 300 300" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" id="Background" serverfreshtime="1000" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" x="0px">
+ <linearGradient x2="150.0005" y2="2.9048" gradientUnits="userSpaceOnUse" x1="150.0005" y1="298.9048" id="Gradation_1_">
+  <stop style="stop-color:#FFFFFF" offset="0"/>
+  <stop style="stop-color:#7C7C7B" offset="1"/>
+ </linearGradient>
+ <rect width="296" y="2" fill="url(#Gradation_1_)" height="296" id="Gradation" x="2"/>
+</svg>

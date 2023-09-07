@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="PC_Hardware_Clientsystem" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<polyline id="Network_Connection_Line" fill="none" stroke="#646567" stroke-width="8" stroke-miterlimit="10" points="63.2,37.3 
+	258,149.8 63.2,262.2 63.2,120.5 "/>
+<g id="Server">
+	<g id="Casing_2_">
+		<linearGradient id="Side_Part_Right_1_" gradientUnits="userSpaceOnUse" x1="277.458" y1="147.543" x2="280.9705" y2="147.543">
+			<stop  offset="0" style="stop-color:#9A9A99"/>
+			<stop  offset="0.2954" style="stop-color:#919190"/>
+			<stop  offset="0.7771" style="stop-color:#797978"/>
+			<stop  offset="1" style="stop-color:#6B6B6A"/>
+		</linearGradient>
+		
+			<rect id="Side_Part_Right_2_" x="278.2" y="71.3" fill="url(#Side_Part_Right_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="19.4" height="152.4"/>
+		
+			<linearGradient id="Structure_Middle_1_" gradientUnits="userSpaceOnUse" x1="271.2422" y1="158.5854" x2="299.8441" y2="194.6363">
+			<stop  offset="0" style="stop-color:#9A9A99"/>
+			<stop  offset="0.2954" style="stop-color:#919190"/>
+			<stop  offset="0.7771" style="stop-color:#797978"/>
+			<stop  offset="1" style="stop-color:#6B6B6A"/>
+		</linearGradient>
+		
+			<rect id="Structure_Middle_2_" x="246.7" y="71.3" fill="url(#Structure_Middle_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="31.5" height="152.4"/>
+		<linearGradient id="Side_Part_Left_1_" gradientUnits="userSpaceOnUse" x1="243.71" y1="147.543" x2="246.4366" y2="147.543">
+			<stop  offset="0" style="stop-color:#9A9A99"/>
+			<stop  offset="0.2954" style="stop-color:#919190"/>
+			<stop  offset="0.7771" style="stop-color:#797978"/>
+			<stop  offset="1" style="stop-color:#6B6B6A"/>
+		</linearGradient>
+		
+			<rect id="Side_Part_Left_2_" x="227.3" y="71.3" fill="url(#Side_Part_Left_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="19.4" height="152.4"/>
+		<linearGradient id="Base_3_" gradientUnits="userSpaceOnUse" x1="252.5957" y1="221.9946" x2="293.2448" y2="257.1089">
+			<stop  offset="0" style="stop-color:#9A9A99"/>
+			<stop  offset="0.2954" style="stop-color:#919190"/>
+			<stop  offset="0.7771" style="stop-color:#797978"/>
+			<stop  offset="1" style="stop-color:#6B6B6A"/>
+		</linearGradient>
+		
+			<rect id="Base_2_" x="227.3" y="223.7" fill="url(#Base_3_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="70.3" height="13.6"/>
+		<linearGradient id="Footing_Rght_1_" gradientUnits="userSpaceOnUse" x1="273.2627" y1="239.1924" x2="290.915" y2="239.1924">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#424242"/>
+		</linearGradient>
+		
+			<rect id="Footing_Rght_2_" x="282.2" y="237.3" fill="url(#Footing_Rght_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="15.5" height="3.7"/>
+		<linearGradient id="Footing_Left_1_" gradientUnits="userSpaceOnUse" x1="218.4355" y1="239.1924" x2="236.0862" y2="239.1924">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#424242"/>
+		</linearGradient>
+		
+			<rect id="Footing_Left_2_" x="227.3" y="237.3" fill="url(#Footing_Left_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" width="15.5" height="3.7"/>
+	</g>
+	<path id="Dark_Elements_Middle_2_" fill="#424242" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M278.2,90.2
+		h-31.5v-4.4h31.5V90.2z M278.2,95.5h-31.5v4.4h31.5V95.5z M278.2,105.2h-31.5v4.4h31.5V105.2z M278.2,114.9h-31.5v4.4h31.5V114.9z
+		 M278.2,124.6h-31.5v4.4h31.5V124.6z M278.2,134.3h-31.5v4.4h31.5V134.3z M278.2,144h-31.5v4.4h31.5V144z"/>
+	
+		<linearGradient id="Elements_Right_Side_1_" gradientUnits="userSpaceOnUse" x1="278.0391" y1="117.1416" x2="302.8095" y2="117.1416">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Elements_Right_Side_2_" fill="url(#Elements_Right_Side_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="
+		M297.6,90.2h-19.4v-4.4h19.4V90.2z M297.6,95.5h-19.4v4.4h19.4V95.5z M297.6,105.2h-19.4v4.4h19.4V105.2z M297.6,114.9h-19.4v4.4
+		h19.4V114.9z M297.6,124.6h-19.4v4.4h19.4V124.6z M297.6,134.3h-19.4v4.4h19.4V134.3z M297.6,144h-19.4v4.4h19.4V144z"/>
+	
+		<linearGradient id="Elements_Left_Side_1_" gradientUnits="userSpaceOnUse" x1="237.5557" y1="117.1416" x2="247.9258" y2="117.1416">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Elements_Left_Side_2_" fill="url(#Elements_Left_Side_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="
+		M246.7,90.2h-19.4v-4.4h19.4V90.2z M246.7,95.5h-19.4v4.4h19.4V95.5z M246.7,105.2h-19.4v4.4h19.4V105.2z M246.7,114.9h-19.4v4.4
+		h19.4V114.9z M246.7,124.6h-19.4v4.4h19.4V124.6z M246.7,134.3h-19.4v4.4h19.4V134.3z M246.7,144h-19.4v4.4h19.4V144z"/>
+	<path id="Shadow_Elements_1_" fill="#424242" d="M297.3,145h-69.6v-0.7h69.6V145z M297.3,135.3h-69.6v-0.7h69.6V135.3z
+		 M297.3,125.6h-69.6v-0.7h69.6V125.6z M297.3,115.9h-69.6v-0.7h69.6V115.9z M297.3,106.2h-69.6v-0.7h69.6V106.2z M297.3,96.5h-69.6
+		v-0.7h69.6V96.5z M297.3,86.8h-69.6v-0.7h69.6V86.8z"/>
+	<path id="Ventilation_Slots_2_" fill="#424242" d="M277.9,156.1h-30.8v-1.8h30.8V156.1z M277.9,160.1h-30.8v1.8h30.8V160.1z
+		 M277.9,166h-30.8v1.8h30.8V166z M277.9,171.8h-30.8v1.8h30.8V171.8z M277.9,177.7h-30.8v1.8h30.8V177.7z M277.9,183.5h-30.8v1.8
+		h30.8V183.5z M277.9,189.3h-30.8v1.8h30.8V189.3z M277.9,195.2h-30.8v1.8h30.8V195.2z M277.9,201h-30.8v1.8h30.8V201z"/>
+	<path id="Reflection_Lines_1_" fill="none" stroke="#AFAFAE" stroke-width="0.75" stroke-miterlimit="10" d="M227.7,90.2h69.5
+		 M227.7,99.9h69.5 M227.7,109.6h69.5 M227.7,119.3h69.5 M227.7,129h69.6 M227.7,138.7h69.5 M227.7,148.4h69.5 M247.1,156.3h30.8
+		 M247.1,162.1h30.8 M247.1,168h30.8 M247.1,173.8h30.8 M247.1,179.7h30.8 M247.1,185.5h30.8 M247.1,191.3h30.8 M247.1,197.2h30.8
+		 M247.1,203h30.8 M227.8,224.2h69.5"/>
+	<rect id="Shadow_Case_2_" x="247.1" y="71.7" fill="#575756" width="1" height="151.6"/>
+	<linearGradient id="Lamp_1_" gradientUnits="userSpaceOnUse" x1="289.8945" y1="230.7026" x2="289.8945" y2="232.8183">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<path id="Lamp" fill="url(#Lamp_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M286.9,230.2
+		c0-0.8,0.7-1.5,1.5-1.5h3c0.8,0,1.5,0.7,1.5,1.5v1c0,0.8-0.7,1.5-1.5,1.5h-3c-0.8,0-1.5-0.7-1.5-1.5V230.2z"/>
+</g>
+<g id="Laptop">
+	<g id="Computer">
+		<linearGradient id="Shape_Case_1_" gradientUnits="userSpaceOnUse" x1="30.2749" y1="254.6699" x2="125.084" y2="326.3972">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Shape_Case" fill="url(#Shape_Case_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			6,294 17.1,258.3 111.3,258.3 122.3,294 		"/>
+		<linearGradient id="Case_Front_1_" gradientUnits="userSpaceOnUse" x1="64.146" y1="293.3428" x2="64.146" y2="297.1992">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Case_Front" fill="url(#Case_Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			121.5,297.6 6.8,297.6 6,294 122.3,294 		"/>
+		<path id="Keyboard" fill="#575756" d="M22.3,275.6l-0.8,3.4h-6.1l1-3.4H22.3z M17.3,272.2l-0.9,3.1h5.9l0.7-3.1H17.3z M18.3,268.9
+			l-0.8,2.8h5.8l0.7-2.8H18.3z M19.1,265.9l-0.8,2.7H24l0.7-2.7H19.1z M25.5,262.8l0.5-2h-5.4l-0.6,2H25.5z M19.9,263.2l-0.7,2.3
+			h5.5l0.6-2.3H19.9z M23.1,275.6l-0.8,3.4h6.2l0.7-3.4H23.1z M24,272.2l-0.7,3.1h6.1l0.6-3.1H24z M24.8,268.9l-0.7,2.8H30l0.6-2.8
+			H24.8z M25.5,265.9l-0.7,2.7h5.8l0.5-2.7H25.5z M31.8,262.8l0.4-2h-5.5l-0.5,2H31.8z M26.2,263.2l-0.6,2.3h5.7l0.5-2.3H26.2z
+			 M30,275.6l-0.7,3.4h6.3l0.6-3.4H30z M30.7,272.2l-0.6,3.1h6.2l0.5-3.1H30.7z M31.4,268.9l-0.6,2.8h6l0.5-2.8H31.4z M32,265.9
+			l-0.5,2.7h5.9l0.4-2.7H32z M38.3,262.8l0.3-2H33l-0.4,2H38.3z M32.5,263.2l-0.5,2.3h5.8l0.4-2.3H32.5z M37,275.6l-0.6,3.4h6.3
+			l0.4-3.4H37z M37.5,272.2l-0.5,3.1h6.1l0.4-3.1H37.5z M38.1,268.9l-0.5,2.8h6l0.3-2.8H38.1z M38.6,265.9l-0.4,2.7H44l0.3-2.7H38.6
+			z M44.7,262.8l0.2-2h-5.5l-0.3,2H44.7z M39,263.2l-0.4,2.3h5.7l0.3-2.3H39z M44.3,272.2l-0.4,3.1h6.3l0.3-3.1H44.3z M44.7,268.9
+			l-0.3,2.8h6.2l0.2-2.8H44.7z M45.1,265.9l-0.3,2.7h6l0.2-2.7H45.1z M51.3,262.8l0.2-2h-5.7l-0.2,2H51.3z M45.4,263.2l-0.3,2.3h5.9
+			l0.2-2.3H45.4z M51.3,272.2l-0.3,3.1h6.3l0.1-3.1H51.3z M51.6,268.9l-0.2,2.8h6.1l0.1-2.8H51.6z M51.8,265.9l-0.2,2.7h6l0.1-2.7
+			H51.8z M57.8,262.8l0.1-2h-5.6l-0.2,2H57.8z M52,263.2l-0.2,2.3h5.9l0.1-2.3H52z M58.3,272.2l-0.1,3.1H64l0-3.1H58.3z M58.4,268.9
+			l-0.1,2.8H64l0-2.8H58.4z M58.5,265.9l-0.1,2.7H64l0-2.7H58.5z M64,262.8v-2h-5.3l-0.1,2H64z M58.6,263.2l-0.1,2.3H64l0-2.3H58.6z
+			 M64.7,272.2l0,3.1h6.1l-0.1-3.1H64.7z M64.7,268.9l0,2.8h6l-0.1-2.8H64.7z M64.7,265.9l0,2.7h5.9l-0.1-2.7H64.7z M70.4,262.8
+			l-0.1-2h-5.6l0,2H70.4z M64.7,263.2l0,2.3h5.7l-0.1-2.3H64.7z M77.8,275.6H43.9l-0.4,3.4h34.6L77.8,275.6z M71.6,272.2l0.1,3.1
+			h6.1l-0.2-3.1H71.6z M71.4,268.9l0.1,2.8h6l-0.2-2.8H71.4z M71.3,265.9l0.1,2.7h5.9l-0.2-2.7H71.3z M76.8,262.8l-0.2-2h-5.6l0.1,2
+			H76.8z M71.2,263.2l0.1,2.3H77l-0.2-2.3H71.2z M78.6,275.6l0.3,3.4h6.2l-0.4-3.4H78.6z M78.4,272.2l0.2,3.1h6.1l-0.4-3.1H78.4z
+			 M78.1,268.9l0.2,2.8h5.9l-0.3-2.8H78.1z M77.8,265.9l0.2,2.7h5.8l-0.3-2.7H77.8z M83.2,262.8l-0.2-2h-5.5l0.2,2H83.2z
+			 M77.6,263.2l0.2,2.3h5.7l-0.3-2.3H77.6z M85.5,275.6l0.4,3.4h6.3l-0.5-3.4H85.5z M85.1,272.2l0.4,3.1h6.2l-0.5-3.1H85.1z
+			 M84.7,268.9l0.3,2.8h6l-0.5-2.8H84.7z M84.3,265.9l0.3,2.7h5.9l-0.4-2.7H84.3z M89.6,262.8l-0.3-2h-5.6l0.2,2H89.6z M84,263.2
+			l0.3,2.3h5.8l-0.4-2.3H84z M92.5,275.6l0.5,3.4h6.3l-0.7-3.4H92.5z M91.9,272.2l0.5,3.1h6.1l-0.6-3.1H91.9z M91.4,268.9l0.5,2.8h6
+			l-0.6-2.8H91.4z M90.9,265.9l0.4,2.7h5.9l-0.5-2.7H90.9z M96,262.8l-0.4-2h-5.5l0.3,2H96z M90.5,263.2l0.4,2.3h5.7l-0.5-2.3H90.5z
+			 M99.5,275.6l0.7,3.4h6.3l-0.8-3.4H99.5z M98.8,272.2l0.6,3.1h6.1l-0.7-3.1H98.8z M98.1,268.9l0.6,2.8h6l-0.7-2.8H98.1z
+			 M97.5,265.9l0.5,2.7h5.8l-0.7-2.7H97.5z M102.5,262.8l-0.5-2h-5.5l0.4,2H102.5z M96.9,263.2l0.5,2.3h5.7l-0.6-2.3H96.9z
+			 M106.4,275.6l0.8,3.4h6.1l-1-3.4H106.4z M105.6,272.2l0.7,3.1h5.9l-0.9-3.1H105.6z M104.8,268.9l0.7,2.8h5.8l-0.8-2.8H104.8z
+			 M104,265.9l0.7,2.7h5.6l-0.8-2.7H104z M108.7,262.8l-0.6-2h-5.3l0.5,2H108.7z M103.4,263.2l0.6,2.3h5.5l-0.7-2.3H103.4z"/>
+		<linearGradient id="Pad_1_" gradientUnits="userSpaceOnUse" x1="32.6978" y1="247.833" x2="74.9063" y2="306.2637">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		<polygon id="Pad" fill="url(#Pad_1_)" stroke="#8C8C91" stroke-miterlimit="10" points="79,291.4 42,291.4 43.4,280.1 78.2,280.1 
+					"/>
+		<polygon id="Contol_Light_Right" fill="#424242" points="111.5,291.2 111,289.5 116.1,289.5 116.6,291.2 		"/>
+		<polygon id="Contol_Light_Left" fill="#6A6A69" points="104.8,291.2 104.4,289.5 109.6,289.5 110,291.2 		"/>
+	</g>
+	<g id="Monitor_4_">
+		<linearGradient id="Connection_1_" gradientUnits="userSpaceOnUse" x1="64.2217" y1="252.4014" x2="64.2217" y2="258.4823">
+			<stop  offset="0" style="stop-color:#575756"/>
+			<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+			<stop  offset="0.1171" style="stop-color:#797878"/>
+			<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+			<stop  offset="0.3189" style="stop-color:#999998"/>
+			<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+			<stop  offset="0.5402" style="stop-color:#979696"/>
+			<stop  offset="0.7122" style="stop-color:#848484"/>
+			<stop  offset="0.9127" style="stop-color:#676666"/>
+			<stop  offset="1" style="stop-color:#575756"/>
+		</linearGradient>
+		
+			<rect id="Connection_2_" x="32.4" y="256.7" fill="url(#Connection_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="63.7" height="2.3"/>
+		<linearGradient id="Frame_1_" gradientUnits="userSpaceOnUse" x1="62.4399" y1="222.5781" x2="102.3411" y2="267.7234">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Frame_5_" x="17.1" y="192.5" fill="url(#Frame_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="94.2" height="64.1"/>
+		<linearGradient id="Screen_1_" gradientUnits="userSpaceOnUse" x1="-2.5635" y1="191.1094" x2="66.0286" y2="223.4423">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#424242"/>
+		</linearGradient>
+		
+			<rect id="Screen_4_" x="19.3" y="195.4" fill="url(#Screen_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="89.8" height="54.4"/>
+		<polygon id="Refection_Monitor_5_" fill="#9A9A99" points="34.7,249.7 19.5,249.7 19.5,195.5 72.1,195.5 		"/>
+		<linearGradient id="Company_Sign_1_" gradientUnits="userSpaceOnUse" x1="62.7505" y1="251.1963" x2="66.9623" y2="256.7971">
+			<stop  offset="0" style="stop-color:#9A9A99"/>
+			<stop  offset="0.2954" style="stop-color:#919190"/>
+			<stop  offset="0.7771" style="stop-color:#797978"/>
+			<stop  offset="1" style="stop-color:#6B6B6A"/>
+		</linearGradient>
+		
+			<rect id="Company_Sign_4_" x="59.6" y="252" fill="url(#Company_Sign_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.3" height="2.3"/>
+		
+			<polyline id="Shadow_4_" fill="none" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			19.3,249.8 19.3,195.4 109.1,195.4 		"/>
+		
+			<polyline id="Refection_Line_4_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			109.1,195.4 109.1,249.8 19.3,249.8 		"/>
+	</g>
+</g>
+<g id="Computer_1_">
+	<g id="Keyboard_3_">
+		<linearGradient id="Shape_Case_2_" gradientUnits="userSpaceOnUse" x1="60.6187" y1="122.062" x2="171.6869" y2="168.7239">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Shape_Case_3_" fill="url(#Shape_Case_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			2.2,133.4 10,110.3 118.1,110.3 126.1,133.4 		"/>
+		<linearGradient id="Case_Front_2_" gradientUnits="userSpaceOnUse" x1="64.146" y1="133.0884" x2="64.146" y2="134.917">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Case_Front_3_" fill="url(#Case_Front_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			125.3,135.1 2.9,135.1 2.2,133.4 126.1,133.4 		"/>
+		<path id="Keypad_2_" fill="#575756" d="M19.8,126.5l-0.9,3.5h-6.3l1-3.5H19.8z M14.7,122.9l-0.9,3.1h6.1l0.8-3.1H14.7z
+			 M15.6,119.6l-0.8,2.9h6l0.7-2.9H15.6z M16.5,116.4l-0.8,2.8h5.8l0.7-2.8H16.5z M23,113.2l0.5-2H18l-0.6,2H23z M17.3,113.6
+			l-0.7,2.4h5.7l0.6-2.4H17.3z M12.8,126.5l-1,3.5H5.6l1.1-3.5H12.8z M7.8,122.9l-1,3.1h6.1l0.9-3.1H7.8z M8.9,119.6L8,122.5h6
+			l0.8-2.9H8.9z M9.9,116.4L9,119.2h5.9l0.8-2.8H9.9z M16.6,113.2l0.6-2h-5.6l-0.7,2H16.6z M10.8,113.6l-0.8,2.4h5.8l0.7-2.4H10.8z
+			 M20.7,126.5l-0.9,3.5h6.4l0.7-3.5H20.7z M21.5,122.9l-0.8,3.1H27l0.6-3.1H21.5z M22.3,119.6l-0.7,2.9h6.1l0.6-2.9H22.3z
+			 M23.1,116.4l-0.7,2.8h6l0.6-2.8H23.1z M29.6,113.2l0.4-2h-5.6l-0.5,2H29.6z M23.8,113.6l-0.6,2.4H29l0.5-2.4H23.8z M27.7,126.5
+			l-0.7,3.5h6.5l0.6-3.5H27.7z M28.5,122.9l-0.6,3.1h6.3l0.5-3.1H28.5z M29.1,119.6l-0.6,2.9h6.2l0.5-2.9H29.1z M29.8,116.4
+			l-0.6,2.8h6.1l0.4-2.8H29.8z M36.3,113.2l0.3-2h-5.7l-0.4,2H36.3z M30.4,113.6l-0.5,2.4h5.9l0.4-2.4H30.4z M35.5,122.9L35,126h6.3
+			l0.4-3.1H35.5z M36,119.6l-0.5,2.9h6.2l0.4-2.9H36z M36.6,116.4l-0.5,2.8h6l0.3-2.8H36.6z M42.9,113.2l0.2-2h-5.7l-0.3,2H42.9z
+			 M37,113.6l-0.4,2.4h5.9l0.3-2.4H37z M42.5,122.9l-0.4,3.1h6.5l0.3-3.1H42.5z M42.9,119.6l-0.4,2.9h6.3l0.2-2.9H42.9z M43.3,116.4
+			l-0.3,2.8h6.2l0.2-2.8H43.3z M49.7,113.2l0.2-2h-5.9l-0.2,2H49.7z M43.6,113.6l-0.3,2.4h6.1l0.2-2.4H43.6z M49.7,122.9l-0.3,3.1
+			h6.5l0.1-3.1H49.7z M50,119.6l-0.2,2.9H56l0.1-2.9H50z M50.2,116.4l-0.2,2.8h6.2l0.1-2.8H50.2z M56.4,113.2l0.1-2h-5.8l-0.2,2
+			H56.4z M50.4,113.6l-0.2,2.4h6l0.1-2.4H50.4z M56.8,122.9l-0.1,3.1h6l0-3.1H56.8z M57,119.6l-0.1,2.9h5.9l0-2.9H57z M57.1,116.4
+			l-0.1,2.8h5.7l0-2.8H57.1z M62.7,113.2l0-2h-5.4l-0.1,2H62.7z M57.2,113.6l-0.1,2.4h5.6l0-2.4H57.2z M63.5,122.9l0,3.1h6.3
+			l-0.1-3.1H63.5z M63.5,119.6l0,2.9h6.2l-0.1-2.9H63.5z M63.5,116.4l0,2.8h6l-0.1-2.8H63.5z M69.3,113.2l-0.1-2h-5.7v2H69.3z
+			 M63.5,113.6l0,2.4h5.9l-0.1-2.4H63.5z M70.5,122.9l0.1,3.1H77l-0.3-3.1H70.5z M70.4,119.6l0.1,2.9h6.2l-0.2-2.9H70.4z
+			 M70.3,116.4l0.1,2.8h6l-0.2-2.8H70.3z M76,113.2l-0.2-2h-5.7l0.1,2H76z M70.2,113.6l0.1,2.4h5.9l-0.2-2.4H70.2z M77.8,126.5
+			l0.3,3.5h6.4l-0.4-3.5H77.8z M70.7,126.5l0.1,3.5h6.4l-0.3-3.5H70.7z M69.9,126.5h-35l-0.6,3.5H70L69.9,126.5z M77.5,122.9
+			l0.3,3.1h6.3l-0.4-3.1H77.5z M77.3,119.6l0.2,2.9h6.1l-0.4-2.9H77.3z M77,116.4l0.2,2.8h6l-0.3-2.8H77z M82.5,113.2l-0.2-2h-5.7
+			l0.2,2H82.5z M76.8,113.6L77,116h5.9l-0.3-2.4H76.8z M84.9,126.5l0.4,3.5h6.5l-0.6-3.5H84.9z M84.5,122.9l0.4,3.1h6.3l-0.5-3.1
+			H84.5z M84.1,119.6l0.4,2.9h6.2l-0.5-2.9H84.1z M83.7,116.4l0.3,2.8h6.1l-0.5-2.8H83.7z M89.2,113.2l-0.3-2h-5.7l0.2,2H89.2z
+			 M83.4,113.6l0.3,2.4h5.9l-0.4-2.4H83.4z M101.4,126.5l0.8,3.5h6.5l-0.9-3.5H101.4z M100.6,122.9l0.7,3.1h6.3l-0.8-3.1H100.6z
+			 M99.9,119.6l0.7,2.9h6.2l-0.8-2.9H99.9z M99.2,116.4l0.6,2.8h6.1l-0.7-2.8H99.2z M104.3,113.2l-0.5-2H98l0.4,2H104.3z
+			 M98.6,113.6l0.5,2.4h6l-0.6-2.4H98.6z M94.3,126.5l0.6,3.5h6.5l-0.8-3.5H94.3z M93.7,122.9l0.6,3.1h6.3l-0.7-3.1H93.7z
+			 M93.1,119.6l0.5,2.9h6.2l-0.6-2.9H93.1z M92.5,116.4l0.5,2.8h6.1l-0.6-2.8H92.5z M97.8,113.2l-0.4-2h-5.8l0.4,2H97.8z M92,113.6
+			l0.4,2.4h5.9l-0.5-2.4H92z M108.5,126.5l0.9,3.5h6.2l-1.1-3.5H108.5z M107.6,122.9l0.8,3.1h6.1l-0.9-3.1H107.6z M106.7,119.6
+			l0.8,2.9h6l-0.8-2.9H106.7z M105.9,116.4l0.7,2.8h5.9l-0.8-2.8H105.9z M110.7,113.2l-0.6-2h-5.6l0.5,2H110.7z M105.2,113.6
+			l0.6,2.4h5.7l-0.7-2.4H105.2z M115.5,126.5l1.1,3.5h6.2l-1.2-3.5H115.5z M114.4,122.9l0.9,3.1h6.1l-1.1-3.1H114.4z M113.4,119.6
+			l0.9,2.9h6l-1-2.9H113.4z M112.5,116.4l0.8,2.8h5.9l-0.9-2.8H112.5z M117.2,113.2l-0.7-2h-5.6l0.6,2H117.2z M111.6,113.6l0.7,2.4
+			h5.8l-0.8-2.4H111.6z"/>
+	</g>
+	<g id="Monitor_3_">
+		<linearGradient id="Base_Front_2_" gradientUnits="userSpaceOnUse" x1="63.4268" y1="98.4502" x2="64.2706" y2="107.071">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Base_Front_1_" x="32" y="105.4" fill="url(#Base_Front_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="64.4" height="1.1"/>
+		<linearGradient id="Base_4_" gradientUnits="userSpaceOnUse" x1="64.1641" y1="109.5825" x2="64.1641" y2="91.6153">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<path id="Base_1_" fill="url(#Base_4_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M49,89.2c0,0-0.8,12.2-12.9,12.2c-1.7,0-0.7,0-3,0l-1.2,3.9h64.4l-1.2-3.9c-2.3,0-1.2,0-3,0c-12,0-12.9-12.2-12.9-12.2H49z"/>
+		
+			<line id="Reflection_Line_Base_1_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-miterlimit="10" x1="33" y1="104.7" x2="95.4" y2="104.7"/>
+		<linearGradient id="Frame_2_" gradientUnits="userSpaceOnUse" x1="61.7739" y1="43.0771" x2="114.8812" y2="103.1642">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<rect id="Frame_3_" x="2.3" y="2.3" fill="url(#Frame_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="123.7" height="86.8"/>
+		<linearGradient id="Screen_2_" gradientUnits="userSpaceOnUse" x1="-5.8613" y1="10.4897" x2="67.8051" y2="44.4897">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#424242"/>
+		</linearGradient>
+		
+			<rect id="Screen_3_" x="5.2" y="5.4" fill="url(#Screen_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="117.9" height="74.7"/>
+		<polygon id="Refection_Monitor_3_" fill="#9A9A99" points="26.3,79.8 5.6,79.8 5.6,5.8 77.5,5.8 		"/>
+		<linearGradient id="Company_Sign_2_" gradientUnits="userSpaceOnUse" x1="62.2139" y1="82.001" x2="67.7452" y2="89.3564">
+			<stop  offset="0" style="stop-color:#9A9A99"/>
+			<stop  offset="0.2954" style="stop-color:#919190"/>
+			<stop  offset="0.7771" style="stop-color:#797978"/>
+			<stop  offset="1" style="stop-color:#6B6B6A"/>
+		</linearGradient>
+		
+			<rect id="Company_Sign_3_" x="58" y="83" fill="url(#Company_Sign_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.3" height="3"/>
+		
+			<polyline id="Shadow_3_" fill="none" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			5.2,80.2 5.2,5.4 123.1,5.4 		"/>
+		
+			<polyline id="Refection_Line_3_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			123.1,5.4 123.1,80.2 5.2,80.2 		"/>
+	</g>
+</g>
+</svg>

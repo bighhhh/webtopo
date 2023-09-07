@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[3884],{63884:function(e,n,t){t.r(n),t.d(n,{getModel:function(){return r}});t(21703);var a=t(84471);async function r(e){const n=await a.Z.get("/json/model/model1.json",{params:e});return 0===n.data.code?n:Promise.reject(new Error("获取模板失败"))}}}]);

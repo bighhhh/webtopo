@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Tank_Door" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="272px" viewBox="0 0 300 272" enable-background="new 0 0 300 272" xml:space="preserve">
+<path id="Shadow_Door" fill="#6A6A69" stroke="#6A6A69" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M229.1,22.9c36.5,23.3,60.7,64.2,60.7,110.7c0,72.5-58.8,131.2-131.2,131.2c-22.6,0-43.9-5.7-62.4-15.8c20.4,13,44.6,20.5,70.5,20.5
+	c72.5,0,131.2-58.8,131.2-131.2C297.9,88.5,270,45.1,229.1,22.9z"/>
+<linearGradient id="Door_1_" gradientUnits="userSpaceOnUse" x1="5.8999" y1="-94.021" x2="337.9949" y2="401.1737">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<circle id="Door" fill="url(#Door_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="158.6" cy="133.6" r="131.2"/>
+<linearGradient id="Shadows_Hnges_1_" gradientUnits="userSpaceOnUse" x1="-58.4214" y1="136.9316" x2="36.4218" y2="136.9316">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#646567"/>
+</linearGradient>
+<path id="Shadows_Hnges" fill="url(#Shadows_Hnges_1_)" d="M32.4,47.3V91c0,0,0.4,7.9-14.3,6.8C10.9,97.2,2,91,2,91h25.4V39.7
+	C32.4,42.6,32.4,47.3,32.4,47.3z M27.4,175.9v51.2H2c0,0,9,6.3,16.2,6.8c14.7,1.2,14.3-6.8,14.3-6.8v-43.8
+	C32.4,183.4,32.4,178.8,27.4,175.9z"/>
+<linearGradient id="Hinges_1_" gradientUnits="userSpaceOnUse" x1="2.6738" y1="133.6201" x2="26.9688" y2="133.6201">
+	<stop  offset="0" style="stop-color:#A5A5A5"/>
+	<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+	<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+	<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+	<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+	<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+	<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+	<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+	<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+	<stop  offset="0.8378" style="stop-color:#868686"/>
+	<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+	<stop  offset="1" style="stop-color:#404040"/>
+</linearGradient>
+<path id="Hinges" fill="url(#Hinges_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M27.4,91H2.3V40h25.1V91z M27.4,176.3H2.3v51h25.1V176.3z"/>
+<linearGradient id="Shadows_Hinge_Connection_Door_1_" gradientUnits="userSpaceOnUse" x1="887.1523" y1="79.0039" x2="-61.2162" y2="158.2953">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#646567"/>
+</linearGradient>
+<path id="Shadows_Hinge_Connection_Door" fill="url(#Shadows_Hinge_Connection_Door_1_)" d="M176.1,81.5H14.8c0,0-9.3,0-12.5-6.3
+	h167.4l0,0h0c5.3,0,9.7-4.3,9.7-9.7c0-2.5-0.9-4.7-2.4-6.4l6.2,5.6c1.9,1.8,3.1,4.3,3.1,7.1c0,5.3-4.3,9.7-9.7,9.7 M176.5,217.7
+	c5.3,0,9.7-4.3,9.7-9.7c0-2.8-1.2-5.3-3.1-7.1l-6.2-5.6c1.5,1.7,2.4,4,2.4,6.4c0,5.3-4.3,9.7-9.7,9.7h0l0,0H2.3
+	c3.2,6.3,12.5,6.3,12.5,6.3h161.3"/>
+<g id="Hinge_Connections_Door">
+	<linearGradient id="Connection_Below_1_" gradientUnits="userSpaceOnUse" x1="90.7832" y1="192.3867" x2="90.7832" y2="211.3792">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<path id="Connection_Below" fill="url(#Connection_Below_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M169.6,192.1L169.6,192.1L169.6,192.1H2.3v19.3h167.4l0,0h0c5.3,0,9.7-4.3,9.7-9.7C179.3,196.4,175,192.1,169.6,192.1z"/>
+	<linearGradient id="Connection_Top_1_" gradientUnits="userSpaceOnUse" x1="90.7832" y1="56.1372" x2="90.7832" y2="75.1283">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<path id="Connection_Top" fill="url(#Connection_Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M169.6,55.8L169.6,55.8L169.6,55.8H2.3v19.3h167.4l0,0h0c5.3,0,9.7-4.3,9.7-9.7C179.3,60.2,175,55.8,169.6,55.8z"/>
+</g>
+</svg>

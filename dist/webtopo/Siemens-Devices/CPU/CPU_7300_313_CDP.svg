@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="CPU_x5F_7300_x5F_313_x5F_CDP"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="292px" height="300px"
+	 viewBox="0 0 292 300" enable-background="new 0 0 292 300" xml:space="preserve">
+<path id="path8" fill="#384152" d="M2.3,2v296H290V2H2.3z"/>
+<path id="path10" fill="#5E697E" d="M2.3,2v296h121.9V2H2.3z"/>
+<path id="path42" fill="#909AAD" d="M6.9,21.5v76.3h10.7V21.5H6.9z"/>
+<path id="path44" fill="#BCC2CD" d="M6.9,21.5v10.7h10.7V21.5H6.9z"/>
+<path id="path46" fill="#BCC2CD" d="M6.9,36.8v10.7h10.7V36.8H6.9z"/>
+<path id="path48" fill="#BCC2CD" d="M6.9,52v10.7h10.7V52H6.9z"/>
+<path id="path50" fill="#BCC2CD" d="M6.9,67.3V78h10.7V67.3H6.9z"/>
+<path id="path52" fill="#BCC2CD" d="M6.9,82.6v10.7h10.7V82.6H6.9z"/>
+<path id="path54" fill="#BCC2CD" d="M6.9,97.8v10.7h10.7V97.8H6.9z"/>
+<path id="path56" fill="#A8D9E7" d="M45.8,31.4v71.7h4.6V31.4H45.8z"/>
+<path id="path58" fill="#A8D9E7" d="M43.5,99.4v22.9h9.2V99.4H43.5z"/>
+<path id="path60" fill="none" stroke="#BCC2CD" stroke-width="0.6285" stroke-miterlimit="10" d="M54.2,88.7h20.6v13.7H59.5
+	l-5.3-5.3V88.7z M65.7,95.5l6.9-5.3v10.7L65.7,95.5z"/>
+<path id="path70" fill="#455063" d="M25.9,138.3v35.9h6.9v-35.9H25.9z"/>
+<path id="path72" fill="#BCC2CD" d="M25.9,138.3v6.1h5.3v-6.1H25.9z"/>
+<path id="path74" fill="#909AAD" d="M25.9,143.6v23.6h5.3v-23.6H25.9z"/>
+<path id="path76" d="M38.9,144.4v23.7h12.2v-23.6L38.9,144.4L38.9,144.4z"/>
+<path id="path78" fill="#455063" d="M41.2,142.1v22.2h7.6v-22.2H41.2L41.2,142.1z"/>
+<path id="path80" fill="#909AAD" d="M41.2,142.1v7.7h7.6v-7.6L41.2,142.1L41.2,142.1z"/>
+<path id="path106" fill="none" stroke="#384152" stroke-width="1.8856" stroke-miterlimit="10" d="M124.4,130.6h-9.9v51.2h-103
+	v-51.2H2.3"/>
+<path id="path110" fill="#455063" d="M2.3,201.6v95.8h121.9v-95.8H2.3z"/>
+<path id="path128" fill="#5E697E" d="M126.9,2v296h121.4V2H126.9z"/>
+<path id="path130" d="M250.2,2v296H290V2H250.2z"/>
+<g id="Logo">
+	<g>
+		<rect x="57.6" y="25.6" fill="#FFFFFF" width="59" height="14.2"/>
+		<path fill="#128587" d="M56.5,40.8V24.5h61.1v16.3H56.5z M66.2,28.7c-0.7-0.2-1.5-0.3-2.4-0.3c-1,0-1.9,0.2-2.5,0.7
+			c-0.6,0.4-0.9,1-0.9,1.8c0,0.9,0.6,1.7,1.8,2.3l1.7,0.7c0.4,0.2,0.6,0.4,0.6,0.7c0,0.5-0.5,0.7-1.5,0.7c-0.6,0-1.4-0.2-2.5-0.5
+			v1.7c0.4,0.1,0.9,0.2,1.4,0.2c0.5,0.1,0.9,0.1,1.2,0.1c1.1,0,2-0.2,2.6-0.7c0.6-0.5,1-1.1,1-1.9c0-1-0.6-1.8-1.8-2.4l-1.5-0.6
+			c-0.3-0.1-0.5-0.2-0.6-0.3c-0.1-0.1-0.2-0.2-0.2-0.4c0-0.4,0.4-0.6,1.3-0.6c0.4,0,0.8,0,1.1,0.1c0.3,0,0.7,0.1,1.1,0.3V28.7
+			L66.2,28.7z M70.4,28.6H68v8.1h2.4V28.6z M78.4,28.6h-6.1v8.1h6.1v-1.5h-3.7v-1.9h3.2v-1.4h-3.2v-1.8h3.7V28.6z M89.9,28.6H87
+			l-2.1,5l-2.1-5h-3v8.1h1.6v-5.4l2.3,5.4h1.6l2.3-5.4v5.4h2.4L89.9,28.6L89.9,28.6z M97.8,28.6h-6v8.1h6.1v-1.5h-3.8v-1.9h3.2v-1.4
+			h-3.2v-1.8h3.7V28.6L97.8,28.6z M106.4,28.6h-1.6v5.1l-2.9-5.1h-2.7v8.1h1.7v-5.2l2.9,5.2h2.6V28.6L106.4,28.6z M113.5,28.7
+			c-0.8-0.2-1.6-0.3-2.4-0.3c-1.1,0-1.9,0.2-2.5,0.7c-0.6,0.4-0.9,1-0.9,1.8c0,1,0.6,1.7,1.7,2.3l1.6,0.7c0.3,0.2,0.4,0.3,0.5,0.4
+			c0.1,0.1,0.1,0.2,0.1,0.4c0,0.5-0.5,0.7-1.4,0.7c-0.6,0-1.4-0.2-2.6-0.5v1.7c0.4,0.1,0.9,0.1,1.4,0.2c0.6,0.1,1,0.1,1.3,0.1
+			c1.1,0,1.9-0.2,2.5-0.7c0.6-0.5,1-1.1,1-1.9c0-0.5-0.1-1-0.4-1.4c-0.3-0.4-0.8-0.7-1.4-1l-1.5-0.6c-0.5-0.2-0.7-0.5-0.7-0.7
+			c0-0.4,0.4-0.6,1.3-0.6c0.4,0,0.8,0,1.1,0.1c0.3,0,0.7,0.1,1.1,0.3V28.7L113.5,28.7z"/>
+	</g>
+</g>
+<g id="Typo">
+	<text transform="matrix(1 0 0 1 6.1201 12.3477)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">CPU3XX-2X/Y</text>
+	<text transform="matrix(1 0 0 1 19.8594 30.666)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">SF</text>
+	<text transform="matrix(1 0 0 1 19.8594 61.1934)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">DC5V</text>
+	<text transform="matrix(1 0 0 1 19.8594 76.457)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">FRCE</text>
+	<text transform="matrix(1 0 0 1 19.8594 91.7217)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">RUN</text>
+	<text transform="matrix(1 0 0 1 19.8594 106.9854)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">STOP</text>
+	<text transform="matrix(1 0 0 1 56.4922 114.6191)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">PUSH</text>
+	<text transform="matrix(1 0 0 1 56.4922 145.9121)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">RUN</text>
+	<text transform="matrix(1 0 0 1 56.4922 158.1221)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">STOP</text>
+	<text transform="matrix(1 0 0 1 56.4922 169.5723)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">MRES</text>
+	<text transform="matrix(1 0 0 1 16.8076 196.2832)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">X1 MPI</text>
+	<text transform="matrix(1 0 0 1 67.1787 196.2832)" fill="#BCC2CD" font-family="'SiemensSans-Roman'" font-size="7.6209">X2 DP</text>
+</g>
+</svg>

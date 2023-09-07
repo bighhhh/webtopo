@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Motor_5_Front" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="279px" height="300px" viewBox="0 0 279 300" enable-background="new 0 0 279 300" xml:space="preserve">
+<g id="Motor_Housing">
+	<linearGradient id="Cover_Rear_1_" gradientUnits="userSpaceOnUse" x1="-1.8276" y1="-1.6978" x2="229.0023" y2="229.1322">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Cover_Rear" fill="url(#Cover_Rear_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		220.8,276.8 276.7,223.2 276.7,56 220.8,2.5 58.2,2.5 2.3,56 2.3,223.2 58.2,276.8 	"/>
+	<g id="Housing">
+		
+			<polygon id="Shadow_1_" fill="#646567" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			265.6,62.8 276.7,77.8 276.7,223.2 220.8,276.8 73.1,276.8 64.8,265.7 214.2,265.7 265.6,216.5 		"/>
+		<linearGradient id="Shape_3_" gradientUnits="userSpaceOnUse" x1="45.1953" y1="45.3252" x2="281.9491" y2="282.079">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#575756"/>
+		</linearGradient>
+		
+			<polygon id="Shape_1_" fill="url(#Shape_3_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			214.2,265.7 265.6,216.5 265.6,62.8 214.2,13.6 64.8,13.6 13.4,62.8 13.4,216.5 64.8,265.7 		"/>
+	</g>
+	
+		<linearGradient id="Motor_Cover_Plate_Front_1_" gradientUnits="userSpaceOnUse" x1="-113.8926" y1="-113.7617" x2="156.6901" y2="156.821">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<circle id="Motor_Cover_Plate_Front" fill="url(#Motor_Cover_Plate_Front_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="139.5" cy="139.6" r="95.1"/>
+	<g id="Hollow_Ring">
+		
+			<path id="Shadow_2_" fill="#575756" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M48.5,146.2c0-54.5,44.2-98.7,98.7-98.7c9.9,0,19.5,1.5,28.5,4.2c-11.2-4.6-23.4-7.2-36.2-7.2c-52.5,0-95.1,42.6-95.1,95.1
+			c0,18.2,5.1,35.2,14,49.6C52.1,176.2,48.5,161.6,48.5,146.2z"/>
+		<linearGradient id="Shape_4_" gradientUnits="userSpaceOnUse" x1="268.6582" y1="268.7881" x2="95.5392" y2="95.6691">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<path id="Shape_2_" fill="url(#Shape_4_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M139.5,37C82.8,37,36.9,83,36.9,139.6c0,56.7,46,102.6,102.6,102.6c56.7,0,102.6-46,102.6-102.6C242.1,83,196.2,37,139.5,37z
+			 M139.5,234.7c-52.5,0-95.1-42.6-95.1-95.1c0-52.5,42.6-95.1,95.1-95.1s95.1,42.6,95.1,95.1C234.6,192.1,192,234.7,139.5,234.7z"
+			/>
+	</g>
+	
+		<linearGradient id="Front_Ring_Driving_Shaft_1_" gradientUnits="userSpaceOnUse" x1="100.6997" y1="100.8296" x2="169.8071" y2="169.937">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+		<stop  offset="0.1171" style="stop-color:#797878"/>
+		<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3189" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5402" style="stop-color:#979696"/>
+		<stop  offset="0.7122" style="stop-color:#848484"/>
+		<stop  offset="0.9127" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	
+		<circle id="Front_Ring_Driving_Shaft" fill="url(#Front_Ring_Driving_Shaft_1_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="139.5" cy="139.6" r="32.1"/>
+	
+		<polygon id="Shadow_Driving_Shaft" fill="#575756" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		159.5,129.2 196.9,177.3 196.9,197.5 187,207.7 166.8,207.7 157,198.2 119.6,150.1 129.4,159.6 149.6,159.6 159.5,150.1 	"/>
+	<g id="Rings_Driving_Shaft">
+		<linearGradient id="Ring_Housing_1_" gradientUnits="userSpaceOnUse" x1="50.1816" y1="50.3125" x2="172.1057" y2="172.2366">
+			<stop  offset="0" style="stop-color:#666666"/>
+			<stop  offset="1" style="stop-color:#1A1A1A"/>
+		</linearGradient>
+		
+			<path id="Ring_Housing" fill="url(#Ring_Housing_1_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M139.5,96.4c-23.9,0-43.2,19.3-43.2,43.2s19.3,43.2,43.2,43.2s43.2-19.3,43.2-43.2S163.4,96.4,139.5,96.4z M139.5,173.2
+			c-18.5,0-33.6-15-33.6-33.6s15-33.6,33.6-33.6s33.6,15,33.6,33.6S158.1,173.2,139.5,173.2z"/>
+		<linearGradient id="Ring_Shaft_1_" gradientUnits="userSpaceOnUse" x1="114.0186" y1="114.1494" x2="126.1505" y2="126.2814">
+			<stop  offset="1.998960e-02" style="stop-color:#424242"/>
+			<stop  offset="0.2326" style="stop-color:#666666"/>
+			<stop  offset="1" style="stop-color:#1A1A1A"/>
+		</linearGradient>
+		
+			<path id="Ring_Shaft" fill="url(#Ring_Shaft_1_)" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M139.5,106.1c-18.5,0-33.6,15-33.6,33.6s15,33.6,33.6,33.6s33.6-15,33.6-33.6S158.1,106.1,139.5,106.1z M139.5,171.7
+			c-17.7,0-32.1-14.4-32.1-32.1s14.4-32.1,32.1-32.1s32.1,14.4,32.1,32.1S157.2,171.7,139.5,171.7z"/>
+	</g>
+	
+		<path id="Driving_Shaft_Fixing" fill="#424242" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M134,127.7l-7.2-15.6c3.9-1.8,8.2-2.8,12.8-2.8c4.7,0,9.2,1.1,13.2,3l-7.4,15.3c-1.7-0.8-3.6-1.3-5.6-1.3
+		C137.6,126.4,135.7,126.9,134,127.7z M126.7,139.4c0-1.9,0.4-3.7,1.2-5.4l-15.7-7.6c-1.9,4-3,8.5-3,13.2c0,4.6,1,8.9,2.8,12.8
+		l16-7.4C127.2,143.2,126.7,141.4,126.7,139.4z M139.7,152.3c-2,0-3.8-0.5-5.5-1.2l-7.4,16c3.9,1.8,8.2,2.8,12.8,2.8
+		c4.7,0,9.2-1.1,13.2-3l-7.6-15.8C143.4,151.9,141.6,152.3,139.7,152.3z M166.8,126.4l-15.4,7.4c0.8,1.7,1.3,3.6,1.3,5.6
+		c0,2.1-0.5,4-1.3,5.7l15.6,7.3c1.8-3.9,2.8-8.2,2.8-12.8C169.8,134.8,168.7,130.4,166.8,126.4z"/>
+	<g id="Driving_Shaft">
+		<linearGradient id="Shape_5_" gradientUnits="userSpaceOnUse" x1="112.6445" y1="112.7744" x2="157.6733" y2="157.8032">
+			<stop  offset="0" style="stop-color:#FFFFFF"/>
+			<stop  offset="1" style="stop-color:#7C7C7B"/>
+		</linearGradient>
+		
+			<polygon id="Shape" fill="url(#Shape_5_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			149.6,159.6 159.5,150.1 159.5,129.2 149.6,119.7 129.4,119.7 119.6,129.2 119.6,150.1 129.4,159.6 		"/>
+		
+			<polyline id="Reflection_Line" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			149.3,120.5 129.7,120.5 120.3,129.6 120.3,149.5 		"/>
+	</g>
+</g>
+<g id="Base">
+	<linearGradient id="Shape_6_" gradientUnits="userSpaceOnUse" x1="-69.3516" y1="200.2002" x2="387.6485" y2="386.2002">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Shape_18_" fill="url(#Shape_6_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		231.4,297.7 47.5,297.7 64.7,265.7 214.2,265.7 	"/>
+	
+		<polygon id="Shadow_5_" fill="#646567" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		231.4,297.7 89.5,297.7 64.7,265.7 214.2,265.7 	"/>
+	
+		<line id="Line_Motor_Housing" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64.7" y1="265.7" x2="214.2" y2="265.7"/>
+</g>
+</svg>
