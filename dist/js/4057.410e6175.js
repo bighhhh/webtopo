@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[4057],{34057:function(e,t,n){e.exports=n.p+"fonts/DS-DIGI.9c7b3b69.TTF"}}]);

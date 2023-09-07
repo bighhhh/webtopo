@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[4885],{24885:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});class u{execute(e,t){}}}}]);

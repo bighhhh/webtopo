@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[1898],{71898:function(e,t,a){e.exports=a.p+"fonts/Technology-Italic.d5ba4850.ttf"}}]);
