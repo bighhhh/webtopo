@@ -31,6 +31,7 @@
     "cells": [
       {
         "shape": "pipeline-edge",
+        "nodeName": "管道_1",
         "status": [
           {
             "label": "流动状态",
@@ -159,6 +160,7 @@
       },
       {
         "shape": "pipeline-edge",
+        "nodeName": "管道_2",
         "attrs": {
           "stroke4": {
             "style": {
@@ -415,7 +417,7 @@
         },
         "formula": {},
         "label": "回流泵",
-        "nodeNeme": "回流泵_1",
+        "nodeName": "回流泵_1",
         "zIndex": 1,
         "rotate3d": "rotate3d(1,1,1,0deg)"
       },
@@ -553,7 +555,7 @@
           }
         ],
         "label": "风扇2",
-        "nodeNeme": "风扇2_4",
+        "nodeName": "风扇2_4",
         "zIndex": 3,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
@@ -725,7 +727,7 @@
           }
         },
         "label": "ArrowDown",
-        "nodeNeme": "ArrowDown_5",
+        "nodeName": "ArrowDown_5",
         "zIndex": 4,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
@@ -1125,7 +1127,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_12",
+        "nodeName": "文本_12",
         "zIndex": 10,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
@@ -1277,7 +1279,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_12",
+        "nodeName": "文本_12",
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
         "events": [],
@@ -1374,7 +1376,7 @@
           }
         ],
         "label": "齿轮",
-        "nodeNeme": "齿轮_12",
+        "nodeName": "齿轮_12",
         "zIndex": 12,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
@@ -1602,7 +1604,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_12",
+        "nodeName": "文本_12",
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
         "events": [],
@@ -1673,7 +1675,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_12",
+        "nodeName": "文本_12",
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
         "events": [],
@@ -1744,7 +1746,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_12",
+        "nodeName": "文本_12",
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
         "events": [],
@@ -1815,7 +1817,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_12",
+        "nodeName": "文本_12",
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
         "events": [],
@@ -2006,7 +2008,7 @@
         "id": "510b0af7-b83b-4cf7-b6e0-efad8a1050f9",
         "key": "bGZgrXI2F_4mP-ItEkM7N",
         "groupKey": "charts",
-        "nodeNeme": "undefined_17",
+        "nodeName": "图表_17",
         "zIndex": 17,
         "data": {},
         "preserveAspectRatio": false,
@@ -2056,7 +2058,7 @@
           }
         },
         "label": "矩形",
-        "nodeNeme": "矩形_18",
+        "nodeName": "矩形_18",
         "zIndex": 18,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)"
@@ -2106,7 +2108,7 @@
           }
         },
         "label": "矩形",
-        "nodeNeme": "矩形_18",
+        "nodeName": "矩形_18",
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
         "zIndex": 19,
@@ -2227,7 +2229,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_20",
+        "nodeName": "文本_20",
         "zIndex": 20,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)"
@@ -2327,7 +2329,7 @@
           }
         ],
         "label": "齿轮",
-        "nodeNeme": "齿轮_8",
+        "nodeName": "齿轮_8",
         "zIndex": 21,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
@@ -2588,7 +2590,7 @@
           }
         },
         "label": "文本",
-        "nodeNeme": "文本_10",
+        "nodeName": "文本_10",
         "zIndex": 22,
         "data": {},
         "rotate3d": "rotate3d(1,1,1,0deg)",
