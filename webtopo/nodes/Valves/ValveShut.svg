@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Valve_Shut" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="67px" height="300px" viewBox="0 0 67 300" enable-background="new 0 0 67 300" xml:space="preserve">
+<g id="Handle">
+	<linearGradient id="Shape_1_" gradientUnits="userSpaceOnUse" x1="17.8071" y1="150.127" x2="49.1034" y2="150.127">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<path id="Shape" fill="url(#Shape_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M50,18.9c0-9.1-7.4-16.4-16.4-16.4S17.1,9.9,17.1,18.9v262.4c0,9.1,7.4,16.4,16.4,16.4S50,290.4,50,281.3V18.9z"/>
+	<linearGradient id="Reflection_1_" gradientUnits="userSpaceOnUse" x1="19.9253" y1="150.1211" x2="23.2938" y2="150.1211">
+		<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+		<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+	</linearGradient>
+	<path id="Reflection" fill="url(#Reflection_1_)" d="M20.4,9.8v280.7c0,0,1.7,2.9,5.6,5c0-0.8,0-289.9,0-290.7
+		C22.1,6.9,20.4,9.8,20.4,9.8z"/>
+</g>
+<linearGradient id="Centre_Axle_Connection_1_" gradientUnits="userSpaceOnUse" x1="-10.0371" y1="96.8804" x2="45.0578" y2="164.239">
+	<stop  offset="0" style="stop-color:#575756"/>
+	<stop  offset="1.586480e-02" style="stop-color:#5D5C5C"/>
+	<stop  offset="0.1171" style="stop-color:#797878"/>
+	<stop  offset="0.2183" style="stop-color:#8D8D8C"/>
+	<stop  offset="0.3189" style="stop-color:#999998"/>
+	<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+	<stop  offset="0.5402" style="stop-color:#979696"/>
+	<stop  offset="0.7122" style="stop-color:#848484"/>
+	<stop  offset="0.9127" style="stop-color:#676666"/>
+	<stop  offset="1" style="stop-color:#575756"/>
+</linearGradient>
+<circle id="Centre_Axle_Connection" fill="url(#Centre_Axle_Connection_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="33.5" cy="150.1" r="31"/>
+<linearGradient id="Axle_1_" gradientUnits="userSpaceOnUse" x1="15.1221" y1="128.3413" x2="53.9896" y2="174.3788">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<circle id="Axle" fill="url(#Axle_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="33.5" cy="150.1" r="15.4"/>
+</svg>

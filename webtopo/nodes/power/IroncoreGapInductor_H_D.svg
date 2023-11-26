@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <path d="M14 0 A3.5,3.5 14 0 1 7,0 A3.5,3.5 7 0 1 0,0 A3.5,3.5 0 0 1 -7,0 A3.5,3.5 -7 0 1 -14,0" fill="none" stroke="red"/>
+	<line x1="-14" y1="-14" x2="-14" y2="0" stroke-width="1" stroke="red"/>
+	<line x1="14" y1="-14" x2="14" y2="0" stroke-width="1" stroke="red"/>
+	<line x1="-14" y1="5.5" x2="-3" y2="5.5" stroke-width="1" stroke="red"/>
+	<line x1="3" y1="5.5" x2="14" y2="5.5" stroke-width="1" stroke="red"/>
+</svg>

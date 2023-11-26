@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <line x1="0" y1="-30" x2="0" y2="-12" stroke-width="1" stroke="red"/>
+    <line x1="0" y1="30" x2="0" y2="12" stroke-width="1" stroke="red"/>
+    <path d="M0 -12 L12 0 L0 12 L-12 0 L0 -12 z" stroke-width="1" fill="red" stroke="red"/>
+</svg>

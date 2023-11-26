@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="StatusOnDiagMGood" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="56.9121" y1="39.6123" x2="226.2456" y2="239.6123">
+	<stop  offset="0" style="stop-color:#17D917"/>
+	<stop  offset="1" style="stop-color:#007A00"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#018001" stroke-width="0.75" stroke-miterlimit="10" cx="150" cy="149.6" r="148"/>
+<linearGradient id="OK-Icon_1_" gradientUnits="userSpaceOnUse" x1="150.4531" y1="120.3223" x2="259.5776" y2="392.1216">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<polygon id="OK-Icon" fill="url(#OK-Icon_1_)" stroke="#CFCFCE" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+	84.6,132.4 58.7,158.3 127.2,226.7 250.6,103.3 224.6,77.3 127.1,174.8 "/>
+</svg>

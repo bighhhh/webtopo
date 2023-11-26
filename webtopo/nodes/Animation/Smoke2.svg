@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Smoke_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="180px" viewBox="0 0 300 180" enable-background="new 0 0 300 180" xml:space="preserve">
+<radialGradient id="Shape_Smoke_1_" cx="161.1509" cy="52.6548" r="187.3186" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</radialGradient>
+<path id="Shape_Smoke" fill="url(#Shape_Smoke_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M183.1,177.6h-32.4c0,0-13.4-19.1-5.7-21c-7.6-30.5-26.7-38.2-26.7-38.2s-13.4-3.8-3.8-9.5c0-5.7-32.4,1.9-38.2-15.3
+	c-17.2,9.5-26.7-5.7-26.7-5.7S19,101.3,19,70.8C-3.9,84.1-5.9,19.9,30.4,44.7C38,18,76.2,38.3,81.9,42.1
+	c-1.9-53.4,45.8-30,43.9-22.4c13.4-17.7,40.1-22.9,64.9,3.8c13.4-42,40.1-10.1,53.4,5.2c7.6-11.4,47.7-36.3,42,22.9
+	c26.7,11.4,1.9,43.9-21,30.5c-22.9-13.4-9.5,9.5-26.7,1.9c3.8,7.6,0,11.4-17.2,9.5c5.7,11.4,0,15.3-7.6,17.2
+	c3.8,1.9-22,16.9-21,22.9c1.9,11.4-3.8,22.9-7.6,22.9C188.8,164.3,183.1,177.6,183.1,177.6z"/>
+<g id="Smoke_Shadows">
+	<path id="Shadow_10" fill="#8C8C91" d="M171.6,116.5c1.9,1.9,5.7,13.4,22.9-1.9C194.5,114.6,179.2,122.3,171.6,116.5z"/>
+	<path id="Shadow_9" fill="#8C8C91" d="M150.6,116.8c1.9,1.9,7.6,21,34.4-1.9C185,114.9,167.8,128.3,150.6,116.8z"/>
+	<path id="Shadow_8" fill="#8C8C91" d="M135.4,116.5c1.9,1.9,3.8,17.2,21,1.9C156.3,118.5,143,126.1,135.4,116.5z"/>
+	<path id="Shadow_7" fill="#8C8C91" d="M194.5,64.8c1.9,1.9,5.7,13.4,22.9-1.9C217.4,62.9,202.1,70.6,194.5,64.8z"/>
+	<path id="Shadow_6" fill="#8C8C91" d="M167.8,67.2c1.9,1.9,7.6,21,34.4-1.9C202.1,65.3,185,78.7,167.8,67.2z"/>
+	<path id="Shadow_5" fill="#8C8C91" d="M167.8,55.5c1.9,1.9,7.6,21,34.4-1.9C202.1,53.6,185,66.9,167.8,55.5z"/>
+	<path id="Shadow_4" fill="#8C8C91" d="M135.4,63.1c1.9,1.9,22.9,26.7,51.5-1.9C186.9,61.2,167.8,80.3,135.4,63.1z"/>
+	<path id="Shadow_3" fill="#8C8C91" d="M120.1,63.1c1.9,1.9,5.7,13.4,22.9-1.9C143,61.2,127.7,68.8,120.1,63.1z"/>
+	<path id="Shadow_2" fill="#8C8C91" d="M72.4,76.5c1.9,1.9,11.4,17.2,28.6-1.9C101,74.6,83.8,87.9,72.4,76.5z"/>
+	<path id="Shadow_1" fill="#8C8C91" d="M28.5,72.7c1.9,1.9,22.9,26.7,51.5-1.9C80,70.8,60.9,89.8,28.5,72.7z"/>
+</g>
+</svg>

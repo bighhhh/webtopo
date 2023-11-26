@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Running_Arrows_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="-56.4531" y1="-56.3271" x2="410.061" y2="410.187">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" cx="150.1" cy="150.2" r="148"/>
+<path id="Arrows" fill="#575756" stroke="#424242" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M248.3,161.6h34.9l-52.3,52.3l-52.3-52.3l38.4,0c3.5-20.9-2.7-43.2-18.9-59.4c-23.6-23.6-60.3-26.1-86.7-7.8L89.2,72.3
+	c38.8-30.3,95.1-27.7,130.8,8C242.2,102.4,251.6,132.6,248.3,161.6z M51.9,138.8c-3.3,29,6.1,59.1,28.3,81.3
+	c35.7,35.7,92,38.3,130.8,8L188.8,206c-26.5,18.4-63.1,15.8-86.7-7.8c-16.1-16.1-22.4-38.4-18.9-59.4l38.4,0L69.3,86.5L17,138.8
+	L51.9,138.8z"/>
+</svg>

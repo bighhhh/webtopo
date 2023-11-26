@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <line x1="0" y1="14" x2="0" y2="0" stroke="red" stroke-width="1"/>
+    <path d="M-16 0 L16 0 L16 -16 L-16 -16 L-16 0 z" fill-opacity="0" stroke="red" stroke-width="1"/>
+    <text x="-14" y="-4" font-size="14" font-family="Simsun" fill="red">Load</text>
+</svg>

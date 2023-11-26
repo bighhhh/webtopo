@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <circle cx="0" cy="0" r="16" fill-opacity="0" stroke="red" stroke-width="2"/>
+    <text x="-8" y="6" font-size="16" font-family="Simsun" fill="red">Eq</text>
+</svg>

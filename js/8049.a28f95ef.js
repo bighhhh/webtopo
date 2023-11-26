@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkele_admin_template"]=self["webpackChunkele_admin_template"]||[]).push([[8049],{98049:function(e,t,a){e.exports=a.p+"fonts/FakeHopeFilled.ac7f4236.ttf"}}]);

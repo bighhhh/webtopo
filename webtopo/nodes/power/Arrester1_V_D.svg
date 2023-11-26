@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <line x1="0" y1="-23" x2="0" y2="-15" stroke="red" stroke-width="1"/>
+    <path d="M0 -15 L1 -19 L-1 -19 z" stroke="red" stroke-width="1"/>
+    <path d="M0 -12 L1 -8 L-1 -8 z" stroke="red" stroke-width="1"/>
+    <line x1="0" y1="-4" x2="0" y2="-8" stroke="red" stroke-width="1"/>
+    <path d="M-3 -4 L3 -4 L3 12 L-3 12 L-3 -4 z" fill-opacity="0" stroke="red" stroke-width="1.5"/>
+    <line x1="-3" y1="0" x2="3" y2="0" stroke="red" stroke-width="1"/>
+    <line x1="-3" y1="4" x2="3" y2="4" stroke="red" stroke-width="1"/>
+    <line x1="-3" y1="8" x2="3" y2="8" stroke="red" stroke-width="1"/>
+    <line x1="0" y1="12" x2="0" y2="19" stroke="red" stroke-width="1"/>
+    <line x1="-7" y1="19" x2="7" y2="19" stroke="red" stroke-width="1"/>
+    <line x1="-5" y1="22" x2="5" y2="22" stroke="red" stroke-width="1"/>
+    <line x1="-3" y1="25" x2="3" y2="25" stroke="red" stroke-width="1"/>
+</svg>

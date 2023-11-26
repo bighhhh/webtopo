@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <path d="M-14 5 A3.5,3.5 0 0 1 -7,5 A3.5,3.5 0 0 1 0,5 A3.5,3.5 0 0 1 7,5 A3.5,3.5 0 0 1 14,5" stroke="red" fill="transparent"/>
+    <path d="M14 -5 A3.5,3.5 0 0 1 7,-5 A3.5,3.5 0 0 1 0,-5 A3.5,3.5 0 0 1 -7,-5 A3.5,3.5 0 0 1 -14,-5" stroke="red" fill="transparent"/>
+    <line x1="-14" y1="-5" x2="-20" y2="-5" stroke="red" stroke-width="1"/>
+    <line x1="-14" y1="5" x2="-20" y2="5" stroke="red" stroke-width="1"/>
+    <line x1="14" y1="-5" x2="20" y2="-5" stroke="red" stroke-width="1"/>
+    <line x1="14" y1="5" x2="20" y2="5" stroke="red" stroke-width="1"/>
+    <line x1="-20" y1="-5" x2="-20" y2="5" stroke="red" stroke-width="1"/>
+    <path d="M18 14 L-16 -16 L-16 -12 M-16 -16 L-12 -16" stroke="red" fill="transparent"/>
+</svg>

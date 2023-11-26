@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="_x39_0_Degree_Bend_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<radialGradient id="Shape_1_" cx="296.7891" cy="298.8115" r="294.7448" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.4998" style="stop-color:#404040"/>
+	<stop  offset="0.5127" style="stop-color:#4C4C4C"/>
+	<stop  offset="0.5697" style="stop-color:#7C7C7C"/>
+	<stop  offset="0.6263" style="stop-color:#A5A5A5"/>
+	<stop  offset="0.6816" style="stop-color:#C4C4C4"/>
+	<stop  offset="0.7351" style="stop-color:#DADADA"/>
+	<stop  offset="0.7861" style="stop-color:#E7E7E7"/>
+	<stop  offset="0.832" style="stop-color:#ECECEC"/>
+	<stop  offset="0.8721" style="stop-color:#E8E8E8"/>
+	<stop  offset="0.9119" style="stop-color:#DCDCDC"/>
+	<stop  offset="0.9516" style="stop-color:#C8C8C8"/>
+	<stop  offset="0.9911" style="stop-color:#ACACAC"/>
+	<stop  offset="1" style="stop-color:#A5A5A5"/>
+</radialGradient>
+<path id="Shape" fill="url(#Shape_1_)" d="M1.6,298C1.6,134.7,134,2.3,297.3,2.3v149.4C216.5,151.7,151,217.2,151,298H1.6z"/>
+<radialGradient id="Reflection_1_" cx="297.6201" cy="297.7856" r="280.2766" gradientUnits="userSpaceOnUse">
+	<stop  offset="0.9159" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+	<stop  offset="1" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+</radialGradient>
+<path id="Reflection" fill="url(#Reflection_1_)" d="M42.4,297.7c0-140.6,114-254.6,254.7-254.6c0.1,0,0.1,0,0.2,0V17.6c0,0,0,0,0,0
+	c-154.8,0-280.3,125.3-280.3,280c0,0.1,0,0.2,0,0.3h25.5C42.4,297.9,42.4,297.8,42.4,297.7z"/>
+<path id="Outline" fill="none" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" d="M1.6,298
+	C1.6,134.7,134,2.3,297.3,2.3 M297.3,151.7C216.5,151.7,151,217.2,151,298"/>
+</svg>

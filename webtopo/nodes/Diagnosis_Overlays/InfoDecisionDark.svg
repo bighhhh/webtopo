@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="InfoDecisionDark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="50.3047" y1="49.8623" x2="266.5432" y2="266.1008">
+	<stop  offset="0" style="stop-color:#5C93FF"/>
+	<stop  offset="1" style="stop-color:#0040BF"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#1B4380" stroke-width="0.75" stroke-miterlimit="10" cx="150" cy="149.6" r="148"/>
+<linearGradient id="Question_Mark_Icon_1_" gradientUnits="userSpaceOnUse" x1="152.2173" y1="142.647" x2="303.5508" y2="359.981">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<path id="Question_Mark_Icon" fill="url(#Question_Mark_Icon_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M208.9,110.3c0,10.9-2.7,20.1-8.2,27.6c-3.2,4.5-9.3,10.3-18.3,17.4l-8.9,6.9c-4.9,3.8-8.1,8.2-9.7,13.2c-1,3.2-1.6,8.1-1.6,14.9
+	H128c0.5-14.2,1.8-24,4-29.4c2.2-5.4,7.8-11.7,16.8-18.7l9.2-7.2c3-2.3,5.4-4.7,7.3-7.4c3.3-4.6,5-9.7,5-15.2
+	c0-6.4-1.9-12.2-5.6-17.4c-3.7-5.2-10.5-7.9-20.4-7.9c-9.7,0-16.6,3.2-20.7,9.7c-4.1,6.5-6.1,13.2-6.1,20.2H81.2
+	c1-23.9,9.4-40.9,25.1-50.9c9.9-6.4,22.1-9.6,36.5-9.6c19,0,34.7,4.5,47.3,13.6C202.6,79.1,208.9,92.5,208.9,110.3z M128.5,240.2h34
+	v-34h-34V240.2z"/>
+</svg>

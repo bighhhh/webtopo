@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Fiberglass_Fan" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g id="Base__x2B__Floor_Plate">
+	<linearGradient id="Shape_Base_1_" gradientUnits="userSpaceOnUse" x1="-62.0908" y1="152.4287" x2="467.0552" y2="475.5717">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<polygon id="Shape_Base" fill="url(#Shape_Base_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+		238.5,255.6 215.4,238 57.8,238 34.7,255.6 28.6,291.7 244.5,291.7 	"/>
+	<linearGradient id="Floor_Plate_1_" gradientUnits="userSpaceOnUse" x1="-229.8843" y1="100.3066" x2="293.6626" y2="377.9985">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<rect id="Floor_Plate" x="16.7" y="291.7" fill="url(#Floor_Plate_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="239.7" height="5.9"/>
+</g>
+<g id="Motor_Right">
+	<linearGradient id="Housing_Bottom_1_" gradientUnits="userSpaceOnUse" x1="340.6191" y1="224.4087" x2="260.0266" y2="224.4087">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.551506e-02" style="stop-color:#5C5C5B"/>
+		<stop  offset="0.1168" style="stop-color:#797878"/>
+		<stop  offset="0.2181" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3188" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5404" style="stop-color:#969695"/>
+		<stop  offset="0.7126" style="stop-color:#848483"/>
+		<stop  offset="0.9133" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	
+		<path id="Housing_Bottom" fill="url(#Housing_Bottom_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M235.4,220.9h39c1.9,0,3.8-0.2,5.6-0.7v2.4l-16.3,6H233L235.4,220.9z"/>
+	<linearGradient id="Housing_Top_1_" gradientUnits="userSpaceOnUse" x1="338.4229" y1="164.7593" x2="269.2723" y2="164.7593">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.551506e-02" style="stop-color:#5C5C5B"/>
+		<stop  offset="0.1168" style="stop-color:#797878"/>
+		<stop  offset="0.2181" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3188" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5404" style="stop-color:#969695"/>
+		<stop  offset="0.7126" style="stop-color:#848483"/>
+		<stop  offset="0.9133" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	<polygon id="Housing_Top" fill="url(#Housing_Top_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" points="
+		263.1,157.8 280,157.8 280,171.7 	"/>
+	<linearGradient id="Shape_Housing_1_" gradientUnits="userSpaceOnUse" x1="283.7812" y1="279.0527" x2="244.8834" y2="117.5283">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<path id="Shape_Housing" fill="url(#Shape_Housing_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M289.3,179.4c5.2,4.3,8.5,10.8,8.5,18.1c0,13-10.5,23.4-23.4,23.4h-39l23.9-66.3L289.3,179.4z"/>
+	
+		<circle id="Opening" fill="#575756" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" cx="274.4" cy="197.5" r="18.8"/>
+	
+		<path id="Safety_Grating" fill="none" stroke="#AFAFAE" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M261.1,184.2l26.6,26.6 M287.7,184.2l-26.6,26.6 M262.8,185.9c-6.4,6.4-6.4,16.8,0,23.2c6.4,6.4,16.8,6.4,23.2,0
+		c6.4-6.4,6.4-16.8,0-23.2C279.6,179.4,269.2,179.4,262.8,185.9z M264.6,187.6c-5.4,5.4-5.4,14.2,0,19.6c5.4,5.4,14.2,5.4,19.6,0
+		c5.4-5.4,5.4-14.2,0-19.6C278.8,182.2,270,182.2,264.6,187.6z M266.3,189.4c-4.5,4.5-4.5,11.7,0,16.2c4.5,4.5,11.7,4.5,16.2,0
+		c4.5-4.5,4.5-11.7,0-16.2C278,184.9,270.8,184.9,266.3,189.4z M268,191c-3.5,3.5-3.5,9.3,0,12.8c3.5,3.5,9.3,3.5,12.8,0
+		c3.5-3.5,3.5-9.3,0-12.8C277.3,187.5,271.5,187.5,268,191z M269.7,192.8c-2.6,2.6-2.6,6.8,0,9.3c2.6,2.6,6.8,2.6,9.3,0
+		c2.6-2.6,2.6-6.8,0-9.3C276.5,190.2,272.3,190.2,269.7,192.8z M271.4,194.5c-1.6,1.6-1.6,4.3,0,5.9c1.6,1.6,4.3,1.6,5.9,0
+		c1.6-1.6,1.6-4.3,0-5.9C275.7,192.9,273,192.9,271.4,194.5z M273.1,196.2c-0.7,0.7-0.7,1.9,0,2.6c0.7,0.7,1.9,0.7,2.6,0
+		c0.7-0.7,0.7-1.9,0-2.6C275,195.5,273.8,195.5,273.1,196.2z"/>
+</g>
+<g id="Housing">
+	<linearGradient id="Shape_Body_1_" gradientUnits="userSpaceOnUse" x1="76.4136" y1="48.2798" x2="234.255" y2="206.1212">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="0.1248" style="stop-color:#F8F8F9"/>
+		<stop  offset="0.3002" style="stop-color:#E6E6E7"/>
+		<stop  offset="0.5056" style="stop-color:#C8C8C9"/>
+		<stop  offset="0.7339" style="stop-color:#9E9FA0"/>
+		<stop  offset="0.9782" style="stop-color:#696A6C"/>
+		<stop  offset="1" style="stop-color:#646567"/>
+	</linearGradient>
+	
+		<path id="Shape_Body" fill="url(#Shape_Body_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M259.9,155.5V9.9H136.4V32C68.2,32,12.9,87.3,12.9,155.5c0,68.2,55.3,123.5,123.5,123.5C204.6,279,259.9,223.7,259.9,155.5z"/>
+	<linearGradient id="Center_Plate_1_" gradientUnits="userSpaceOnUse" x1="-39.4424" y1="155.5146" x2="350.531" y2="155.5146">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<circle id="Center_Plate" fill="url(#Center_Plate_1_)" cx="136.4" cy="155.5" r="116.5"/>
+	<g id="Connection_Pieces">
+		<g id="Connection_Piece_Right">
+			<linearGradient id="Top_Side_2_" gradientUnits="userSpaceOnUse" x1="210.0522" y1="119.1069" x2="338.2125" y2="194.4425">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#7C7C7B"/>
+			</linearGradient>
+			
+				<rect id="Top_Side_1_" x="237.3" y="139.4" fill="url(#Top_Side_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="33.1" height="10.8"/>
+			<linearGradient id="Bottom_Side_2_" gradientUnits="userSpaceOnUse" x1="294.7139" y1="135.0757" x2="254.9794" y2="148.8188">
+				<stop  offset="0" style="stop-color:#9A9A99"/>
+				<stop  offset="0.2954" style="stop-color:#919190"/>
+				<stop  offset="0.7771" style="stop-color:#797978"/>
+				<stop  offset="1" style="stop-color:#6B6B6A"/>
+			</linearGradient>
+			
+				<rect id="Bottom_Side_1_" x="237.3" y="148.2" fill="url(#Bottom_Side_2_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="33.1" height="2.1"/>
+		</g>
+		<g id="Connection_Piece_Left">
+			<linearGradient id="Top_Side_3_" gradientUnits="userSpaceOnUse" x1="3.6841" y1="129.605" x2="51.6037" y2="177.5246">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#7C7C7B"/>
+			</linearGradient>
+			
+				<rect id="Top_Side" x="2.4" y="139.4" fill="url(#Top_Side_3_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="33.1" height="10.8"/>
+			<linearGradient id="Bottom_Side_3_" gradientUnits="userSpaceOnUse" x1="3.4229" y1="149.2114" x2="26.4104" y2="149.2114">
+				<stop  offset="0" style="stop-color:#9A9A99"/>
+				<stop  offset="0.2954" style="stop-color:#919190"/>
+				<stop  offset="0.7771" style="stop-color:#797978"/>
+				<stop  offset="1" style="stop-color:#6B6B6A"/>
+			</linearGradient>
+			
+				<rect id="Bottom_Side" x="2.4" y="148.2" fill="url(#Bottom_Side_3_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="33.1" height="2.1"/>
+		</g>
+	</g>
+	
+		<rect id="Shadow" x="136.4" y="9.9" fill="#7C7C7B" stroke="#7C7C7B" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="123.5" height="7.1"/>
+	<linearGradient id="Flange_Top_1_" gradientUnits="userSpaceOnUse" x1="271.5449" y1="-24.6196" x2="20.3943" y2="80.4652">
+		<stop  offset="0" style="stop-color:#A5A5A5"/>
+		<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+		<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+		<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+		<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+		<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+		<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+		<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+		<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8378" style="stop-color:#868686"/>
+		<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+		<stop  offset="1" style="stop-color:#404040"/>
+	</linearGradient>
+	
+		<rect id="Flange_Top" x="116.2" y="2.3" fill="url(#Flange_Top_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="163.9" height="7.6"/>
+</g>
+<g id="Suction_Port">
+	<linearGradient id="Ring_Outside_1_" gradientUnits="userSpaceOnUse" x1="17.8823" y1="43.7798" x2="427.4777" y2="392.9426">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	
+		<circle id="Ring_Outside" fill="url(#Ring_Outside_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" cx="136.4" cy="144.8" r="101.8"/>
+	<linearGradient id="Connection_1_" gradientUnits="userSpaceOnUse" x1="-109.7017" y1="-72.5273" x2="74.9376" y2="90.5309">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.551506e-02" style="stop-color:#5C5C5B"/>
+		<stop  offset="0.1168" style="stop-color:#797878"/>
+		<stop  offset="0.2181" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3188" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5404" style="stop-color:#969695"/>
+		<stop  offset="0.7126" style="stop-color:#848483"/>
+		<stop  offset="0.9133" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	
+		<path id="Connection" fill="url(#Connection_1_)" stroke="#646567" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M234.1,150.3h-77.5l67.1,38.7l-5.4,9.4l-67.1-38.7l38.7,67.1l-9.4,5.4L141.9,165v77.5H131V165l-38.7,67.1l-9.4-5.4l38.7-67.1
+		l-67.1,38.7l-5.4-9.4l67.1-38.7H38.8v-10.8h77.5l-67.1-38.7l5.4-9.4l67.1,38.7L82.9,63l9.4-5.4l38.7,67.1V47.2h10.8v77.5l38.7-67.1
+		L190,63l-38.7,67.1l67.1-38.7l5.4,9.4l-67.1,38.7h77.5V150.3z"/>
+	<linearGradient id="Flange_1_" gradientUnits="userSpaceOnUse" x1="-85.9087" y1="-77.5044" x2="252.1638" y2="260.5681">
+		<stop  offset="0" style="stop-color:#9A9A99"/>
+		<stop  offset="0.2954" style="stop-color:#919190"/>
+		<stop  offset="0.7771" style="stop-color:#797978"/>
+		<stop  offset="1" style="stop-color:#6B6B6A"/>
+	</linearGradient>
+	<path id="Flange" fill="url(#Flange_1_)" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="M136.4,53.9
+		c-50.2,0-91,40.7-91,91c0,50.2,40.7,91,91,91c50.2,0,91-40.7,91-91C227.4,94.6,186.7,53.9,136.4,53.9z M136.4,208.4
+		c-35.1,0-63.6-28.5-63.6-63.6c0-35.1,28.5-63.6,63.6-63.6c35.1,0,63.6,28.5,63.6,63.6C200,180,171.6,208.4,136.4,208.4z"/>
+	<g id="Air_Intake">
+		<path id="Blower_Wheel_Compartment_1_" fill="#575756" stroke="#646567" stroke-width="0.75" stroke-miterlimit="10" d="
+			M166.6,114.7c16.7,16.7,16.7,43.7,0,60.3c-16.7,16.7-43.7,16.7-60.3,0c-16.7-16.7-16.7-43.7,0-60.3C122.9,98,149.9,98,166.6,114.7
+			z"/>
+		<g id="Motor_Fan">
+			
+				<linearGradient id="Paddel_Wheel_8_2_" gradientUnits="userSpaceOnUse" x1="140.2637" y1="97.6709" x2="140.2637" y2="128.5208" gradientTransform="matrix(0.9242 -0.3818 0.3818 0.9242 -46.5422 68.2478)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_8_1_" fill="url(#Paddel_Wheel_8_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				138.5,143.8 134.9,145.3 119.5,107.8 123.1,106.4 			"/>
+			
+				<linearGradient id="Paddel_Wheel_7_2_" gradientUnits="userSpaceOnUse" x1="49.2788" y1="124.1455" x2="49.2788" y2="154.9924" gradientTransform="matrix(0.4003 -0.9164 0.9164 0.4003 -35.9923 122.8551)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_7_1_" fill="url(#Paddel_Wheel_7_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				137.5,142.8 135.9,146.3 98.9,130.1 100.4,126.6 			"/>
+			
+				<linearGradient id="Paddel_Wheel_6_2_" gradientUnits="userSpaceOnUse" x1="-129.0947" y1="163.1641" x2="-129.0947" y2="194.0125" gradientTransform="matrix(-0.3818 -0.9242 0.9242 -0.3818 -102.9187 103.8527)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_6_1_" fill="url(#Paddel_Wheel_6_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				136,142.7 137.5,146.3 100,161.8 98.6,158.2 			"/>
+			
+				<linearGradient id="Paddel_Wheel_5_2_" gradientUnits="userSpaceOnUse" x1="-156.4517" y1="72.0918" x2="-156.4517" y2="102.9387" gradientTransform="matrix(-0.9164 -0.4003 0.4003 -0.9164 -52.639 187.1818)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_5_1_" fill="url(#Paddel_Wheel_5_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				135,143.7 138.5,145.3 122.3,182.4 118.8,180.8 			"/>
+			
+				<linearGradient id="Paddel_Wheel_4_2_" gradientUnits="userSpaceOnUse" x1="-194.583" y1="-55.0205" x2="-194.583" y2="-24.1728" gradientTransform="matrix(-0.9242 0.3818 -0.3818 -0.9242 -47.7742 207.5218)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_4_1_" fill="url(#Paddel_Wheel_4_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				134.9,145.3 138.5,143.8 154,181.2 150.4,182.7 			"/>
+			
+				<linearGradient id="Paddel_Wheel_3_2_" gradientUnits="userSpaceOnUse" x1="-104.3945" y1="-82.4697" x2="-104.3945" y2="-51.6228" gradientTransform="matrix(-0.4003 0.9164 -0.9164 -0.4003 58.5802 224.309)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_3_1_" fill="url(#Paddel_Wheel_3_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				135.9,146.3 137.5,142.8 174.6,159 173,162.5 			"/>
+			
+				<linearGradient id="Paddel_Wheel_2_2_" gradientUnits="userSpaceOnUse" x1="74.7744" y1="-120.5137" x2="74.7744" y2="-89.6653" gradientTransform="matrix(0.3818 0.9242 -0.9242 0.3818 36.3538 105.0848)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_2_1_" fill="url(#Paddel_Wheel_2_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				137.5,146.3 136,142.7 173.4,127.3 174.9,130.8 			"/>
+			
+				<linearGradient id="Paddel_Wheel_1_2_" gradientUnits="userSpaceOnUse" x1="101.3364" y1="-30.4165" x2="101.3364" y2="0.4293" gradientTransform="matrix(0.9164 0.4003 -0.4003 0.9164 48.8153 92.6102)">
+				<stop  offset="0" style="stop-color:#A5A5A5"/>
+				<stop  offset="4.758149e-02" style="stop-color:#B5B5B5"/>
+				<stop  offset="0.1509" style="stop-color:#D3D3D3"/>
+				<stop  offset="0.2395" style="stop-color:#E5E5E5"/>
+				<stop  offset="0.3025" style="stop-color:#ECECEC"/>
+				<stop  offset="0.4074" style="stop-color:#E8E8E8"/>
+				<stop  offset="0.514" style="stop-color:#DCDCDC"/>
+				<stop  offset="0.6214" style="stop-color:#C7C7C7"/>
+				<stop  offset="0.7294" style="stop-color:#ABABAB"/>
+				<stop  offset="0.8378" style="stop-color:#868686"/>
+				<stop  offset="0.9452" style="stop-color:#5A5A5A"/>
+				<stop  offset="1" style="stop-color:#404040"/>
+			</linearGradient>
+			
+				<polygon id="Paddel_Wheel_1_1_" fill="url(#Paddel_Wheel_1_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" points="
+				138.5,145.3 135,143.7 151.2,106.7 154.7,108.2 			"/>
+			
+				<linearGradient id="Suspension_2_" gradientUnits="userSpaceOnUse" x1="122.6675" y1="122.8784" x2="144.1068" y2="144.3178" gradientTransform="matrix(0.9242 -0.3818 0.3818 0.9242 -46.5422 68.2478)">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#7C7C7B"/>
+			</linearGradient>
+			
+				<circle id="Suspension_1_" fill="url(#Suspension_2_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" cx="136.7" cy="144.5" r="11"/>
+		</g>
+		<path id="Motor_Fan_Cover" fill="#424242" d="M136.6,102.1c-0.4,0-0.7,0-1.1,0v2.8h-5.7v-2.3c-0.7,0.1-1.4,0.2-2,0.4v1.9h-5.7
+			v-0.3c-1.8,0.7-3.5,1.4-5.2,2.3h3.2v5.7h-5.7v-4.2c-0.7,0.4-1.4,0.9-2.1,1.4v2.9h-3.7c-1.4,1.3-2.8,2.6-4.1,4.1v3.7h-2.8
+			c-0.5,0.7-0.9,1.4-1.3,2h4.2v5.7h-5.7v-3c-0.8,1.6-1.6,3.3-2.2,5.1h0.2v5.7h-1.8c-0.1,0.7-0.3,1.4-0.4,2h2.2v5.7h-2.6
+			c0,0.3,0,0.6,0,0.9c0,0.4,0,0.7,0,1.1h2.6v5.7h-2.1c0.1,0.7,0.2,1.4,0.4,2.1h1.7v5.7h-0.1c0.6,1.7,1.3,3.3,2.2,4.9v-2.8h5.7v5.7
+			h-4.1c0.4,0.7,0.9,1.4,1.4,2h2.7v3.5c0.7,0.8,1.3,1.5,2,2.2v-5.7h5.7v5.7h-5.7c0.7,0.7,1.5,1.4,2.2,2.1h3.4v2.7
+			c0.7,0.5,1.4,0.9,2.1,1.4v-4h5.7v5.7h-2.8c1.6,0.8,3.2,1.5,4.8,2.1v-0.1h5.7v1.7c0.7,0.1,1.4,0.3,2,0.4v-2.1h5.7v2.6
+			c0.4,0,0.7,0,1.1,0c0.3,0,0.7,0,1,0v-2.6h5.7v2.1c0.7-0.1,1.4-0.2,2.1-0.4v-1.7h5.7v0.1c1.7-0.6,3.3-1.3,4.9-2.2h-2.9v-5.7h5.7
+			v4.1c0.7-0.4,1.4-0.9,2-1.3v-2.8h3.5c1.5-1.3,2.9-2.7,4.2-4.2v-3.6h2.8c0.5-0.7,0.9-1.4,1.4-2h-4.2v-5.7h5.7v3
+			c0.8-1.6,1.6-3.3,2.2-5h-0.2v-5.7h1.8c0.1-0.7,0.3-1.4,0.4-2.1h-2.2v-5.7h2.7c0-0.4,0-0.7,0-1.1c0-0.3,0-0.6,0-0.9h-2.7v-5.7h2.2
+			c-0.1-0.7-0.2-1.4-0.4-2h-1.9v-5.7h0.3c-0.7-1.8-1.4-3.6-2.3-5.2v3.2h-5.7v-5.7h4.3c-0.4-0.7-0.9-1.4-1.3-2h-2.9v-3.8
+			c-1.2-1.4-2.6-2.7-4-4h-3.8v-2.9c-0.7-0.5-1.4-0.9-2-1.4v4.3h-5.7V107h3.2c-1.7-0.9-3.5-1.7-5.3-2.3v0.3h-5.7V103
+			c-0.7-0.1-1.4-0.3-2.1-0.4v2.3h-5.7v-2.8C137.3,102.1,136.9,102.1,136.6,102.1z M104.6,159.1h-5.7v-5.7h5.7V159.1z M104.6,151.3
+			h-5.7v-5.7h5.7V151.3z M104.6,143.6h-5.7v-5.7h5.7V143.6z M104.6,135.9h-5.7v-5.7h5.7V135.9z M112.4,166.8h-5.7v-5.7h5.7V166.8z
+			 M112.4,159.1h-5.7v-5.7h5.7V159.1z M112.4,151.3h-5.7v-5.7h5.7V151.3z M112.4,143.6h-5.7v-5.7h5.7V143.6z M112.4,135.9h-5.7v-5.7
+			h5.7V135.9z M112.4,128.1h-5.7v-5.7h5.7V128.1z M112.4,120.4h-5.7v-5.7h5.7V120.4z M120.1,174.5h-5.7v-5.7h5.7V174.5z
+			 M120.1,166.8h-5.7v-5.7h5.7V166.8z M120.1,159.1h-5.7v-5.7h5.7V159.1z M120.1,151.3h-5.7v-5.7h5.7V151.3z M120.1,143.6h-5.7v-5.7
+			h5.7V143.6z M120.1,135.9h-5.7v-5.7h5.7V135.9z M120.1,128.1h-5.7v-5.7h5.7V128.1z M120.1,120.4h-5.7v-5.7h5.7V120.4z
+			 M127.8,182.2h-5.7v-5.7h5.7V182.2z M127.8,174.5h-5.7v-5.7h5.7V174.5z M127.8,166.8h-5.7v-5.7h5.7V166.8z M127.8,159.1h-5.7v-5.7
+			h5.7V159.1z M127.8,151.3h-5.7v-5.7h5.7V151.3z M127.8,143.6h-5.7v-5.7h5.7V143.6z M127.8,135.9h-5.7v-5.7h5.7V135.9z
+			 M127.8,128.1h-5.7v-5.7h5.7V128.1z M127.8,120.4h-5.7v-5.7h5.7V120.4z M127.8,112.7h-5.7V107h5.7V112.7z M135.5,182.2h-5.7v-5.7
+			h5.7V182.2z M135.5,174.5h-5.7v-5.7h5.7V174.5z M135.5,166.8h-5.7v-5.7h5.7V166.8z M135.5,159.1h-5.7v-5.7h5.7V159.1z
+			 M135.5,151.3h-5.7v-5.7h5.7V151.3z M135.5,143.6h-5.7v-5.7h5.7V143.6z M135.5,135.9h-5.7v-5.7h5.7V135.9z M135.5,128.1h-5.7v-5.7
+			h5.7V128.1z M135.5,120.4h-5.7v-5.7h5.7V120.4z M135.5,112.7h-5.7V107h5.7V112.7z M168.5,130.2h5.7v5.7h-5.7V130.2z M168.5,137.9
+			h5.7v5.7h-5.7V137.9z M168.5,145.6h5.7v5.7h-5.7V145.6z M168.5,153.4h5.7v5.7h-5.7V153.4z M160.8,114.7h5.7v5.7h-5.7V114.7z
+			 M160.8,122.5h5.7v5.7h-5.7V122.5z M160.8,130.2h5.7v5.7h-5.7V130.2z M160.8,137.9h5.7v5.7h-5.7V137.9z M160.8,145.6h5.7v5.7h-5.7
+			V145.6z M160.8,153.4h5.7v5.7h-5.7V153.4z M160.8,161.1h5.7v5.7h-5.7V161.1z M160.8,168.8h5.7v5.7h-5.7V168.8z M153.1,114.7h5.7
+			v5.7h-5.7V114.7z M153.1,122.5h5.7v5.7h-5.7V122.5z M153.1,130.2h5.7v5.7h-5.7V130.2z M153.1,137.9h5.7v5.7h-5.7V137.9z
+			 M153.1,145.6h5.7v5.7h-5.7V145.6z M153.1,153.4h5.7v5.7h-5.7V153.4z M153.1,161.1h5.7v5.7h-5.7V161.1z M153.1,168.8h5.7v5.7h-5.7
+			V168.8z M145.3,107h5.7v5.7h-5.7V107z M145.3,114.7h5.7v5.7h-5.7V114.7z M145.3,122.5h5.7v5.7h-5.7V122.5z M145.3,130.2h5.7v5.7
+			h-5.7V130.2z M145.3,137.9h5.7v5.7h-5.7V137.9z M145.3,145.6h5.7v5.7h-5.7V145.6z M145.3,153.4h5.7v5.7h-5.7V153.4z M145.3,161.1
+			h5.7v5.7h-5.7V161.1z M145.3,168.8h5.7v5.7h-5.7V168.8z M145.3,176.6h5.7v5.7h-5.7V176.6z M143.3,182.2h-5.7v-5.7h5.7V182.2z
+			 M143.3,174.5h-5.7v-5.7h5.7V174.5z M143.3,166.8h-5.7v-5.7h5.7V166.8z M143.3,159.1h-5.7v-5.7h5.7V159.1z M143.3,151.3h-5.7v-5.7
+			h5.7V151.3z M143.3,143.6h-5.7v-5.7h5.7V143.6z M143.3,135.9h-5.7v-5.7h5.7V135.9z M143.3,128.1h-5.7v-5.7h5.7V128.1z
+			 M143.3,120.4h-5.7v-5.7h5.7V120.4z M143.3,107v5.7h-5.7V107H143.3z"/>
+	</g>
+	<linearGradient id="Hopper_1_" gradientUnits="userSpaceOnUse" x1="239.8379" y1="248.2427" x2="115.1395" y2="123.5443">
+		<stop  offset="0" style="stop-color:#575756"/>
+		<stop  offset="1.551506e-02" style="stop-color:#5C5C5B"/>
+		<stop  offset="0.1168" style="stop-color:#797878"/>
+		<stop  offset="0.2181" style="stop-color:#8D8D8C"/>
+		<stop  offset="0.3188" style="stop-color:#999998"/>
+		<stop  offset="0.4178" style="stop-color:#9D9D9C"/>
+		<stop  offset="0.5404" style="stop-color:#969695"/>
+		<stop  offset="0.7126" style="stop-color:#848483"/>
+		<stop  offset="0.9133" style="stop-color:#676666"/>
+		<stop  offset="1" style="stop-color:#575756"/>
+	</linearGradient>
+	<path id="Hopper" fill="url(#Hopper_1_)" stroke="#424242" stroke-width="0.75" stroke-miterlimit="10" d="M136.4,81.3
+		c-35.1,0-63.6,28.5-63.6,63.6c0,35.1,28.5,63.6,63.6,63.6c35.1,0,63.6-28.5,63.6-63.6C200,109.7,171.6,81.3,136.4,81.3z
+		 M136.4,187.5c-23.6,0-42.7-19.1-42.7-42.7c0-23.6,19.1-42.7,42.7-42.7c23.6,0,42.7,19.1,42.7,42.7
+		C179.1,168.4,160,187.5,136.4,187.5z"/>
+	<path id="Refection_3_" fill="#CFCFCE" d="M182,159.5c-4.9,25-26.9,43.9-53.3,43.9c-16.6,0-31.4-7.4-41.3-19.1
+		c11.5,14.4,29.3,23.7,49.2,23.7c28.1,0,51.9-18.5,60-43.9L182,159.5z"/>
+</g>
+</svg>

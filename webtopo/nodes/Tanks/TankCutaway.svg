@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Tank_Cutaway" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<linearGradient id="Button_1_" gradientUnits="userSpaceOnUse" x1="84.6875" y1="54.5879" x2="296.6875" y2="364.5879">
+	<stop  offset="0" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#7C7C7B"/>
+</linearGradient>
+<circle id="Button" fill="url(#Button_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-miterlimit="10" cx="150.1" cy="150.2" r="148"/>
+<linearGradient id="Symbol_1_" gradientUnits="userSpaceOnUse" x1="-111.9526" y1="-45.7607" x2="200.0474" y2="187.5723">
+	<stop  offset="0" style="stop-color:#6B6B6A"/>
+	<stop  offset="1" style="stop-color:#434343"/>
+</linearGradient>
+<path id="Symbol" fill="url(#Symbol_1_)" stroke="#575756" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M297.7,160.8c0.1-1.5,0.2-3,0.2-4.5c0-0.4,0-0.8,0-1.1c0.1-1.6,0.1-3.3,0.1-4.9c0-81.7-66.3-148-148-148c-81.7,0-148,66.3-148,148
+	c0,1,0,2.1,0,3.1c1.7,80.3,67.3,144.9,148,144.9c78.1,0,142.1-60.5,147.6-137.2C297.7,160.9,297.7,160.8,297.7,160.8z M150.1,292.2
+	c-76.7,0-139.2-60.8-141.8-136.8c13.7-3.9,33-9.7,65-9.7c66,0,76.8,37.9,156.5,37.9c22.4,0,43-4.3,60.4-9.8
+	C278.9,240.9,220.5,292.2,150.1,292.2z"/>
+</svg>

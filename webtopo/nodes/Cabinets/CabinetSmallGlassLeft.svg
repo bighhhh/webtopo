@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Copyright 2016 Siemens AG -->
+
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Cabinet_Small_Glass_Left" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" width="270px" height="300px" viewBox="0 0 270 300" enable-background="new 0 0 270 300" xml:space="preserve">
+<linearGradient id="Shape_Door_1_" gradientUnits="userSpaceOnUse" x1="259.8232" y1="292.084" x2="27.8232" y2="28.084">
+	<stop  offset="0" style="stop-color:#A5A5A5"/>
+	<stop  offset="7.963187e-03" style="stop-color:#A7A7A7"/>
+	<stop  offset="0.1273" style="stop-color:#C5C5C5"/>
+	<stop  offset="0.2297" style="stop-color:#D7D7D7"/>
+	<stop  offset="0.3025" style="stop-color:#DEDEDE"/>
+	<stop  offset="0.452" style="stop-color:#DADADA"/>
+	<stop  offset="0.6038" style="stop-color:#CECECF"/>
+	<stop  offset="0.7568" style="stop-color:#B9B9BC"/>
+	<stop  offset="0.9096" style="stop-color:#9D9DA1"/>
+	<stop  offset="0.9858" style="stop-color:#8C8C91"/>
+</linearGradient>
+<rect id="Shape_Door_3_" x="2.4" y="2.4" fill="url(#Shape_Door_1_)" stroke="#8C8C91" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="265.2" height="295.2"/>
+<g id="Handle_3_">
+	<linearGradient id="Shape_Handle_1_" gradientUnits="userSpaceOnUse" x1="270.2422" y1="378.9629" x2="209.6681" y2="37.483">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#7C7C7B"/>
+	</linearGradient>
+	<rect id="Shape_Handle_3_" x="236" y="191" fill="url(#Shape_Handle_1_)" width="11" height="51.4"/>
+	<polygon id="Shadow_1_" fill="#646567" points="232.3,187.4 232.3,242.5 236,242.5 236,191 247,191 247,187.4 	"/>
+	
+		<polyline id="Reflection_Line_3_" fill="none" stroke="#FFFFFF" stroke-width="0.75" stroke-linejoin="round" stroke-miterlimit="10" points="
+		247,187.4 247,242.4 232.3,242.4 	"/>
+</g>
+<g id="Technic">
+	<path id="Tape" fill="none" stroke="#646567" stroke-width="2" stroke-miterlimit="10" d="M51.4,139.5L170,94.4 M194,112.4
+		l-12.6,47.9 M160.8,175.8H53.6"/>
+	<path id="Technic_1_" fill="#646567" d="M50.1,54.1H20.6V24.5h29.5V54.1z M208.8,24.5h-70.1v14.8h70.1V24.5z M149.7,43h-11.1v11.1
+		h11.1V43z M164.5,43h-11.1v11.1h11.1V43z M179.3,43h-11.1v11.1h11.1V43z M194,43h-11.1v11.1H194V43z M208.8,43h-11.1v11.1h11.1V43z
+		 M64.8,39.3c-4.1,0-7.4,3.3-7.4,7.4c0,4.1,3.3,7.4,7.4,7.4c4.1,0,7.4-3.3,7.4-7.4C72.2,42.6,68.9,39.3,64.8,39.3z M46.4,135.2
+		c-12.2,0-22.1,9.9-22.1,22.1s9.9,22.1,22.1,22.1s22.1-9.9,22.1-22.1S58.6,135.2,46.4,135.2z M167.4,141.1
+		c-10.6,0-19.2,8.6-19.2,19.2c0,10.6,8.6,19.2,19.2,19.2c10.6,0,19.2-8.6,19.2-19.2C186.6,149.7,178,141.1,167.4,141.1z M202.2,102
+		c0,10.6-8.6,19.2-19.2,19.2c-10.6,0-19.2-8.6-19.2-19.2c0-10.6,8.6-19.2,19.2-19.2C193.6,82.8,202.2,91.4,202.2,102z M191.2,102
+		c0-4.6-3.7-8.3-8.3-8.3c-4.6,0-8.3,3.7-8.3,8.3s3.7,8.3,8.3,8.3C187.5,110.3,191.2,106.6,191.2,102z M27.9,209.1h-3.7v62.7h3.7
+		V209.1z M39,209.1h-3.7v62.7H39V209.1z M50.1,209.1h-3.7v62.7h3.7V209.1z M61.2,209.1h-3.7v62.7h3.7V209.1z M72.2,209.1h-3.7v62.7
+		h3.7V209.1z M83.3,209.1h-3.7v62.7h3.7V209.1z M94.4,209.1h-3.7v62.7h3.7V209.1z M105.4,209.1h-3.7v62.7h3.7V209.1z M116.5,209.1
+		h-3.7v62.7h3.7V209.1z M127.6,209.1h-3.7v62.7h3.7V209.1z M138.7,209.1H135v62.7h3.7V209.1z M149.7,209.1H146v62.7h3.7V209.1z
+		 M160.8,209.1h-3.7v62.7h3.7V209.1z M171.9,209.1h-3.7v62.7h3.7V209.1z M182.9,209.1h-3.7v62.7h3.7V209.1z M194,209.1h-3.7v62.7
+		h3.7V209.1z"/>
+</g>
+<linearGradient id="Reflection_1_" gradientUnits="userSpaceOnUse" x1="52.4546" y1="98.0029" x2="3.187" y2="54.2095">
+	<stop  offset="0" style="stop-color:#F2F2F2;stop-opacity:0.4"/>
+	<stop  offset="1" style="stop-color:#F7F7F7;stop-opacity:0.7"/>
+</linearGradient>
+<polygon id="Reflection" fill="url(#Reflection_1_)" points="2.7,2.8 2.7,267.1 185.3,2.8 "/>
+</svg>

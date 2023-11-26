@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+    <line x1="0" y1="-30" x2="0" y2="-10" stroke="red" stroke-width="1"/>
+    <line x1="-3" y1="-22" x2="3" y2="-28" stroke="red" stroke-width="1"/>
+    <line x1="-3" y1="-17" x2="3" y2="-23" stroke="red" stroke-width="1"/>
+    <line x1="-3" y1="-12" x2="3" y2="-18" stroke="red" stroke-width="1"/>
+    <line x1="0" y1="30" x2="0" y2="10" stroke="red" stroke-width="1"/>
+    <line x1="0" y1="-10" x2="0" y2="10" stroke="red" stroke-width="2"/>
+</svg>
