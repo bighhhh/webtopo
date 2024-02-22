@@ -1,0 +1,55 @@
+<svg width="298" height="198" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="border-box-9-gradient-ad86c383dcb64c4988130ec39df7e4a8" x1="0%" y1="0%" x2="100%" y2="100%">
+            <animate attributeName="x1" values="0%;100%;0%" dur="10s" begin="0s" repeatCount="indefinite"></animate>
+            <animate attributeName="x2" values="100%;0%;100%" dur="10s" begin="0s" repeatCount="indefinite"></animate>
+            <stop offset="0%" stop-color="#11eefd">
+                <animate attributeName="stop-color" values="#11eefd;#0078d2;#11eefd" dur="10s" begin="0s"
+                         repeatCount="indefinite"></animate>
+            </stop>
+            <stop offset="100%" stop-color="#0078d2">
+                <animate attributeName="stop-color" values="#0078d2;#11eefd;#0078d2" dur="10s" begin="0s"
+                         repeatCount="indefinite"></animate>
+            </stop>
+        </linearGradient>
+        <mask id="border-box-9-mask-ad86c383dcb64c4988130ec39df7e4a8">
+            <polyline stroke="#fff" stroke-width="3" fill="transparent" points="8, 79.2 8, 3, 126.2, 3"></polyline>
+            <polyline fill="#fff" points="8, 29.7 8, 3, 36.8, 3
+            29.8, 8 14, 8 14, 22.7
+          "></polyline>
+            <polyline stroke="#fff" stroke-width="3" fill="transparent" points="149, 3 295, 3, 295, 49.5"></polyline>
+            <polyline fill="#fff" points="
+            154.96, 3 172.83999999999997, 3
+            165.83999999999997, 9 161.96, 9
+          "></polyline>
+            <polyline fill="#fff" points="
+            268.2, 3 295, 3 295, 19.8
+            289, 12.8 289, 9 275.2, 9
+          "></polyline>
+            <polyline stroke="#fff" stroke-width="3" fill="transparent"
+                      points="8, 99 8, 195 96.39999999999999, 195"></polyline>
+            <polyline fill="#fff" points="
+            8, 108.9 8, 138.6
+            2, 131.6 2, 115.9
+          "></polyline>
+            <polyline stroke="#fff" stroke-width="3" fill="transparent"
+                      points="104.3, 195 295, 195 295, 69.3"></polyline>
+            <polyline fill="#fff" points="
+            274.16, 195 295, 195 295, 158.4
+            289, 165.4 289, 189 281.16, 189
+          "><animate attributeName="stroke" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+            </animate></polyline>
+        </mask>
+    </defs>
+    <polygon fill="transparent" points="
+      15, 9 30.8, 9 33.8, 6 156.96, 6
+      160.96, 10 165.83999999999997, 10 170.83999999999997, 6
+      270.2, 6 274.2, 10 288, 10 288, 13.8
+      292, 18.8 292, 159.4 288, 164.4
+      288, 188 281.16, 188  276.16, 192
+      11, 192 11, 27.7 15, 22.7
+    "><animate attributeName="stroke" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+    </animate></polygon>
+    <rect x="0" y="0" width="298" height="198" fill="url(#border-box-9-gradient-ad86c383dcb64c4988130ec39df7e4a8)"
+          mask="url(#border-box-9-mask-ad86c383dcb64c4988130ec39df7e4a8)"></rect>
+</svg>

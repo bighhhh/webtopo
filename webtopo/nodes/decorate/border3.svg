@@ -1,0 +1,100 @@
+<svg width="298" height="198" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032" height="150%" width="150%" x="-25%"
+                y="-25%">
+            <feMorphology operator="dilate" radius="2" in="SourceAlpha" result="thicken"></feMorphology>
+            <feGaussianBlur in="thicken" stdDeviation="3" result="blurred"></feGaussianBlur>
+            <feFlood result="glowColor" flood-color="#1f33a2"></feFlood>
+            <feComposite in="glowColor" in2="blurred" operator="in" result="softGlowColored"></feComposite>
+            <feMerge>
+                <feMergeNode in="softGlowColored"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <polygon fill="transparent" points="
+      20, 32 24, 32 44, 53
+      254, 53 274, 32
+      278, 32 290, 48 290, 173 278, 190
+      20, 190 8, 173 8, 50
+    "></polygon>
+    <polyline filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" fill="none" points="
+        24, 30
+        20, 30 7, 50 7, 65.5
+        13, 70.5 13, 150.5
+        7, 155.5 7, 171
+        20, 191 278, 191 291, 171
+        291, 155.5 285, 150.5
+        285, 70.5 291, 65.5
+        291, 50 278, 30 274, 30
+        254, 7 44, 7
+        24, 30 44, 52
+        254, 52 274, 30
+      " stroke="#8aaafb"><animate attributeName="stroke" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+    </animate></polyline>
+    <polygon fill="transparent" points="
+        269, 30 253, 11
+        247, 11 266, 34
+      " stroke="#8aaafb"><animate attributeName="fill" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+    </animate></polygon>
+    <polygon fill="transparent" points="
+        29, 30 46, 49
+        52, 49 32, 26
+      " stroke="#8aaafb"><animate attributeName="fill" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+    </animate></polygon>
+    <polygon fill="rgba(31,51,162,0.3)" filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" points="
+        263, 37 242, 11
+        47, 11 35, 23
+        57, 49 252, 49
+      " stroke="#8aaafb"></polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" opacity="1" points="
+        14, 37 -7, 37
+        -1, 46 20, 46
+      " fill="#8aaafb">
+        <animate attributeName="opacity" values="1;0.7;1" dur="2s" begin="0s" repeatCount="indefinite"></animate>
+    </polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" opacity="0.7" points="
+        -16, 37 -37, 37
+        -31, 46 -10, 46
+      " fill="#8aaafb">
+        <animate attributeName="opacity" values="0.7;0.4;0.7" dur="2s" begin="0s" repeatCount="indefinite"></animate>
+    </polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" opacity="0.5" points="
+        -46, 37 -67, 37
+        -61, 46 -40, 46
+      " fill="#8aaafb">
+        <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2s" begin="0s" repeatCount="indefinite"></animate>
+    </polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" opacity="1" points="
+        304, 37 283, 37
+        277, 46 298, 46
+      " fill="#8aaafb">
+        <animate attributeName="opacity" values="1;0.7;1" dur="2s" begin="0s" repeatCount="indefinite"></animate>
+    </polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" opacity="0.7" points="
+        334, 37 313, 37
+        307, 46 328, 46
+      " fill="#8aaafb">
+        <animate attributeName="opacity" values="0.7;0.4;0.7" dur="2s" begin="0s" repeatCount="indefinite"></animate>
+    </polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" opacity="0.5" points="
+        364, 37 343, 37
+        337, 46 358, 46
+      " fill="#8aaafb">
+        <animate attributeName="opacity" values="0.5;0.2;0.5" dur="2s" begin="0s" repeatCount="indefinite"></animate>
+    </polygon>
+    <text x="149" y="32" fill="#fff" font-size="18" text-anchor="middle" dominant-baseline="middle"
+          class="dv-border-box-11-title">
+
+    </text>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" points="
+        7, 68.5 11, 72.5
+        11, 148.5 7, 152.5
+      " fill="#8aaafb"><animate attributeName="fill" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+    </animate></polygon>
+    <polygon filter="url(#border-box-11-filterId-6dcc99501fa24f05bb0b37aab6b38032)" points="
+        291, 68.5 287, 72.5
+        287, 148.5 291, 152.5
+      " fill="#8aaafb"><animate attributeName="fill" values="#4fd2dd;#235fa7;#4fd2dd" dur="0.5s" begin="0s" repeatCount="indefinite">
+    </animate></polygon>
+</svg>

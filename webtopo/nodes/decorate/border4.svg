@@ -1,0 +1,13 @@
+<svg width="298" height="198" xmlns="http://www.w3.org/2000/svg">
+    <polygon fill="transparent" points="283, 22 170, 22 150, 7 40, 7 28, 21 32, 24 16, 42 16, 166 41, 191 283, 191"></polygon>
+    <polyline fill="none" points="145, 193 40, 193 10, 163 10, 40 40, 5 150, 5 170, 20 283, 20" class="dv-bb4-line-1" stroke="red"></polyline>
+    <polyline fill="none" points="245, 197 36, 197 14, 175 14, 98" class="dv-bb4-line-2" stroke="rgba(0,0,255,0.8)"></polyline>
+    <polyline fill="none" points="7, 158 7, 123" class="dv-bb4-line-3" stroke="red"></polyline>
+    <polyline fill="none" points="28, 24 13, 41 13, 64" class="dv-bb4-line-4" stroke="red"></polyline>
+    <polyline fill="none" points="5, 45 5, 140" class="dv-bb4-line-5" stroke="red"></polyline>
+    <polyline fill="none" points="14, 75 14, 180" class="dv-bb4-line-6" stroke="rgba(0,0,255,0.8)"></polyline>
+    <polyline fill="none" points="55, 11 147, 11 167, 26 250, 26" class="dv-bb4-line-7" stroke="rgba(0,0,255,0.8)"></polyline>
+    <polyline fill="none" points="158, 5 173, 16" class="dv-bb4-line-8" stroke="rgba(0,0,255,0.8)"></polyline>
+    <polyline fill="none" points="200, 17 288, 17" class="dv-bb4-line-9" stroke="red"></polyline>
+    <polyline fill="none" points="385, 17 288, 17" class="dv-bb4-line-10" stroke="rgba(0,0,255,0.8)"></polyline>
+</svg>
