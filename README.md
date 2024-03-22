@@ -30,4 +30,6 @@
 ~~预设轨迹位移~~<br>
 
 预览图：<br>
-![GitHub](https://gitee.com/huohuo0408/webtopo/raw/main/model.gif "GitHub,Social Coding")
+![GitHub][github]
+
+[github]: https://github.com/bighhhh/webtopo/blob/main/model.gif?raw=true  "GitHub,Social Coding"
