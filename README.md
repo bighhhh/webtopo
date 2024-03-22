@@ -8,6 +8,7 @@
 图元状态<br>
 组件库<br>
 装饰图元<br>
+右键自动添加图元相关点位的历史展示
 ~~图纸管理~~<br>
 
 事件：<br>
@@ -29,3 +30,4 @@
 ~~预设轨迹位移~~<br>
 
 预览图：<br>
+![GitHub](https://gitee.com/huohuo0408/webtopo/raw/main/model.gif "GitHub,Social Coding")
