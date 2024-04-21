@@ -31,3 +31,4 @@
 
 预览图：<br>
 ![Image text](https://github.com/bighhhh/webtopo/blob/694932ad20b3fd0b2647d1ef7039d63486849121/model.gif)
+![Image text](https://github.com/bighhhh/webtopo/blob/main/model2.gif?raw=true)
