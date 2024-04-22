@@ -35,3 +35,5 @@
 ![Image text](https://github.com/bighhhh/webtopo/blob/main/model2.gif)
 组合动画<br>
 ![Image text](https://github.com/bighhhh/webtopo/blob/main/model3.gif)
+根据数据位移<br>
+![Image text](https://github.com/bighhhh/webtopo/blob/main/model4.gif)
