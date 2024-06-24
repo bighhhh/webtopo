@@ -3,8 +3,8 @@
 
 > 基于 vue2+js 实现的 svg 可视化 web 组态编辑器。用户可直接将组件引入进自己系统，只需按要求配置好api，其他工作全部都组态系统完成。
 
-编辑器预览：https://bighhhh.github.io/webtopo/<br>
-正式环境预览：https://bighhhh.github.io/webtopo/?key=preview<br>
+编辑器预览：https://bighhhh.github.io/webtopo-ph-pages/<br>
+正式环境预览：https://bighhhh.github.io/webtopo-ph-pages/?key=preview<br>
 
 有问题请提[issue](https://gitee.com/huohuo0408/webtopo/issues)，以便帮助更多有相同问题的人
 
