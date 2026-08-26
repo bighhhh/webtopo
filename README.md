@@ -1,5 +1,15 @@
 # big-webtopo
 
+> **Vue 3 社区开源版**  
+> 本项目已升级 Vue 3 版本，并单独维护社区开源仓库，欢迎前往查看、使用与参与贡献：  
+> 👉 [webtopo-vue3-community](https://github.com/bighhhh/webtopo-vue3-community)
+>
+> **Vue 3 Community Edition**  
+> A Vue 3 community open-source edition is now available in a separate repository. Feel free to explore, use, and contribute:  
+> 👉 [webtopo-vue3-community](https://github.com/bighhhh/webtopo-vue3-community)
+
+---
+
 
 > 基于 vue2+js 实现的 svg 可视化 web 组态编辑器。用户可直接将组件引入进自己系统，只需按要求配置好api，其他工作全部都组态系统完成。
 
